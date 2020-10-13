@@ -19,3 +19,16 @@ To become a good Data Scientist, someone should first understand the important s
 
 Another useful knowledge in Data Science, is a basic understanding of linear algebra. This includes matrices and understanding the calculations with matrices.
 
+## Python
+
+Python is the most widely used programming language in data science. Although other languages could also be used, Python has some great advantages compared to other languages, and this is mainly due the great libraries that are available for working with data.
+
+## Python libraries
+
+Some of the moste importan Pyton libraries in data cience are:
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* sklearn
+
