@@ -21,6 +21,12 @@ Their seat arrangment could be either ABC, ACB, BAC, BCA, CAB or CBA.
 Example 2:
 In football predictions, we mark each match as either 1, 2 or X. If there are e.g. 13 matches, then there will be 3*3*3*...*3 = 3^13 different results.
 
+Example 3:
+How many 5 letter words can we create, regardles if they have a meaning?
+
+Example 4:
+How many 5-digit numbers can we create, without using the zero?
+
 **Combinations**
 When the order doesn’t matter
 
