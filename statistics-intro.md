@@ -11,6 +11,14 @@ When we throw a dice, there are 6 different outcomes and each one has a probabli
 * Picking a card:
 When we pick a card from a set of playing cards, there's a probability of 1/52 to choose a specific card, as there are 52 cards in the playing set. All the cards have the same probablility to be chosen, so the probability of each card is the total probability, which by definition is always 1, divided by the number of cards which is 52.
 
+## Probability distribution
+
+The probailities of the different outcomes of a random event, will always add to 1 (or 100%), which means that always one of the possible outcomes will take place. For example, depending on the season and the current weather conditions, tommorow, for example, there will be a probability of 0.7 (70%) to rain and a probability of 0.3 (30%) not to rain, but either way, only one of those outcomes will be true.
+
+There also some functions that are used in the probability theory, which help us to predict the outcome of various random events, and those functions are called "probablility distributions". The most common one is the Normal Distribution, which is a bell shaped didtribution used extensively in probablility and statistics.
+
+The common thing in those probability distributions is in their graphs. The area in those graphs always equals 1, which reflects the fact that the outcomes of a random event will always add to 1. 
+
 ## Permutations
 When the order does matter
 	* Permutations with repetition
@@ -50,3 +58,4 @@ Example:
 From 5 students (A, B, C, D, E) we would like to select a team of 2 students to take part in a contest.
 The diiferent teams could be either AB, AC, AD, AE, BC, BD, BE, CD, CE, DE. 
 *Combinations without repetition*
+
