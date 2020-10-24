@@ -44,9 +44,11 @@ This means that it would be better to avoid sharing your data in CSV or TXT form
 
 ## CSV Files
 
-CSV means "Comma Seperated Values" but actually this applies only when the format for the decimal numbers is 1.23 
+Excel provides the option to save a file in CSV format. 
 
-When the format used by Excel is 1,23 then obviously the CSV files cannont have the comma as a seperator because the comma is already being used in the decimal numbers. In this case, Excel uses the semicolon to separate the values in the CSV files.
+CSV means "Comma Seperated Values" but even if the data in a CSV file are separeted by a semicolon, or a tab, or a space, this type of file would still be called CSV (Comma Seperated Values).
 
-But even if the data in a CSV file are separeted by a semicolon, or a tab, or a space, this type of file would always be called CSV (Comma Seperated Values).
+Whenever the format of the decimal numbers is 1.23 then Excel uses the comma (,) to seperate the values in a CSV file.
+
+Whenever though the format used by Excel is 1,23 then obviously the CSV files cannont have the comma as a seperator because the comma is already being used in the decimal numbers. In this case, Excel uses the semicolon to separate the values in the CSV files.
 
