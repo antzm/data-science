@@ -36,9 +36,9 @@ Whenever we export an Excel file in CSV format, all the extra information about 
 
 So, whenever we import data to Excel, from a CSV or a TXT file, the decimal numbers should have the same format as the one that Excel uses, otherwise those numbers will be treated as text. In such a case, we need to change the decimal point from comma to dot, or vice versa, and then convert those strings to a numbers.
 
-## Conclusion
+## Sharing data
 
-The safest and easiest way to share data between countries that use different representations for the decimal numbers, is by using an Excel file that has been saved as .xls or .xlsx because it will always represent the decimal numbers correctly.
+From the above we conclude that the safest and easiest way to share data between countries that use different representations for the decimal numbers, is by using an Excel file that has been saved as .xls or .xlsx because it will always represent the decimal numbers correctly.
 
 This means that it would be better to avoid sharing your data in CSV or TXT format because the person who will use them, may have to go through a lot of work to make the decimal numbers appear correctly.
 
@@ -52,3 +52,18 @@ Whenever the format of the decimal numbers is 1.23 then Excel uses the comma (,)
 
 Whenever though the format used by Excel is 1,23 then obviously the CSV files cannont have the comma as a seperator because the comma is already being used in the decimal numbers. In this case, Excel uses the semicolon to separate the values in the CSV files.
 
+## Date format
+
+Excel accepts dates starting from 1/1/1900 and stores them as integer numbers. The date 1/1/1900 corresponds to 1 and every date since then is stored as an integet number that shows how many days have passed since 1/1/1900.
+
+Dates before 1/1/1900 are stored as text.
+
+## Time format
+
+Excel saves the time as a decimal number between 0 and 1 and this applies regardless if the time is expressed as hours:minutes or as hours:minutes:seconds.
+
+## Date and Time format
+
+Combining date and time into a single cell, means that this foramt is stored as a decimal number. The integer part of the number shows the date while the decimal part shows the time.
+
+In this case, removing the decimal part we get the date, while removing the integer part we get the time.
