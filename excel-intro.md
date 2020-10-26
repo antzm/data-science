@@ -64,6 +64,6 @@ Excel saves the time as a decimal number between 0 and 1 and this applies regard
 
 ## Date and Time format
 
-Combining date and time into a single cell, means that this foramt is stored as a decimal number. The integer part of the number shows the date while the decimal part shows the time.
+There's an option to format a cell so to contain both a date and a time. Combining the date and the time into a single cell, means that the foramt is stored as a decimal number. The integer part of this number shows the date, while the decimal part shows the time. In this case, removing the decimal part gives us the date, while removing the integer part  gives us the time.
 
-In this case, removing the decimal part we get the date, while removing the integer part we get the time.
+In fact though, we would get the exact same result if we just add a date and time together, using the plus (+) operator. Thus, it would be better and simpler to use columns that store seperately the date and the time, and if we ever need to combine them, we could simply add the date and the time.
