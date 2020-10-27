@@ -25,10 +25,18 @@ Python is the most widely used programming language in data science. Although ot
 
 ## Python libraries
 
-Some of the moste importan Pyton libraries in data cience are:
+Some of the moste important Pyton libraries in data science are:
 * numpy
 * pandas
 * matplotlib
 * seaborn
 * sklearn
+
+## Machine learning algorithms
+
+In data science, we use existing data to scientifically predict future trends. The most modern way to accomplish this, is by using various machine learning algorithms and methods. Thus, a thorough understanding of machine learning is essential in data science.
+
+## Cloud computing
+
+It's almost impossible to use an average modern computer for very demanding computations. For this reason, everyone in fhe field of data science must have a very good knowledge of at least one cloud computing platform, which will provide the means for analysing demanding data sets and creating machine learning models.
 
