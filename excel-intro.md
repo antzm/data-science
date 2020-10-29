@@ -67,3 +67,11 @@ Excel saves the time as a decimal number between 0 and 1 and this applies regard
 There's an option to format a cell so to contain both a date and a time. Combining the date and the time into a single cell, means that the foramt is stored as a decimal number. The integer part of this number shows the date, while the decimal part shows the time. In this case, removing the decimal part gives us the date, while removing the integer part  gives us the time.
 
 In fact though, we would get the exact same result if we just add a date and time together, using the plus (+) operator. Thus, it would be better and simpler to use columns that store seperately the date and the time, and if we ever need to combine them, we could simply add the date and the time.
+
+## Spliting columns
+
+Sometimes we may need to split a column into multiple columns. For example, we may have one column which contains names and we may want to split that column into two columns, one with the names and on with the surnames.
+
+To accomplish this, we can use the option "Text to columns", which we can find in the "Data" ribon. In that option, we need to set the delimiter e.g. space, that Excel will use to split the data into columns.
+
+Altrenativley, we could export those data as a text file, and then import them as extrenal data and use the space as delimiter.
