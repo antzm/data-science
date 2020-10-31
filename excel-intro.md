@@ -75,3 +75,11 @@ Sometimes we may need to split a column into multiple columns. For example, we m
 To accomplish this, we can use the option "Text to columns", which we can find in the "Data" ribon. In that option, we need to set the delimiter e.g. space, that Excel will use to split the data into columns.
 
 Altrenativley, we could export those data as a text file, and then import them as extrenal data and use the space as delimiter.
+
+## Combining columns
+
+If we would like to combine columns in Excel, we can use the `&` operator as `= A1 & A2 & A3` and if we would like to add a space or another character between the columns, we could use the `&` operator as: `= A1 & " " & A2 & " " & A3`
+
+## File format
+
+Saving an Excel file to .xlsx (default format) will save the complete Excel sheets, which have a size of 1048576 * 16384 but if an Excel file is saved to the old format .xls then the Excell sheets will be saved with a size of 65536 * 256 and any data outside of this range will not be saved.
