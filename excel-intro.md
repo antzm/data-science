@@ -1,5 +1,9 @@
 # Excel Intro
 
+Below are some important notes on Excel, which could be useful for every data scientist.
+
+It's a short introduction to some specialized aspects of Excel.
+
 ## Comma vs Semicolon
 
 Depending on the country, decimal numbers are written either as 1.23 or 1,23 and Excel automatically uses the correct format, depending on the regional settings of the computer.
@@ -34,7 +38,9 @@ Whenever we export an Excel file in CSV format, all the extra information about 
 
 ## Importing Data
 
-So, whenever we import data to Excel, from a CSV or a TXT file, the decimal numbers should have the same format as the one that Excel uses, otherwise those numbers will be treated as text. In such a case, we need to change the decimal point from comma to dot, or vice versa, and then convert those strings to a numbers.
+So, whenever we import data to Excel, from a CSV or a TXT file, the decimal numbers should have the same format as the one that Excel uses, otherwise those numbers will be treated as text. In such a case, we need to change the decimal point from comma to dot, or vice versa, and then convert those strings to a number.
+
+Obviously, it would be preferable to import data from a CSV or TXT file in the same decimal format, as the one that we use in our computer. Whenever though this is not possible, we can use the function `SUBSTITUTE()` in order to replace the dot or the comma in the decimal numbers, and then the function `VALUE()` to transform those strings to numbers.
 
 ## Sharing data
 
