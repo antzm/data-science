@@ -59,3 +59,14 @@ From 5 students (A, B, C, D, E) we would like to select a team of 2 students to 
 The diiferent teams could be either AB, AC, AD, AE, BC, BD, BE, CD, CE, DE. 
 *Combinations without repetition*
 
+## Normal distribution
+
+The Normal distribution is the most widely used probability distribution, as it represents a wide variety of cases. For example:
+
+* The time needed to go to work is represented by a normal distribution. Most days of the week it would be something close to a certain value, while rarely the time would be extremely longer or extremely shorter, compared to that value.
+
+* The height of the trees in a forest is around a certain height, while very few trees are extremely tall or extremely short.
+
+* The temperatures in a city are around a certain value, for every season, and only during fews days the temperatures are extrmemly height or extremely low, compared to their usual value.
+
+The Normal distribution therefore can be used in many cases and its main characteristic is that it resembles a bell shaped distribution.
