@@ -12,15 +12,15 @@ If the format 1.23 is used, then the arguments in the Excel functions should be 
 
 Otherwise, if the format 1,23 is used, then the arguments in the Excel functions should be separated with a semicolon (;) as the comma is reserved for the decimal numbers.
 
-Thus, if we would like to use the RANDINT() function to get a random number i.e. between 1 and 100, then we should write:
+Thus, if we would like to use the RANDBETWEEN() function to get a random number i.e. between 1 and 100, then we should write:
 
 * In the American versions of Excel, or when we write decimals as 1.23:
 
-=RANDINT(1, 100)
+=RANDBETWEEN(1, 100)
 
 * In the European versions of Excel, or when we write decimal as 1,23:
 
-=RANDINT(1; 100)
+=RANDBETWEEN(1; 100)
 
 > Important: Sometimes we may find on-line examples where the comma is used to seperate the arguments in an Excel function. If though we are using a European version of Excel, those examples simply won't work and we should firstly replace all the commas with semicolons, so that the functions will work.
 
@@ -88,4 +88,5 @@ If we would like to combine columns in Excel, we can use the `&` operator as `= 
 
 ## File format
 
-Saving an Excel file to .xlsx (default format) will save the complete Excel sheets, which have a size of 1048576 * 16384 but if an Excel file is saved to the old format .xls then the Excell sheets will be saved with a size of 65536 * 256 and any data outside of this range will not be saved.
+Saving an Excel file to .xlsx (default format) will save the complete Excel sheets, which have a size of 1048576 * 16384 cells but if an Excel file is saved to the old format .xls then the Excell sheets will be saved with a size of 65536 * 256 cells and any data outside of this range will not be saved (there will be though a warning about this).
+
