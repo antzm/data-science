@@ -1,3 +1,4 @@
+
 # Probability and Statistics Main Concepts
 
 ## Probablilities
@@ -70,3 +71,12 @@ The Normal distribution is the most widely used probability distribution, as it 
 * The temperatures in a city are around a certain value, for every season, and only during fews days the temperatures are extrmemly height or extremely low, compared to their usual value.
 
 The Normal distribution therefore can be used in many cases and its main characteristic is that it resembles a bell shaped distribution.
+
+## Population vs Sample
+
+In statistical terminology, a population is anything that we would like to study and thus, it can refer to people, animals, plants but also in any item we could think of.
+
+If we would like to study the people living in a big city, the population we are interested in, is the population of that city. But if we would like to study the grades of the highschool students in that city, then the population we are interested in, is the population of the highschool students.
+
+In a similar way, if we want to study the trees in a forest, then the population we are interested in, is the total number of threes in that forest. But if we would like to study only the fir trees in that forest, then we will define our population as the total number of fir trees in that forest. In case though we are interested only in the fir trees above 2 meters high, then we will define our population as the total number of fir trees in that forest that are above 2 meters height.
+
