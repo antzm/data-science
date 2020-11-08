@@ -90,3 +90,18 @@ If we would like to combine columns in Excel, we can use the `&` operator as `= 
 
 Saving an Excel file to .xlsx (default format) will save the complete Excel sheets, which have a size of 1048576 * 16384 cells but if an Excel file is saved to the old format .xls then the Excell sheets will be saved with a size of 65536 * 256 cells and any data outside of this range will not be saved (there will be though a warning about this).
 
+## Logical operators
+
+The logical operators in Excel are =, >, >=, <, <= <>. The result of the logical operators appears as TRUE or FALSE. 
+
+We can use AND with this format:
+
+=AND(A1>0; A2>0; A3>0)
+
+While for OR we should use this format:  
+
+=OR(A1>0; A2>0; A3>0)
+
+It's much simpler to perform the neccesary logical operators first, and then to use the if function on the logical results. Obviously we could use the if function directly, but when using many logical operators its format looks rather complicated and it's easier to make a mistake.
+
+
