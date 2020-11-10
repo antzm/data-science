@@ -90,3 +90,16 @@ Usually, the only time that we can actually see how good the predictions from th
 The gullops that take place before the elections, are not so representative compared to the exit polls, because some voters may change their vote untill the election day.
 
 There are also cases where although it's possible to have access to the complete population, we are not interested to study the complete population. One example is the number of smart phones that a factory produces. We need to use a sample of those phones for quality tests, but not all the phones that the factory produces. The quality tests may destroy the devices that are tested, so it wouldn't make sense to run a quality test for every phone that the factory produces. Instead, based on the quality tests that take place on a sample of the total phones produced, it helps to understand the quality of the phones produced by that factory, and to improve the manufacturing quality whenever is neccesary.
+
+## Descriptive statistics
+
+Descriptive statistics uses the available data to draw conclusions about what happend in the past. It analyzes the available data and presnts the results in a consice way that can be easily understood and intrpreted. These results though, refer exclusively to the data that was analyzed, while the conclusions from that data, have no broader or more generalized application.
+
+> Descriptive statistics is used by the Data Analysts.
+
+## Inferential statisctis
+
+Inferential statistics on the other hand, not only uses the tools available to the decriptive statistics, but it goes further as it uses the available data from a sample, in oder to make inferences for a population, and also to predict future tendencies based on the available data.
+
+> Inferential statistics is used by the Data Scientists.
+
