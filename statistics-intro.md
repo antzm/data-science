@@ -105,14 +105,25 @@ Inferential statistics on the other hand, not only uses the tools available to t
 
 ## Hypothesis testing
 
-In every football game there is a refferee who ensures that the rules of the game are folloled by all the players, and so the result of the game is as objective as possible.
+In every football game there is a refferee who ensures that the rules of the game are followed by all the players, and so the result of the game is as objective as possible.
 
 It wouldn't make much sense if we had let the teams make such decisions, as each team would tend to favour itself.
 
-The exaxt same approach is used in statistics, because it wouldn't make much sense to let every researcher decide by himeself or by herself, on the quality of his or her own research.
+The exaxt same approach is used in statistics, because it wouldn't make much sense to let every researcher decide by himeself or by herself, about the quality of his or her own research.
 
 Thus, we also need a referee in statistics that would make decisions in an objective way, as much as possible.
 
 This referee is called "Hypothesis testing" and is used throughout inferential statistics for every single decision that a statistician, a researcher or a data scientist has to make.
 
 In statistics though, the boundaries are not so clear as in a foorball game where, most of the time at lest, it's very clear if there was a goal or not. Instead, in statistics there's no way to be 100% sure that the correct decision has actually been made.
+
+We cannot make decisions with 100% certaintly in statistics, but most of the time we consider that a 95% probability to be correct is acceptable, and usually this is the level of certaintly that most researchers and data scientists use.
+
+In a hypothesis testing we always compare two hypotheses.
+
+The first one is called the null hypothesis, and it always corresponds to A being equal with B.
+
+While the second one is called the alternetive hypothesis, ant it always coresponds to A being different than B.
+
+The important thing to remeber is that the null hypothesis correspons always to being equal, while the alternative hypothesis always corresponds to being different.
+
