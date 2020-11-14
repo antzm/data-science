@@ -126,6 +126,10 @@ In statistical notation, both English and Greek letters are used. It's very impo
    * σ = population standard deviation
    * ρ = population correlation coefficient
 
+In inferential statistics, we use a sample in order to draw conclusions about a population. Thus, we use sample parameters, denoted with English letters, in order to estimate the unknown population parameters, denoted with Greek letters.
+
+The better the quality of the sample, the better will be the estimation of the population parameters.
+
 
 ## Hypothesis testing
 
@@ -150,4 +154,10 @@ The first one is called the null hypothesis, and it always corresponds to A bein
 While the second one is called the alternetive hypothesis, ant it always coresponds to A being different than B.
 
 The important thing to remeber is that the null hypothesis correspons always to being equal, while the alternative hypothesis always corresponds to being different.
+
+## Hypothesis testing - Example 1
+
+Let's assume that a factory produces light bulbs with an average duration of 1000 hours. A new production technique though, will produce light bulbs with an average duration of 1050 hours. The managers though wonder if it woulbe be worthy to switch to the new production techinque, so to advertise that their new bulds last longer.
+
+
 
