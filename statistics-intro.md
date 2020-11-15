@@ -159,5 +159,31 @@ The important thing to remeber is that the null hypothesis correspons always to 
 
 Let's assume that a factory produces light bulbs with an average duration of 1000 hours. A new production technique though, will produce light bulbs with an average duration of 1050 hours. The managers though wonder if it woulbe be worthy to switch to the new production techinque, so to advertise that their new bulds last longer.
 
+Using our logic, we would say that 1050 is better than 1000, but things in statistics are somehow different. In our case, we are not comparing the duration values of two bulbs, but the average duration of two sets of bulbs. And also, those two sets represent just two small samples of the millions of the bulbs that the factory produces.
 
+If we make a histogram for each sample, we get a distribution for that sample where we can see the average value and the variance.
 
+But in statistics, we are not interested for the sample itself but rather for the population, from where that sample was collected.
+
+In this case, our approach is to statistically test if those two samples belong to the same population (with an average of 1000) or if they belong to two different populations (with averages of 1000 and 1050 respectively).
+
+Thus, the null hypothesis H0 would be  
+
+H0: μ1=μ2 or  
+H0: μ1-μ2=0  
+
+(μ1-μ2=0 means that there are no differences in the means, and this is why we call it the null hypothesis)
+
+While the alternative hypothesis Η1 would be
+
+H1: μ1<>μ2
+
+Where we want to test if the means are different
+
+In some other cases though, we could also use these alternatives hypotheses:
+
+Η1: μ1<μ2 or Η1: μ1>μ2
+
+But usually, the most common case is to test for inequality in the alternative hypothesis, which is called a two-sided test. If though we only test for greater or smaller in the alternative hypothesis, it's called one-sided test.
+
+> The important thing to remember is that the null hypothesis H0 always tests for equality while the alternatve hypothesis H1 always tests for inequality (either not equal, or greater, or smaller)
