@@ -155,6 +155,7 @@ While the second one is called the alternetive hypothesis, ant it always corespo
 
 The important thing to remeber is that the null hypothesis correspons always to being equal, while the alternative hypothesis always corresponds to being different.
 
+
 ## Hypothesis testing - Example 1
 
 Let's assume that a factory produces light bulbs with an average duration of 1000 hours. A new production technique though, will produce light bulbs with an average duration of 1050 hours. The managers though wonder if it woulbe be worthy to switch to the new production techinque, so to advertise that their new bulds last longer.
@@ -187,3 +188,26 @@ In some other cases though, we could also use these alternatives hypotheses:
 But usually, the most common case is to test for inequality in the alternative hypothesis, which is called a two-sided test. If though we only test for greater or smaller in the alternative hypothesis, it's called one-sided test.
 
 > The important thing to remember is that the null hypothesis H0 always tests for equality while the alternatve hypothesis H1 always tests for inequality (either not equal, or greater, or smaller)
+
+
+## Hypothesis testing - Example 2
+
+Let's use a different example now. A factory produces light bulbs and has two lines of production, A and B. Both lines produce the same product but the machinery used, and the corresponding callibration, may be a little different between the two lines of production. Thus, we suspect that there might be a difference in the quality of the light bulbs produced, between the two lines.
+
+In this case, we have two populations. Population A corresponds to all the light bulbs produced from the production line A, while population B corresponds to all the light bulbs produced from the production line B.
+
+Theoritically, to find the exact average duration of the light bulbs in population A, we should take every single light bulb produced in line A, and then test it to see how long it will last. Obviously this is not possible, and for this reason we take only a small sample and based on that sample, we draw conclusions for the entire population.
+
+The exact same logic applies also to the light bulbs produced in the production line B.
+
+In this example, our purpose is to find if there is a difference in the quality of the ligh bulbs between production lina A and production line B.
+
+Theoritically, if we had the complete data for the entire population A, and also the complete data for the entire population B, we would have drawn the data distribution for population A, and the data distribution for population B, and then we would compare those distributions.
+
+Unfortunately though, we don't have the complete data for population A or B. For this reason, we estimate the population distribution based on a sample from population A, and a sample from population B.
+
+Then, we compare those estimated population distributions. If they overlap at a great extent, then we consider that the two population distributions are identical and only by chance they have a small difference between them.
+
+On the other hand, if they overap by a small percentage, then we consider those populations to be two distinct populations.
+
+And here we come to the big question in statistics. How can we decide if two populations are actually identical, or if they are actually two different populations?
