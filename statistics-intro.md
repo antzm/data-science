@@ -211,3 +211,17 @@ Then, we compare those estimated population distributions. If they overlap at a 
 On the other hand, if they overap by a small percentage, then we consider those populations to be two distinct populations.
 
 And here we come to the big question in statistics. How can we decide if two populations are actually identical, or if they are actually two different populations?
+
+
+## Hypothesis testing - statistical tests
+
+Almost everything we do in statistics, involves various hypotheses testings. So, first step is to create a Null Hypothesis and an Alternative Hypothesis and then, choose the proper statisctical test in order to check which one of the two hypotheses we should accept and which one we should reject.
+
+In a football game, we choose an experienced referee, in order to objectively judge if the rules are followed. For the same reason, we choose an experienced referee for a basketball game. But it wouldn't make much sense to choose a football referee in a basketball game, and vice versa.
+
+The same principle applies to statistics. There are various statistical tests availabe, like z-test, t-test, F-test, x square test etc. and the difficulty in statistics lies in choosing the correct statistical test for each situation. Otherwise, if we choose the wrong statistical test it would be like using a basketball referee in a football game.
+
+Then, depending on the results of the statistical test, we would either choose the Null Hypothesis or the Alternative Hypothesis.
+
+So, every decision in statistics involves a Hypothesis Testing and depending on the situation, we choose the proper statisitcal test which will tell us, in an objective way, if we should accept the Null or the Alternative Hypothesis.
+
