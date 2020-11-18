@@ -225,3 +225,17 @@ Then, depending on the results of the statistical test, we would either choose t
 
 So, every decision in statistics involves a Hypothesis Testing and depending on the situation, we choose the proper statisitcal test which will tell us, in an objective way, if we should accept the Null or the Alternative Hypothesis.
 
+
+## Hypothesis testing - level of significance
+
+One key aspect in hypothesis testing is the level of significance. Regardless of the statistical test that we will use, we will make our decisions based on the level of significance we choose. A different level of significance, will probably give us different results.
+
+As it has been mentioned earlier, in Hypotheis testing we use the Greek letter μ (μ1 and μ2) to compare two populations. We use Greek letters, because we refer to populations, and hypothesis testing is always about testing populations.
+
+Now, every time we compare two populations, we wonder if those population distributions are actually two different distributions or not. As both populations are unknown, we estimate the populations based on the two samples. So, different samples, could give us different results, and this is why we should use the proper sampling technique.
+
+But how we will decide if two populations are actually one population (apperaring as two because of the sampling we used) or if they are actually two different populations?
+
+It all depends on the overlapping of the two population distributions. Usually, when the overlapping between the two populations is more than 5%, then we consider that the two populations are actually one. Whenever though the overlaping is 5% or less, then we consider that the two populations are actually two different populations.
+
+This threshold of 5%, which determines our decisions, is called the level of signifiance and it's symbol is the greek letter α, and usually we use α=0.05 or α=5% (rarely though, we also use α=1% or α=0.01).
