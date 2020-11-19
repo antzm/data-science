@@ -239,3 +239,15 @@ But how we will decide if two populations are actually one population (apperarin
 It all depends on the overlapping of the two population distributions. Usually, when the overlapping between the two populations is more than 5%, then we consider that the two populations are actually one. Whenever though the overlaping is 5% or less, then we consider that the two populations are actually two different populations.
 
 This threshold of 5%, which determines our decisions, is called the level of signifiance and it's symbol is the greek letter α, and usually we use α=0.05 or α=5% (rarely though, we also use α=1% or α=0.01).
+
+## Hypothesis testing - Choosing between H0 and H1
+
+Regardless of the statistical test that we will use, we will always get a result which is a probability number between 0 and 1. When we choose the level of significance at 5% (0.05), then we have these two options.
+
+Probability result:
+   * Between 0.05 and 1 (0.05, 1]
+   * Between 0.00 and 0.05 [0.00, 0.05]
+
+If the result is in the range (0.05, 1], then the two population distributions overlap more than 5% and so the two distributions are actually just one, and only by chance they appear as two different distributions. In this case, we accept the null hypothesis H0 which states that the two distribution populations are equal (μ0 = μ1).
+
+On the other hand, if the result is in the range [0.00, 0.05], then the two population distributions overlap less than 5% and so they are actually two different distributions and thus, we accept the alternative hypothesis H1 which states that the two distribution populations are different (μ0 <> μ1).
