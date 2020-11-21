@@ -262,3 +262,18 @@ Probability result:
 Thus, when the probablity result is 0.01 and greater, then we accept the H0, as we consider that the two distributions are actually the same.
 
 On the other hand, if the probability result is 0.01 and smaller, then we accept the H1, as we consider that the two distributions are actually two different distributions.
+
+## Hypothesis Testing - Clarifications
+
+It may look strange that we can come to a conclusion that two population distributions are actually just one, but we should always remember that in statistics we are not comparing just numbers, but actually we are always comparing sets of numbers, so the comparison process is foundamentaly different.
+
+As an example, we could consider a forest and a researcher who would like to measure the height of the trees in that forest. It is a large forest though and there are thousands of trees in it, but the reasearcher is able to measure only 30 trees and based on that result, to draw conclusions about the whole forest.
+
+But how will the researcher select those 30 trees? One approach would be to use a map of the forest and split the map into e.g. 100 squares and then to randomly select only 30 of those squares. After that, the researcher will measure one tree in each square, e.g. the tree that is closest to the center of that square.
+
+Using this approach, the resarcher will randomly select and measure 30 trees, and based on that sample, the researcher will estimate the average height of all the trees in the forest.
+
+As we understand though, if 2 researchers follow independently this exact procedure, they will come up with 2 different estimations for the forest. To be exact, 2 different population distributions that actually depict the exact same forest. The reason this happens, is that each researcher makes estimations based on a different sample, and obviously no two samples would ever be the same.
+
+But the forest is just one, and it has only one population distribution which is unknown (because no one ever measuered the height of all the trees). So, one reasercher says that "this is the population distribution" while the other researcher says "no, this is the population distribution". But which one is actually the correct distribution?
+
