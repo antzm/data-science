@@ -263,6 +263,7 @@ Thus, when the probablity result is 0.01 and greater, then we accept the H0, as 
 
 On the other hand, if the probability result is 0.01 and smaller, then we accept the H1, as we consider that the two distributions are actually two different distributions.
 
+
 ## Hypothesis Testing - Clarifications
 
 It may look strange that we can come to a conclusion that two population distributions are actually just one, but we should always remember that in statistics we are not comparing just numbers, but actually we are always comparing sets of numbers, so the comparison process is foundamentaly different.
@@ -277,3 +278,10 @@ As we understand though, if 2 researchers follow independently this exact proced
 
 But the forest is just one, and it has only one population distribution which is unknown (because no one ever measuered the height of all the trees). So, one reasercher says that "this is the population distribution" while the other researcher says "no, this is the population distribution". But which one is actually the correct distribution?
 
+If we perform a Hypothesis Test in this case, between the results of the two researchers, we will have:
+
+H0: μ1 = μ2  
+Null Hypothesis: The estimate for the μ1 is equal with the estimate of the μ2, or, the two populations we are comparing, are actually one. In other words, both samples were actually collected from the exact same population. As for the terminology, the population mean which is based on the first sample is μ1, while the population mean which is based on the second sample is μ2. The sample means are x1 bar and x2 bar respectively, and based on those means we estimate the population means μ1 and μ2. The x1 bar and x2 bar are calulated with accuracy, as we use the sample data to calculate them. The μ1 though and the μ2 are unknown and we use the x1 bar and the x2 bar to estimate them. As mentioned before, English letters refer always to the samples and can be accurately calculated, while Greek letters refer always to the populations and can only be estimated.
+
+H1: μ1 <> μ2  
+Alternative Hypothesis: The estimate for the μ1 is not equal with the estimate of the μ2, or, the two populations are different and the samples came from two different populations.
