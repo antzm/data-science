@@ -285,3 +285,7 @@ Null Hypothesis: The estimate for the μ1 is equal with the estimate of the μ2,
 
 H1: μ1 <> μ2  
 Alternative Hypothesis: The estimate for the μ1 is not equal with the estimate of the μ2, or, the two populations are different and the samples came from two different populations.
+
+In this case, the expected result would be to accept the Null Hypothesis as both samples represent the same population, but if the sampling process was not representative of the population, there is a chance to accept the Alternative Hypothesis. In the first case, we get correcet results, but in the second case we get wrong results.
+
+Obvisously, here we know beforehand that we have just one population, but in real situations we never know such information and we always try to find out if two populations are actually the same or not.
