@@ -264,7 +264,7 @@ Thus, when the probablity result is 0.01 and greater, then we accept the H0, as 
 On the other hand, if the probability result is 0.01 and smaller, then we accept the H1, as we consider that the two distributions are actually two different distributions.
 
 
-## Hypothesis Testing - Clarifications
+## Hypothesis Testing - Clarification Example 1
 
 It may look strange that we can come to a conclusion that two population distributions are actually just one, but we should always remember that in statistics we are not comparing just numbers, but actually we are always comparing sets of numbers, so the comparison process is foundamentaly different.
 
@@ -289,3 +289,21 @@ Alternative Hypothesis: The estimate for the μ1 is not equal with the estimate 
 In this case, the expected result would be to accept the Null Hypothesis as both samples represent the same population, but if the sampling process was not representative of the population, there is a chance to accept the Alternative Hypothesis. In the first case, we get correcet results, but in the second case we get wrong results.
 
 Obvisously, here we know beforehand that we have just one population, but in real situations we never know such information and we always try to find out if two populations are actually the same or not.
+
+## Hypothesis Testing - Clarification Example 2
+
+In this example, we want to compare two varities of wheat. The first one is the variety that is currently being  cultivated by the farmers, while the second one is a new variety with higher yield, at least in the laboratory, and we want to test if it also has a higher yield in the field.
+
+In this example, we have seeds of the current variety and seeds of the new variety. We will compare the wheat plants that will grow from those seeds. This is our sample, while the population in this case are all the future plants that will grow from the seeds of each variety.
+
+So, in this example, the null and the alternative hypotheses will be as follow:
+
+H0: μ1 = μ2
+
+Η1 = μ1 < μ2
+
+Where μ1 is the population mean of the existing variety, and μ2 is the population mean of the new variety. The null hypothesis states that both varieties have actually the same population mean and only by chanche there is a difference between the two population mean estimates .
+
+The alternative hypothesis though, doesn't state that there is difference between the two varieties, but it is more specific as it states that the μ2 population mean is larger that the μ1 population mean.
+
+The reason is that we are not interested for a new variety that has just a different mean yield from the exiting variety, but instead we are only interestd for a variety that has a higher mean yield. Otherwise it wouldn't make any sense for the farmers to cultivate the new wheat variety.
