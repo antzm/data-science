@@ -306,4 +306,24 @@ Where μ1 is the population mean of the existing variety, and μ2 is the populat
 
 The alternative hypothesis though, doesn't state that there is difference between the two varieties, but it is more specific as it states that the μ2 population mean is larger that the μ1 population mean.
 
-The reason is that we are not interested for a new variety that has just a different mean yield from the exiting variety, but instead we are only interestd for a variety that has a higher mean yield. Otherwise it wouldn't make any sense for the farmers to cultivate the new wheat variety.
+The reason is that we are not interested for a new variety that has just a different mean yield from the existing variety, but instead we are only interestd for a variety that has a higher mean yield. Otherwise it wouldn't make any sense for the farmers to cultivate the new wheat variety.
+
+## One Way vs Two Way Statistical Tests
+
+As it has been mentioned earlier, the null hypothesis has always the equal sign in its comparison i.e. H0: μ1=μ2 and is called null because it could also be written as H0: μ1-μ2=0 which states that there are no differences between the two population means.
+
+Although it was also mentioned, we should always remember that hypothesis testing is always about populations and we never use hypothesis testing for samples. This is the reason why in hypothesis testing we use Greek letters like μ1 and μ2 for the population means. 
+
+Now, the alternative hypothesis examines the unequal i.e. Η0: μ1 <> μ2 and this is a two way statistical test. But there are also times where we are not interested if the populations are different but we want to know more specifically if the first population mean is greater or smaller compared to the second population mean.
+
+In this case, the alternative hypothesis would be written, depending on the situation we are testing, either as
+
+H1: μ1 > μ2
+
+or
+
+H1: μ1 < μ2
+
+So, in this case we are interested only in one of the sides of the population distribution, either the left or the right side, and not both sides as we did with with the hypothesis H1: μ1 <> μ2
+
+This is why we call these statistical tests as one-way tests.
