@@ -78,6 +78,20 @@ The Normal distribution is the most widely used probability distribution, as it 
 The Normal distribution therefore can be used in many cases and its main characteristic is that it resembles a bell shaped distribution.
 
 
+## Other probalility distributions
+
+Besides the Normal Distribution, there are noumerous other probablity distributions and one difficulty in statistics lies in choosing the appropriate probablity distribution for each case.
+
+The most comonly used probablity distributions are:
+
+* Binomial distribution
+* Poisson distribution
+* Normal distribution
+* Student's t distribution
+* Chi square sistribution
+* F distribution
+
+
 ## Population vs Sample
 
 In statistical terminology, a population is anything that we would like to study and thus, it can refer to people, animals, plants but also in any item we could think of.
