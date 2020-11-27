@@ -304,6 +304,7 @@ In this case, the expected result would be to accept the Null Hypothesis as both
 
 Obvisously, here we know beforehand that we have just one population, but in real situations we never know such information and we always try to find out if two populations are actually the same or not.
 
+
 ## Hypothesis Testing - Clarification Example 2
 
 In this example, we want to compare two varities of wheat. The first one is the variety that is currently being  cultivated by the farmers, while the second one is a new variety with higher yield, at least in the laboratory, and we want to test if it also has a higher yield in the field.
@@ -341,3 +342,20 @@ H1: μ1 < μ2
 So, in this case we are interested only in one of the sides of the population distribution, either the left or the right side, and not both sides as we did with with the hypothesis H1: μ1 <> μ2
 
 This is why we call these statistical tests as one-way tests.
+
+
+## Hypothesis testing - A metaphor
+
+In hypothesis testing we compare two population distributions and if they overlap a lot, then we considered them as one and the same population distribution.
+
+In a normal distribution, using a two-way test and a 5% level of significance, we will mark with a different colour the 2.5% of the right tail and the 2.5% of the left tail of the distribution. Those two areas are extremely important in every distribution.
+
+Then, when we compare two normal distributions (like the ones just discribed) we focus on the tails of the two distributions. Let's assume that the two distributions are coloured blue and that the 2.5% at the end of each tail is coloured red.
+
+If the blue color of one distribution overlaps with the blue color of the other distribution, then both distributions are the same. In other words, if we were able to take better samples, we would have seen that actually both distributions would be almost similar, and this why we considered them as one and the same distribution.
+
+Also, when a red colour from one distribution overalps with a blue color of the other distribution, we would also consider those distributions as one.
+
+If though, and only if, the red color from one distribution overlaps only with the red color of the other distribution, then we have two different distributions. It's the case when we select the alternative hypothesis.
+
+What about though if the two distribution don't overlap at all? Obviously, in this case we would also select the altrenative  hypothesis as we have two different populations. But to be exact, even in this case the red parts of the distributions ovelap because the tails of the normal distribution extend to infinity.
