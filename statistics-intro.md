@@ -350,12 +350,18 @@ In hypothesis testing we compare two population distributions and if they overla
 
 In a normal distribution, using a two-way test and a 5% level of significance, we will mark with a different colour the 2.5% of the right tail and the 2.5% of the left tail of the distribution. Those two areas are extremely important in every distribution.
 
-Then, when we compare two normal distributions (like the ones just discribed) we focus on the tails of the two distributions. Let's assume that the two distributions are coloured blue and that the 2.5% at the end of each tail is coloured red.
+Then, when we compare two normal distributions (like the ones just discribed) we focus on the tails of the two distributions. Let's assume that the two distributions are coloured green and that the 2.5% at the end of each tail is coloured red.
 
-If the blue color of one distribution overlaps with the blue color of the other distribution, then both distributions are the same. In other words, if we were able to take better samples, we would have seen that actually both distributions would be almost similar, and this why we considered them as one and the same distribution.
+If the green color of one distribution overlaps with the green color of the other distribution, then both distributions are the same. In other words, if we were able to take better samples, we would have seen that actually both distributions would be almost similar, and this why we considered them as one and the same distribution.
 
-Also, when a red colour from one distribution overalps with a blue color of the other distribution, we would also consider those distributions as one.
+Also, when a red colour from one distribution overalps with a green color of the other distribution, we would also consider those distributions as one.
 
 If though, and only if, the red color from one distribution overlaps only with the red color of the other distribution, then we have two different distributions. It's the case when we select the alternative hypothesis.
 
 What about though if the two distribution don't overlap at all? Obviously, in this case we would also select the altrenative  hypothesis as we have two different populations. But to be exact, even in this case the red parts of the distributions ovelap because the tails of the normal distribution extend to infinity.
+
+Now, let's think about a methaphor for a while. Let's imagine that the center 95% of a normal distribution corrsponds to a football field and that the two tails, of 2.5% each, correspond to the goalposts. The football field is green like the center part of our normal distribution while the goalposts, that correspond to the two tails of the distribution, we would consider them as red, just like the red tails of our normal distribution.
+
+Every football game gets really excited when a team scores a goal, otherwise the game may look a little boring and uniteresting without any goals at all. In other words, if the game takes place only in the green part of the field, it's a little boring, and it gets interesting only when the ball crosses the red part of the field, whenever a goal is scored.
+
+Well, the exact same logic applies also to the normal distribution. Things are a little boring in the main green part of the distribution, while they get really intereing in the red part of the distribution, or in other words in the 2.5% of both tails of the distribution.
