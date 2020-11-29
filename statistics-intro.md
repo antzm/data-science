@@ -365,3 +365,12 @@ Now, let's think about a methaphor for a while. Let's imagine that the center 95
 Every football game gets really excited when a team scores a goal, otherwise the game may look a little boring and uniteresting without any goals at all. In other words, if the game takes place only in the green part of the field, it's a little boring, and it gets interesting only when the ball crosses the red part of the field, whenever a goal is scored.
 
 Well, the exact same logic applies also to the normal distribution. Things are a little boring in the main green part of the distribution, while they get really intereing in the red part of the distribution, or in other words in the 2.5% of both tails of the distribution.
+
+
+## Hypothesis Testing - Out of ordinary
+
+Rephrasing the above, the null hypothesis represents the status-quo, the ordinary, the existing situation, while the alternative hypotheis represents the out of the ordinary, the unusual, the new discovery.
+
+When making reasearch, the data from a research experiment will either reinforce the existing situation (accepting the null hypothesis) or point towards a new interesting concept or maybe a new discovery (accepting the alternative hypothesis).
+
+So, in other words, the existing situation is represented with the center 95% of the Normal distribution, while the 2.5% of the left and the right tale represent the new discovery, either a small or a bigger discovery. Those red areas, show the place in the distribution where the interesting, the different and the unusual take place.
