@@ -40,3 +40,12 @@ In data science, we use existing data to scientifically predict future trends. T
 
 It's almost impossible to use an average modern computer for very demanding computations. For this reason, everyone in fhe field of data science must have a very good knowledge of at least one cloud computing platform, which will provide the means for analysing demanding data sets and creating machine learning models.
 
+
+**Contents**
+* [Introduction to to Excel](excel-intro.md)
+* [](matplotlib-intro.md)
+* [](numpy-intro.md)
+* [](pandas-intro.md)
+* [](python-intro.md)
+* [](sagemaker-intro.md)
+* [Introduction to statistics](statistics-intro.md)
