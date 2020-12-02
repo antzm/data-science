@@ -42,10 +42,10 @@ It's almost impossible to use an average modern computer for very demanding comp
 
 
 **Contents**
-* [Introduction to to Excel](excel-intro.md)
-* [](matplotlib-intro.md)
-* [](numpy-intro.md)
-* [](pandas-intro.md)
-* [](python-intro.md)
-* [](sagemaker-intro.md)
 * [Introduction to statistics](statistics-intro.md)
+* [Introduction to to Excel](excel-intro.md)
+* [Introduction to python](python-intro.md)
+* [Introduction to numpy](numpy-intro.md)
+* [Introduction to pandas](pandas-intro.md)
+* [Introduction to matplotlib](matplotlib-intro.md)
+* [Introduction to sagemaker](sagemaker-intro.md)
