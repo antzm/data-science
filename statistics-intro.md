@@ -367,14 +367,16 @@ Every football game gets really excited when a team scores a goal, otherwise the
 Well, the exact same logic applies also to the normal distribution. Things are a little boring in the main green part of the distribution, while they get really intereing in the red part of the distribution, or in other words in the 2.5% of both tails of the distribution.
 
 
-## Hypothesis Testing - Out of ordinary
+## Hypothesis Testing - Out of the ordinary
 
 Rephrasing the above, the null hypothesis represents the status-quo, the ordinary, the existing situation, while the alternative hypotheis represents the out of the ordinary, the unusual, the new discovery.
 
 When making reasearch, the data from a research experiment will either reinforce the existing situation (accepting the null hypothesis) or point towards a new interesting concept or maybe a new discovery (accepting the alternative hypothesis).
 
-So, in other words, the existing situation is represented with the center 95% of the Normal distribution, while the 2.5% of the left and the right tale represent the new discovery, either a small or a bigger discovery. Those red areas, show the place in the distribution where the interesting, the different and the unusual take place.
+So, in other words, the existing situation is represented with the center 95% of the Normal distribution, while the 2.5% of the left and the right tale represent the new discovery, either a small or a bigger discovery. Those red areas, show the place in the distribution where the interesting, the different and the unusual take place. And whenever we reach those areas, we are actually leaving the existing distribution and we are moving towards a new distribution, which lies either in the right or the left side of that distribution.
 
 To clarify things a little more, if the statistical test used gives us a probality inside the 2.5% of the two tails, then this means that the tails of the distribution, which corresponds to the populatation with a mean of μ1, actually they don't belong to the μ1 population but in fact are the tails of the μ2 population and it just happens that the tails of the μ1 and μ2 distribution simply overlap.
 
 Let's also picture the situation in a different way. We have two distributions, next to each other, and either they overlap a little or they overal a lot. How do we decide if those distributions are actually one or two? We will use a statistical test which will act as a referee and it will draw a vertical line between those distributions. If that line goes through the 95% main part of the first distribution, then the two distributions are the same. But if the line goes through the 2.5% of either tail, of the first distribution, then the two distributions are different.
+
+The first distribution is considered the one that we are using in the null hypothesis while the second distribution is considered the one we are comaring with in the alternative hypothesis.
