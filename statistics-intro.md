@@ -379,4 +379,10 @@ To clarify things a little more, if the statistical test used gives us a probali
 
 Let's also picture the situation in a different way. We have two distributions, next to each other, and either they overlap a little or they overal a lot. How do we decide if those distributions are actually one or two? We will use a statistical test which will act as a referee and it will draw a vertical line between those distributions. If that line goes through the 95% main part of the first distribution, then the two distributions are the same. But if the line goes through the 2.5% of either tail, of the first distribution, then the two distributions are different.
 
-The first distribution is considered the one that we are using in the null hypothesis while the second distribution is considered the one we are comaring with in the alternative hypothesis.
+The first distribution is considered the one that we are using in the null hypothesis, while the second distribution is considered the one we are comparing with in the alternative hypothesis.
+
+So, whenever the statistical test we are using tells us to move outside of the 95% main part of our existing distribution, towards the newer distribution that we are comparing, then in practical terms this means that we have just discovered something, which is either something of a smaller or something of a greater importance.
+
+On the other hand though, if we accept the null hypothesis then this means that we are actually verifying the discoveries of other previous researchers, as we come to the conlusion that what has been accepted as true all this time, is actually true.
+
+As an example, let's assume that a researcher would like to test the hypothesis that the emotional intelligence EQ (or emotional quotient) is affected by our exposure to sunlight. And let's assume that some previous researchers who studied this hypothesis in the past, found that there is no effect between EQ and exposure to sunlight.
