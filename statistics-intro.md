@@ -386,3 +386,11 @@ So, whenever the statistical test we are using tells us to move outside of the 9
 On the other hand though, if we accept the null hypothesis then this means that we are actually verifying the discoveries of other previous researchers, as we come to the conlusion that what has been accepted as true all this time, is actually true.
 
 As an example, let's assume that a researcher would like to test the hypothesis that the emotional intelligence EQ (or emotional quotient) is affected by our exposure to sunlight. And let's assume that some previous researchers who studied this hypothesis in the past, found that there is no effect between EQ and exposure to sunlight.
+
+So, this researcher takes a sample from the people who live in the northern part of a country, with less sunshine, and another sample from the people living in the south part of the country, which has more sunshine.
+
+The null hypothesis is that there are no differneces in the mean EQ values between the north and the south part of the country. In this case, if the statistical test tells us to accept the null hypothesis, then the researcher is simply reinforcing the existing research.
+
+On the other hand, if the researcher will find out that the null hypothesis should not be accepted then he or she has obviously discovered something new which is completely different from what the previous researchers had discobered.
+
+ 
