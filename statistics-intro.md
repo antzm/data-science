@@ -391,6 +391,14 @@ So, this researcher takes a sample from the people who live in the northern part
 
 The null hypothesis is that there are no differneces in the mean EQ values between the north and the south part of the country. In this case, if the statistical test tells us to accept the null hypothesis, then the researcher is simply reinforcing the existing research.
 
-On the other hand, if the researcher will find out that the null hypothesis should not be accepted then he or she has obviously discovered something new which is completely different from what the previous researchers had discobered.
+On the other hand, if the researcher will find out that the null hypothesis should not be accepted, then he or she has obviously discovered something new which is completely different from what the previous researchers had discovered.
 
- 
+## Hypothesis Testing - Overwiew
+
+The important thing is to rember that we construct a null hypothesis H0 where we test fo equality, and an alternative hypothesis H1 where we test for inequality.
+
+It would be a mistake if we would construct a null hypothesis to test for inequality, as in the null hypothesis we use always the equal sign and we always test for equality.
+
+Only in the alternative hypothesis we test for inequality, either as μ1<>μ2, or μ1<μ2, or μ1>μ2.
+
+The decision if we would accept the null hypothesis or the alternative hypothesis, depends on the results of the statistical test that we will use. In the vast majority of cases, if the statistical result is between 0 and 5% [0, 0.05]then we accept the alternative hypothesis, while if the statistical result is greater that 5% and up to 100% (0.05, 1.00), then we accept the null hypothesis.
