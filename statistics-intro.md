@@ -401,4 +401,12 @@ It would be a mistake if we would construct a null hypothesis to test for inequa
 
 Only in the alternative hypothesis we test for inequality, either as μ1<>μ2, or μ1<μ2, or μ1>μ2.
 
-The decision if we would accept the null hypothesis or the alternative hypothesis, depends on the results of the statistical test that we will use. In the vast majority of cases, if the statistical result is between 0 and 5% [0, 0.05]then we accept the alternative hypothesis, while if the statistical result is greater that 5% and up to 100% (0.05, 1.00), then we accept the null hypothesis.
+The decision if we would accept the null hypothesis or the alternative hypothesis, depends on the results of the statistical test that we will use. In the vast majority of cases, if the statistical result is between 0 and 5% [0, 0.05], then we accept the alternative hypothesis, while if the statistical result is greater that 5% and up to 100% (0.05, 1.00), then we accept the null hypothesis.
+
+The construction of a null hypothesis and an alternative hypothesis, it always follows the exact same logic. Depending now on each case, we will select the appropriate statistical test which will tell us, in an objective way, if we should accept the null or the altrenative hypothesis.
+
+In this way, every decision we take in statistics, is done using an objective referee which decides if we should select a null or an alternative hypothesis. That objective referee is called the statistical test.
+
+Although there is a great number of statistical tests, in the vast majority of cases we only use just a few of them. Knowing though which statistical test to choose for in a ceratin case, is as essential and very important knowledge in statistics.
+
+Only by having a deep understanding of the main statistical tests, and their corresponding probability distributions, a data scientist can choose the proper test for each case. Otherwise, choosing a wrong statistical test would probably create some meaningless results that will have no connection to the real situation.
