@@ -393,6 +393,7 @@ The null hypothesis is that there are no differneces in the mean EQ values betwe
 
 On the other hand, if the researcher will find out that the null hypothesis should not be accepted, then he or she has obviously discovered something new which is completely different from what the previous researchers had discovered.
 
+
 ## Hypothesis Testing - Overwiew
 
 The important thing is to rember that we construct a null hypothesis H0 where we test fo equality, and an alternative hypothesis H1 where we test for inequality.
@@ -410,3 +411,13 @@ In this way, every decision we take in statistics, is done using an objective re
 Although there is a great number of statistical tests, in the vast majority of cases we only use just a few of them. Knowing though which statistical test to choose for in a ceratin case, is as essential and very important knowledge in statistics.
 
 Only by having a deep understanding of the main statistical tests, and their corresponding probability distributions, a data scientist can choose the proper test for each case. Otherwise, choosing a wrong statistical test would probably create some meaningless results that will have no connection to the real situation.
+
+
+## Results interpratation
+
+When we are using a statistical program to compare two sets of data, we will get as a result a number representing the probability that those two sets are statistically the same, or they are statistically different. 
+
+If the result is greater than 0.05 then it means that the probalility that those two sets are actually the same is higeher than 5% and thus is considered that those two sets actully are the same as they belong to the same population.
+
+If though the result is 0.05 or less, then this means that the probability of those two sets belonging to the same population is 5% or less and so we consider that those tow test belong in two different populations.
+
