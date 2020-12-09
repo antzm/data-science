@@ -417,7 +417,8 @@ Only by having a deep understanding of the main statistical tests, and their cor
 
 When we are using a statistical program to compare two sets of data, we will get as a result a number representing the probability that those two sets are statistically the same, or they are statistically different. 
 
-If the result is greater than 0.05 then it means that the probalility that those two sets are actually the same is higeher than 5% and thus is considered that those two sets actully are the same as they belong to the same population.
+If the result is greater than 0.05 then it means that the probalility that those two sets are actually the same is higher than 5% and thus is considered that those two sets actully are the same as they belong to the same population.
 
-If though the result is 0.05 or less, then this means that the probability of those two sets belonging to the same population is 5% or less and so we consider that those tow test belong in two different populations.
+If though the result is 0.05 or less, then this means that the probability of those two sets belonging to the same population is 5% or less and so we consider that those two tests belong in two different populations.
 
+The sets of data that we are comparing, are actually two samples from two populations, and what we are actually trying to understand is, whether those two samples belong to the same or in different populations.
