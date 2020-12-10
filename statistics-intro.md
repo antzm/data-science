@@ -413,7 +413,7 @@ Although there is a great number of statistical tests, in the vast majority of c
 Only by having a deep understanding of the main statistical tests, and their corresponding probability distributions, a data scientist can choose the proper test for each case. Otherwise, choosing a wrong statistical test would probably create some meaningless results that will have no connection to the real situation.
 
 
-## Results interpratation
+## Hypothesis Testing - Results interpratation
 
 When we are using a statistical program to compare two sets of data, we will get as a result a number representing the probability that those two sets are statistically the same, or they are statistically different. 
 
@@ -422,3 +422,12 @@ If the result is greater than 0.05 then it means that the probalility that those
 If though the result is 0.05 or less, then this means that the probability of those two sets belonging to the same population is 5% or less and so we consider that those two tests belong in two different populations.
 
 The sets of data that we are comparing, are actually two samples from two populations, and what we are actually trying to understand is, whether those two samples belong to the same or in different populations.
+
+
+## Hypothesis testing with more than two populations
+
+In the beggining of the 20th century, the world population was rising, the urbanaziation was increasing and the demand for food was increasing at a greater rate compared to what the farmers would be able to supply. The only solution was to introduce new varities with grater yield. Unfortunately though, a new wheat variety needed several years to be introduced and one reason for this, was the lack of the proper statistical tests that would easily distinguish the most promising varieties out of a very large number of new varities.
+
+The solution to this problem was introduced by Fischer, who was trying to find an easy way to compare a large number of wheat varities at once. And at this point, the modern era of statistics begun.
+
+Fisher itroduced the F-distribution and the ANOVA (ANalysis Of VAriance) statistical tests.
