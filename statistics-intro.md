@@ -431,3 +431,15 @@ In the beggining of the 20th century, the world population was rising, the urban
 The solution to this problem was introduced by Fischer, who was trying to find an easy way to compare a large number of wheat varities at once. And at this point, the modern era of statistics begun.
 
 Fisher itroduced the F-distribution and the ANOVA (ANalysis Of VAriance) statistical tests.
+
+When we are using the ANOVA method, the null hypothesis and the alternative hypothesis are as follows:
+
+H0: μ1=μ2=μ3=...=μn (where n is the last population mean we are testing)
+
+H1: At least one of the μ1, μ2, μ3...μn is not equal with the other population means
+
+Depending on the result of the ANOVA test we will either accept the nulll hypothesis, meaning that e.g. all the wheat varieties we are testing are statistically the same as the existing cultivated variery μ1, or if we accept the alternative hypothesis, then at least one variety is statistically different from the existing cultivate variety μ1.
+
+In the case of wheat varieties, Fisher was able with just one statistical test, to throw away a numerous number of new varieties that were no better that the existing variety.
+
+Only when the alternative hypothesis was accepted, then that particular group of varieries was tested again in order to find which one was the best variety of all the ones that were tested.
