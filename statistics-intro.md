@@ -443,3 +443,10 @@ Depending on the result of the ANOVA test we will either accept the nulll hypoth
 In the case of wheat varieties, Fisher was able with just one statistical test, to throw away a numerous number of new varieties that were no better that the existing variety.
 
 Only when the alternative hypothesis was accepted, then that particular group of varieries was tested again in order to find which one was the best variety of all the ones that were tested.
+
+
+## Importance of the ANOVA method
+
+It may seem somewhat exaggerating but ANOVA was actually one of the greatest discoveries ever made. The reason is that for the first time ever, it allowed scientists to easily test a large number of new varities and to find the promising varieties in a short ammount of time. This allowed scientists to introduce new varities for cultivation, with higher and higher yields, that helped to meet the increasing demand for worldwide food.
+
+It should also be taken into consideration that there were no computers at that time, and for this reason ANOVA was the perfect approach because with few calculations, it allowed the comparison of a large number of varieties. Something that otherwise would have been impossible.
