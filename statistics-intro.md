@@ -1,6 +1,31 @@
 
 # Probability and Statistics Main Concepts
 
+* Probablilities
+* Probability distribution
+* Permutations
+* Combinations
+* Normal distribution
+* Other probalility distributions
+* Population vs Sample
+* Descriptive statistics
+* Inferential statisctis
+* Statistical notation
+* Hypothesis testing
+* Hypothesis testing - Example 1
+* Hypothesis testing - Example 2
+* Hypothesis testing - statistical tests
+* Hypothesis testing - level of significance
+* Hypothesis testing - Choosing between H0 and H1
+* Hypothesis Testing - Clarification Example 1
+* Hypothesis Testing - Clarification Example 2
+* One Way vs Two Way Statistical Tests
+* Hypothesis testing - A metaphor
+* Hypothesis Testing - Out of the ordinary
+* Hypothesis Testing - Overwiew
+* Hypothesis Testing - Results interpratation
+* Hypothesis testing with more than two populations
+* Importance of the ANOVA method
 
 ## Probablilities
 
@@ -447,6 +472,12 @@ Only when the alternative hypothesis was accepted, then that particular group of
 
 ## Importance of the ANOVA method
 
-It may seem somewhat exaggerating but ANOVA was actually one of the greatest discoveries ever made. The reason is that for the first time ever, it allowed scientists to easily test a large number of new varities and to find the promising varieties in a short ammount of time. This allowed scientists to introduce new varities for cultivation, with higher and higher yields, that helped to meet the increasing demand for worldwide food.
+It may seem somewhat exaggerating but ANOVA was actually one of the greatest discoveries ever made. The reason is that for the first time ever, it allowed scientists to easily test a large number of new varities and to find the most promising varieties in a short ammount of time. This allowed scientists to introduce new varities for cultivation, with higher and higher yields, that helped to meet the increasing demand for worldwide food.
 
 It should also be taken into consideration that there were no computers at that time, and for this reason ANOVA was the perfect approach because with few calculations, it allowed the comparison of a large number of varieties. Something that otherwise would have been impossible.
+
+Nowadays, 100 years after it's discovery, ANOVA is still a great method to compare a big number of populations at once and see if there is at least one population which is different than all the others, or if all the populations we are comparing are actually the same.
+
+ANOVA gives us only information if there is at least one population that is different from the other but it doesn't provide any information about which one or which ones of the populations we are comparing are different.
+
+For this reason, when the results of the ANOVA analysis shows that there is at least one population that is different, then we need to proceed further with more specialized stastical tests in order to find the populations that differe from all the others.
