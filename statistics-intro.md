@@ -1,31 +1,31 @@
 
 # Probability and Statistics Main Concepts
 
-* Probablilities
-* Probability distribution
-* Permutations
-* Combinations
-* Normal distribution
-* Other probalility distributions
-* Population vs Sample
-* Descriptive statistics
-* Inferential statisctis
-* Statistical notation
-* Hypothesis testing
-* Hypothesis testing - Example 1
-* Hypothesis testing - Example 2
-* Hypothesis testing - statistical tests
-* Hypothesis testing - level of significance
-* Hypothesis testing - Choosing between H0 and H1
-* Hypothesis Testing - Clarification Example 1
-* Hypothesis Testing - Clarification Example 2
-* One Way vs Two Way Statistical Tests
-* Hypothesis testing - A metaphor
-* Hypothesis Testing - Out of the ordinary
-* Hypothesis Testing - Overwiew
-* Hypothesis Testing - Results interpratation
-* Hypothesis testing with more than two populations
-* Importance of the ANOVA method
+* [Probablilities](Probablilities)
+* [Probability distribution](Probability-distribution)
+* [Permutations](Permutations)
+* [Combinations](Combinations)
+* [Normal distribution](Normal-distribution)
+* [Other probalility distributions](Other-probalility-distributions)
+* [Population vs Sample](Population-vs-Sample)
+* [Descriptive statistics](Descriptive-statistics)
+* [Inferential statisctis](Inferential-statisctis)
+* [Statistical notation](Statistical-notation)
+* [Hypothesis testing](Hypothesis-testing)
+* [Hypothesis testing - Example 1](Hypothesis-testing---Example-1)
+* [Hypothesis testing - Example 2](Hypothesis-testing---Example-2)
+* [Hypothesis testing - statistical tests]()
+* [Hypothesis testing - level of significance]()
+* [Hypothesis testing - Choosing between H0 and H1]()
+* [Hypothesis Testing - Clarification Example 1]()
+* [Hypothesis Testing - Clarification Example 2]()
+* [One Way vs Two Way Statistical Tests]()
+* [Hypothesis testing - A metaphor]()
+* [Hypothesis Testing - Out of the ordinary]()
+* [Hypothesis Testing - Overwiew]()
+* [Hypothesis Testing - Results interpratation]()
+* [Hypothesis testing with more than two populations]()
+* [Importance of the ANOVA method]()
 
 ## Probablilities
 
