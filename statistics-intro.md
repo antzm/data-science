@@ -37,7 +37,9 @@ When we throw a dice, there are 6 different outcomes and each one has a probabli
 
 * Picking a card:
 When we pick a card from a set of playing cards, there's a probability of 1/52 to choose a specific card, as there are 52 cards in the playing set. All the cards have the same probablility to be chosen, so the probability of each card is the total probability, which by definition is always 1, divided by the number of cards which is 52.  
+
 *[Index](#Probability-and-Statistics-Main-Concepts)*  
+
 
 ## Probability distribution
 
@@ -46,7 +48,9 @@ The probailities of the different outcomes of a random event, will always add to
 There also some functions that are used in the probability theory, which help us to predict the outcome of various random events, and those functions are called "probablility distributions". The most common one is the Normal Distribution, which is a bell shaped didtribution used extensively in probablility and statistics.
 
 The common thing in those probability distributions is in their graphs. The area in those graphs always equals 1, which reflects the fact that the outcomes of a random event will always add to 1.  
+
 *[Index](#Probability-and-Statistics-Main-Concepts)*  
+
 
 ## Permutations
 When the order does matter
@@ -77,7 +81,9 @@ How many 5-digit numbers can we create, without using the zero?
 Example 4b:
 How many 5-digit numbers can we create, without using a number twice and without using the zero?
 *Permutations without repetition*  
+
 *[Index](#Probability-and-Statistics-Main-Concepts)*  
+
 
 ## Combinations
 When the order doesn’t matter
@@ -88,7 +94,9 @@ Example:
 From 5 students (A, B, C, D, E) we would like to select a team of 2 students to take part in a contest.
 The diiferent teams could be either AB, AC, AD, AE, BC, BD, BE, CD, CE, DE. 
 *Combinations without repetition*  
+
 *[Index](#Probability-and-Statistics-Main-Concepts)*  
+
 
 ## Normal distribution
 
@@ -101,7 +109,9 @@ The Normal distribution is the most widely used probability distribution, as it 
 * The temperatures in a city are around a certain value, for every season, and only during fews days the temperatures are extrmemly height or extremely low, compared to their usual value.
 
 The Normal distribution therefore can be used in many cases and its main characteristic is that it resembles a bell shaped distribution.  
+
 *[Index](#Probability-and-Statistics-Main-Concepts)*  
+
 
 ## Other probalility distributions
 
@@ -115,7 +125,9 @@ The most comonly used probablity distributions are:
 * Student's t distribution
 * Chi square sistribution
 * F distribution  
+
 *[Index](#Probability-and-Statistics-Main-Concepts)*  
+
 
 ## Population vs Sample
 
@@ -135,21 +147,27 @@ Usually, the only time that we can actually see how good the predictions from th
 The gullops that take place before the elections, are not so representative compared to the exit polls, because some voters may change their vote untill the election day.
 
 There are also cases where although it's possible to have access to the complete population, we are not interested to study the complete population. One example is the number of smart phones that a factory produces. We need to use a sample of those phones for quality tests, but not all the phones that the factory produces. The quality tests may destroy the devices that are tested, so it wouldn't make sense to run a quality test for every phone that the factory produces. Instead, based on the quality tests that take place on a sample of the total phones produced, it helps to understand the quality of the phones produced by that factory, and to improve the manufacturing quality whenever is neccesary.  
+
 *[Index](#Probability-and-Statistics-Main-Concepts)*  
+
 
 ## Descriptive statistics
 
 Descriptive statistics uses the available data to draw conclusions about what happend in the past. It analyzes the available data and presnts the results in a consice way that can be easily understood and intrpreted. These results though, refer exclusively to the data that was analyzed, while the conclusions from that data, have no broader or more generalized application.
 
 > Descriptive statistics is used by the Data Analysts.  
+
 *[Index](#Probability-and-Statistics-Main-Concepts)*  
+
 
 ## Inferential statisctis
 
 Inferential statistics on the other hand, not only uses the tools available to the decriptive statistics, but it goes further as it uses the available data from a sample, in oder to make inferences for a population, and also to predict future tendencies based on the available data.
 
 > Inferential statistics is used by the Data Scientists.  
+
 *[Index](#Probability-and-Statistics-Main-Concepts)*  
+
 
 ## Statistical notation
 
@@ -168,7 +186,9 @@ In statistical notation, both English and Greek letters are used. It's very impo
 In inferential statistics, we use a sample in order to draw conclusions about a population. Thus, we use sample parameters, denoted with English letters, in order to estimate the unknown population parameters, denoted with Greek letters.
 
 The better the quality of the sample, the better will be the estimation of the population parameters.  
+
 *[Index](#Probability-and-Statistics-Main-Concepts)*  
+
 
 ## Hypothesis testing
 
@@ -193,7 +213,9 @@ The first one is called the null hypothesis, and it always corresponds to A bein
 While the second one is called the alternetive hypothesis, ant it always coresponds to A being different than B.
 
 The important thing to remeber is that the null hypothesis correspons always to being equal, while the alternative hypothesis always corresponds to being different.  
+
 *[Index](#Probability-and-Statistics-Main-Concepts)*  
+
 
 ## Hypothesis testing - Example 1
 
