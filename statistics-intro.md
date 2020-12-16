@@ -14,18 +14,18 @@
 * [Hypothesis testing](#Hypothesis-testing)
 * [Hypothesis testing - Example 1](#Hypothesis-testing---Example-1)
 * [Hypothesis testing - Example 2](#Hypothesis-testing---Example-2)
-* [Hypothesis testing - statistical tests](Hypothesis-testing---statistical-tests)
-* [Hypothesis testing - level of significance](Hypothesis-testing---level-of-significance)
-* [Hypothesis testing - Choosing between H0 and H1](Hypothesis-testing---Choosing-between-H0-and-H1)
-* [Hypothesis Testing - Clarification Example 1](Hypothesis-Testing---Clarification-Example-1)
-* [Hypothesis Testing - Clarification Example 2](Hypothesis-Testing---Clarification-Example-2)
-* [One Way vs Two Way Statistical Tests](One-Way-vs-Two-Way-Statistical-Tests)
-* [Hypothesis testing - A metaphor](Hypothesis-testing---A-metaphor)
-* [Hypothesis Testing - Out of the ordinary](Hypothesis-Testing---Out-of-the-ordinary)
-* [Hypothesis Testing - Overwiew](Hypothesis-Testing---Overwiew)
-* [Hypothesis Testing - Results interpratation](Hypothesis-Testing---Results-interpratation)
-* [Hypothesis testing with more than two populations](Hypothesis-testing-with-more-than-two-populations)
-* [Importance of the ANOVA method](Importance-of-the-ANOVA-method)
+* [Hypothesis testing - statistical tests](#Hypothesis-testing---statistical-tests)
+* [Hypothesis testing - level of significance](#Hypothesis-testing---level-of-significance)
+* [Hypothesis testing - Choosing between H0 and H1](#Hypothesis-testing---Choosing-between-H0-and-H1)
+* [Hypothesis Testing - Clarification Example 1](#Hypothesis-Testing---Clarification-Example-1)
+* [Hypothesis Testing - Clarification Example 2](#Hypothesis-Testing---Clarification-Example-2)
+* [One Way vs Two Way Statistical Tests](#One-Way-vs-Two-Way-Statistical-Tests)
+* [Hypothesis testing - A metaphor](#Hypothesis-testing---A-metaphor)
+* [Hypothesis Testing - Out of the ordinary](#Hypothesis-Testing---Out-of-the-ordinary)
+* [Hypothesis Testing - Overwiew](#Hypothesis-Testing---Overwiew)
+* [Hypothesis Testing - Results interpratation](#Hypothesis-Testing---Results-interpratation)
+* [Hypothesis testing with more than two populations](#Hypothesis-testing-with-more-than-two-populations)
+* [Importance of the ANOVA method](#Importance-of-the-ANOVA-method)
 
 ## Probablilities
 
@@ -37,7 +37,6 @@ When we throw a dice, there are 6 different outcomes and each one has a probabli
 
 * Picking a card:
 When we pick a card from a set of playing cards, there's a probability of 1/52 to choose a specific card, as there are 52 cards in the playing set. All the cards have the same probablility to be chosen, so the probability of each card is the total probability, which by definition is always 1, divided by the number of cards which is 52.
-
 *[index](#Probability-and-Statistics-Main-Concepts)*
 
 ## Probability distribution
@@ -47,7 +46,6 @@ The probailities of the different outcomes of a random event, will always add to
 There also some functions that are used in the probability theory, which help us to predict the outcome of various random events, and those functions are called "probablility distributions". The most common one is the Normal Distribution, which is a bell shaped didtribution used extensively in probablility and statistics.
 
 The common thing in those probability distributions is in their graphs. The area in those graphs always equals 1, which reflects the fact that the outcomes of a random event will always add to 1. 
-
 *[index](#Probability-and-Statistics-Main-Concepts)*
 
 ## Permutations
@@ -79,7 +77,6 @@ How many 5-digit numbers can we create, without using the zero?
 Example 4b:
 How many 5-digit numbers can we create, without using a number twice and without using the zero?
 *Permutations without repetition*
-
 *[index](#Probability-and-Statistics-Main-Concepts)*
 
 ## Combinations
