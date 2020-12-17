@@ -250,6 +250,8 @@ But usually, the most common case is to test for inequality in the alternative h
 
 > The important thing to remember is that the null hypothesis H0 always tests for equality while the alternatve hypothesis H1 always tests for inequality (either not equal, or greater, or smaller)
 
+*[Index](#Probability-and-Statistics-Main-Concepts)*  
+
 
 ## Hypothesis testing - Example 2
 
@@ -273,6 +275,8 @@ On the other hand, if they overap by a small percentage, then we consider those 
 
 And here we come to the big question in statistics. How can we decide if two populations are actually identical, or if they are actually two different populations?
 
+*[Index](#Probability-and-Statistics-Main-Concepts)*  
+
 
 ## Hypothesis testing - statistical tests
 
@@ -285,6 +289,8 @@ The same principle applies to statistics. There are various statistical tests av
 Then, depending on the results of the statistical test, we would either choose the Null Hypothesis or the Alternative Hypothesis.
 
 So, every decision in statistics involves a Hypothesis Testing and depending on the situation, we choose the proper statisitcal test which will tell us, in an objective way, if we should accept the Null or the Alternative Hypothesis.
+
+*[Index](#Probability-and-Statistics-Main-Concepts)*  
 
 
 ## Hypothesis testing - level of significance
@@ -300,6 +306,8 @@ But how we will decide if two populations are actually one population (apperarin
 It all depends on the overlapping of the two population distributions. Usually, when the overlapping between the two populations is more than 5%, then we consider that the two populations are actually one. Whenever though the overlaping is 5% or less, then we consider that the two populations are actually two different populations.
 
 This threshold of 5%, which determines our decisions, is called the level of signifiance and it's symbol is the greek letter α, and usually we use α=0.05 or α=5% (rarely though, we also use α=1% or α=0.01).
+
+*[Index](#Probability-and-Statistics-Main-Concepts)*  
 
 
 ## Hypothesis testing - Choosing between H0 and H1
@@ -323,6 +331,8 @@ Probability result:
 Thus, when the probablity result is 0.01 and greater, then we accept the H0, as we consider that the two distributions are actually the same.
 
 On the other hand, if the probability result is 0.01 and smaller, then we accept the H1, as we consider that the two distributions are actually two different distributions.
+
+*[Index](#Probability-and-Statistics-Main-Concepts)*  
 
 
 ## Hypothesis Testing - Clarification Example 1
@@ -351,6 +361,8 @@ In this case, the expected result would be to accept the Null Hypothesis as both
 
 Obvisously, here we know beforehand that we have just one population, but in real situations we never know such information and we always try to find out if two populations are actually the same or not.
 
+*[Index](#Probability-and-Statistics-Main-Concepts)*  
+
 
 ## Hypothesis Testing - Clarification Example 2
 
@@ -369,6 +381,9 @@ Where μ1 is the population mean of the existing variety, and μ2 is the populat
 The alternative hypothesis though, doesn't state that there is difference between the two varieties, but it is more specific as it states that the μ2 population mean is larger that the μ1 population mean.
 
 The reason is that we are not interested for a new variety that has just a different mean yield from the existing variety, but instead we are only interestd for a variety that has a higher mean yield. Otherwise it wouldn't make any sense for the farmers to cultivate the new wheat variety.
+
+*[Index](#Probability-and-Statistics-Main-Concepts)*  
+
 
 ## One Way vs Two Way Statistical Tests
 
@@ -389,6 +404,8 @@ H1: μ1 < μ2
 So, in this case we are interested only in one of the sides of the population distribution, either the left or the right side, and not both sides as we did with with the hypothesis H1: μ1 <> μ2
 
 This is why we call these statistical tests as one-way tests.
+
+*[Index](#Probability-and-Statistics-Main-Concepts)*  
 
 
 ## Hypothesis testing - A metaphor
@@ -412,6 +429,8 @@ Now, let's think about a methaphor for a while. Let's imagine that the center 95
 Every football game gets really excited when a team scores a goal, otherwise the game may look a little boring and uniteresting without any goals at all. In other words, if the game takes place only in the green part of the field, it's a little boring, and it gets interesting only when the ball crosses the red part of the field, whenever a goal is scored.
 
 Well, the exact same logic applies also to the normal distribution. Things are a little boring in the main green part of the distribution, while they get really intereing in the red part of the distribution, or in other words in the 2.5% of both tails of the distribution.
+
+*[Index](#Probability-and-Statistics-Main-Concepts)*  
 
 
 ## Hypothesis Testing - Out of the ordinary
@@ -440,6 +459,8 @@ The null hypothesis is that there are no differneces in the mean EQ values betwe
 
 On the other hand, if the researcher will find out that the null hypothesis should not be accepted, then he or she has obviously discovered something new which is completely different from what the previous researchers had discovered.
 
+*[Index](#Probability-and-Statistics-Main-Concepts)*  
+
 
 ## Hypothesis Testing - Overwiew
 
@@ -459,6 +480,8 @@ Although there is a great number of statistical tests, in the vast majority of c
 
 Only by having a deep understanding of the main statistical tests, and their corresponding probability distributions, a data scientist can choose the proper test for each case. Otherwise, choosing a wrong statistical test would probably create some meaningless results that will have no connection to the real situation.
 
+*[Index](#Probability-and-Statistics-Main-Concepts)*  
+
 
 ## Hypothesis Testing - Results interpratation
 
@@ -469,6 +492,8 @@ If the result is greater than 0.05 then it means that the probalility that those
 If though the result is 0.05 or less, then this means that the probability of those two sets belonging to the same population is 5% or less and so we consider that those two tests belong in two different populations.
 
 The sets of data that we are comparing, are actually two samples from two populations, and what we are actually trying to understand is, whether those two samples belong to the same or in different populations.
+
+*[Index](#Probability-and-Statistics-Main-Concepts)*  
 
 
 ## Hypothesis testing with more than two populations
@@ -491,6 +516,8 @@ In the case of wheat varieties, Fisher was able with just one statistical test, 
 
 Only when the alternative hypothesis was accepted, then that particular group of varieries was tested again in order to find which one was the best variety of all the ones that were tested.
 
+*[Index](#Probability-and-Statistics-Main-Concepts)*  
+
 
 ## Importance of the ANOVA method
 
@@ -503,3 +530,6 @@ Nowadays, 100 years after it's discovery, ANOVA is still a great method to compa
 ANOVA gives us only information if there is at least one population that is different from the other but it doesn't provide any information about which one or which ones of the populations we are comparing are different.
 
 For this reason, when the results of the ANOVA analysis shows that there is at least one population that is different, then we need to proceed further with more specialized stastical tests in order to find the populations that differe from all the others.
+
+*[Index](#Probability-and-Statistics-Main-Concepts)*  
+
