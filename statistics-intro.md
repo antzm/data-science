@@ -1,15 +1,15 @@
 
-# Probability and Statistics Main Concepts
+# Probability and Statistics - Main Concepts
 
-* [Probablilities](#Probablilities)
+* [Probabilities](#Probabilities)
 * [Probability distribution](#Probability-distribution)
 * [Permutations](#Permutations)
 * [Combinations](#Combinations)
 * [Normal distribution](#Normal-distribution)
-* [Other probalility distributions](#Other-probalility-distributions)
+* [Other probability distributions](#Other-probability-distributions)
 * [Population vs Sample](#Population-vs-Sample)
 * [Descriptive statistics](#Descriptive-statistics)
-* [Inferential statisctis](#Inferential-statisctis)
+* [Inferential statistics](#Inferential-statistics)
 * [Statistical notation](#Statistical-notation)
 * [Hypothesis testing](#Hypothesis-testing)
 * [Hypothesis testing - Example 1](#Hypothesis-testing---Example-1)
@@ -22,12 +22,13 @@
 * [One Way vs Two Way Statistical Tests](#One-Way-vs-Two-Way-Statistical-Tests)
 * [Hypothesis testing - A metaphor](#Hypothesis-testing---A-metaphor)
 * [Hypothesis Testing - Out of the ordinary](#Hypothesis-Testing---Out-of-the-ordinary)
-* [Hypothesis Testing - Overwiew](#Hypothesis-Testing---Overwiew)
-* [Hypothesis Testing - Results interpratation](#Hypothesis-Testing---Results-interpratation)
+* [Hypothesis Testing - Overview](#Hypothesis-Testing---Overview)
+* [Hypothesis Testing - Results interpretation](#Hypothesis-Testing---Results-interpretation)
 * [Hypothesis testing with more than two populations](#Hypothesis-testing-with-more-than-two-populations)
 * [Importance of the ANOVA method](#Importance-of-the-ANOVA-method)
 
-## Probablilities
+
+## Probabilities
 
 * Flipping a coin:
 Every time we flip a coin, there's a 50% probablility that head will appear, and 50% probablility that tails will appear. In other words, the probablity for each outcome is 0.5 and so, the total probablility for both outcomes is 1, something which is very important in the probablility theory, as the sum of the indivdual outcomes is always 1, or 100%.
@@ -113,7 +114,7 @@ The Normal distribution therefore can be used in many cases and its main charact
 *[Index](#Probability-and-Statistics-Main-Concepts)*  
 
 
-## Other probalility distributions
+## Other probability distributions
 
 Besides the Normal Distribution, there are noumerous other probablity distributions and one difficulty in statistics lies in choosing the appropriate probablity distribution for each case.
 
@@ -160,7 +161,7 @@ Descriptive statistics uses the available data to draw conclusions about what ha
 *[Index](#Probability-and-Statistics-Main-Concepts)*  
 
 
-## Inferential statisctis
+## Inferential statistics
 
 Inferential statistics on the other hand, not only uses the tools available to the decriptive statistics, but it goes further as it uses the available data from a sample, in oder to make inferences for a population, and also to predict future tendencies based on the available data.
 
@@ -462,7 +463,7 @@ On the other hand, if the researcher will find out that the null hypothesis shou
 *[Index](#Probability-and-Statistics-Main-Concepts)*  
 
 
-## Hypothesis Testing - Overwiew
+## Hypothesis Testing - Overview
 
 The important thing is to rember that we construct a null hypothesis H0 where we test fo equality, and an alternative hypothesis H1 where we test for inequality.
 
@@ -483,7 +484,7 @@ Only by having a deep understanding of the main statistical tests, and their cor
 *[Index](#Probability-and-Statistics-Main-Concepts)*  
 
 
-## Hypothesis Testing - Results interpratation
+## Hypothesis Testing - Results interpretation
 
 When we are using a statistical program to compare two sets of data, we will get as a result a number representing the probability that those two sets are statistically the same, or they are statistically different. 
 
@@ -532,4 +533,3 @@ ANOVA gives us only information if there is at least one population that is diff
 For this reason, when the results of the ANOVA analysis shows that there is at least one population that is different, then we need to proceed further with more specialized stastical tests in order to find the populations that differe from all the others.
 
 *[Index](#Probability-and-Statistics-Main-Concepts)*  
-
