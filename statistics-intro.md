@@ -39,7 +39,7 @@ When we throw a dice, there are 6 different outcomes and each one has a probabli
 * Picking a card:
 When we pick a card from a set of playing cards, there's a probability of 1/52 to choose a specific card, as there are 52 cards in the playing set. All the cards have the same probablility to be chosen, so the probability of each card is the total probability, which by definition is always 1, divided by the number of cards which is 52.  
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Probability distribution
@@ -50,10 +50,10 @@ There also some functions that are used in the probability theory, which help us
 
 The common thing in those probability distributions is in their graphs. The area in those graphs always equals 1, which reflects the fact that the outcomes of a random event will always add to 1.  
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
-## Permutations
+## Permutations--
 When the order does matter
 	* Permutations with repetition
 	* Permutations without repetition
@@ -83,7 +83,7 @@ Example 4b:
 How many 5-digit numbers can we create, without using a number twice and without using the zero?
 *Permutations without repetition*  
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Combinations
@@ -96,7 +96,7 @@ From 5 students (A, B, C, D, E) we would like to select a team of 2 students to 
 The diiferent teams could be either AB, AC, AD, AE, BC, BD, BE, CD, CE, DE. 
 *Combinations without repetition*  
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Normal distribution
@@ -111,7 +111,7 @@ The Normal distribution is the most widely used probability distribution, as it 
 
 The Normal distribution therefore can be used in many cases and its main characteristic is that it resembles a bell shaped distribution.  
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Other probability distributions
@@ -127,7 +127,7 @@ The most comonly used probablity distributions are:
 * Chi square sistribution
 * F distribution  
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Population vs Sample
@@ -149,7 +149,7 @@ The gullops that take place before the elections, are not so representative comp
 
 There are also cases where although it's possible to have access to the complete population, we are not interested to study the complete population. One example is the number of smart phones that a factory produces. We need to use a sample of those phones for quality tests, but not all the phones that the factory produces. The quality tests may destroy the devices that are tested, so it wouldn't make sense to run a quality test for every phone that the factory produces. Instead, based on the quality tests that take place on a sample of the total phones produced, it helps to understand the quality of the phones produced by that factory, and to improve the manufacturing quality whenever is neccesary.  
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Descriptive statistics
@@ -158,7 +158,7 @@ Descriptive statistics uses the available data to draw conclusions about what ha
 
 > Descriptive statistics is used by the Data Analysts.  
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Inferential statistics
@@ -167,7 +167,7 @@ Inferential statistics on the other hand, not only uses the tools available to t
 
 > Inferential statistics is used by the Data Scientists.  
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Statistical notation
@@ -188,7 +188,7 @@ In inferential statistics, we use a sample in order to draw conclusions about a 
 
 The better the quality of the sample, the better will be the estimation of the population parameters.  
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Hypothesis testing
@@ -215,7 +215,7 @@ While the second one is called the alternetive hypothesis, ant it always corespo
 
 The important thing to remeber is that the null hypothesis correspons always to being equal, while the alternative hypothesis always corresponds to being different.  
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Hypothesis testing - Example 1
@@ -251,7 +251,7 @@ But usually, the most common case is to test for inequality in the alternative h
 
 > The important thing to remember is that the null hypothesis H0 always tests for equality while the alternatve hypothesis H1 always tests for inequality (either not equal, or greater, or smaller)
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Hypothesis testing - Example 2
@@ -276,7 +276,7 @@ On the other hand, if they overap by a small percentage, then we consider those 
 
 And here we come to the big question in statistics. How can we decide if two populations are actually identical, or if they are actually two different populations?
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Hypothesis testing - statistical tests
@@ -291,7 +291,7 @@ Then, depending on the results of the statistical test, we would either choose t
 
 So, every decision in statistics involves a Hypothesis Testing and depending on the situation, we choose the proper statisitcal test which will tell us, in an objective way, if we should accept the Null or the Alternative Hypothesis.
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Hypothesis testing - level of significance
@@ -308,7 +308,7 @@ It all depends on the overlapping of the two population distributions. Usually, 
 
 This threshold of 5%, which determines our decisions, is called the level of signifiance and it's symbol is the greek letter α, and usually we use α=0.05 or α=5% (rarely though, we also use α=1% or α=0.01).
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Hypothesis testing - Choosing between H0 and H1
@@ -333,7 +333,7 @@ Thus, when the probablity result is 0.01 and greater, then we accept the H0, as 
 
 On the other hand, if the probability result is 0.01 and smaller, then we accept the H1, as we consider that the two distributions are actually two different distributions.
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Hypothesis Testing - Clarification Example 1
@@ -362,7 +362,7 @@ In this case, the expected result would be to accept the Null Hypothesis as both
 
 Obvisously, here we know beforehand that we have just one population, but in real situations we never know such information and we always try to find out if two populations are actually the same or not.
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Hypothesis Testing - Clarification Example 2
@@ -383,7 +383,7 @@ The alternative hypothesis though, doesn't state that there is difference betwee
 
 The reason is that we are not interested for a new variety that has just a different mean yield from the existing variety, but instead we are only interestd for a variety that has a higher mean yield. Otherwise it wouldn't make any sense for the farmers to cultivate the new wheat variety.
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## One Way vs Two Way Statistical Tests
@@ -406,7 +406,7 @@ So, in this case we are interested only in one of the sides of the population di
 
 This is why we call these statistical tests as one-way tests.
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Hypothesis testing - A metaphor
@@ -431,7 +431,7 @@ Every football game gets really excited when a team scores a goal, otherwise the
 
 Well, the exact same logic applies also to the normal distribution. Things are a little boring in the main green part of the distribution, while they get really intereing in the red part of the distribution, or in other words in the 2.5% of both tails of the distribution.
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Hypothesis Testing - Out of the ordinary
@@ -460,7 +460,7 @@ The null hypothesis is that there are no differneces in the mean EQ values betwe
 
 On the other hand, if the researcher will find out that the null hypothesis should not be accepted, then he or she has obviously discovered something new which is completely different from what the previous researchers had discovered.
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Hypothesis Testing - Overview
@@ -481,7 +481,7 @@ Although there is a great number of statistical tests, in the vast majority of c
 
 Only by having a deep understanding of the main statistical tests, and their corresponding probability distributions, a data scientist can choose the proper test for each case. Otherwise, choosing a wrong statistical test would probably create some meaningless results that will have no connection to the real situation.
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Hypothesis Testing - Results interpretation
@@ -494,7 +494,7 @@ If though the result is 0.05 or less, then this means that the probability of th
 
 The sets of data that we are comparing, are actually two samples from two populations, and what we are actually trying to understand is, whether those two samples belong to the same or in different populations.
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Hypothesis testing with more than two populations
@@ -517,7 +517,7 @@ In the case of wheat varieties, Fisher was able with just one statistical test, 
 
 Only when the alternative hypothesis was accepted, then that particular group of varieries was tested again in order to find which one was the best variety of all the ones that were tested.
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Importance of the ANOVA method
@@ -532,4 +532,4 @@ ANOVA gives us only information if there is at least one population that is diff
 
 For this reason, when the results of the ANOVA analysis shows that there is at least one population that is different, then we need to proceed further with more specialized stastical tests in order to find the populations that differe from all the others.
 
-*[Index](#Probability-and-Statistics-Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
