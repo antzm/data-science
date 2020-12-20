@@ -31,29 +31,29 @@
 ## Probabilities
 
 * Flipping a coin:
-Every time we flip a coin, there's a 50% probablility that head will appear, and 50% probablility that tails will appear. In other words, the probablity for each outcome is 0.5 and so, the total probablility for both outcomes is 1, something which is very important in the probablility theory, as the sum of the indivdual outcomes is always 1, or 100%.
+Every time we flip a coin, there's a 50% probability that head will appear, and 50% probability that tails will appear. In other words, the probability for each outcome is 0.5 and so, the total probability for both outcomes is 1, something which is very important in the probability theory, as the sum of the individual outcomes is always 1, or 100%.
 
 * Throwing a dice:
-When we throw a dice, there are 6 different outcomes and each one has a probablility of 1/6 to appear. On the other hand, if we throw simmultaneously 2 dices, there are 6\*6=36 different outcomes, and so each outcome will have a probablility of 1/36 to appear.
+When we throw a dice, there are 6 different outcomes and each one has a probability of 1/6 to appear. On the other hand, if we throw simultaneously 2 dices, there are 6\*6=36 different outcomes, and so each outcome will have a probability of 1/36 to appear.
 
 * Picking a card:
-When we pick a card from a set of playing cards, there's a probability of 1/52 to choose a specific card, as there are 52 cards in the playing set. All the cards have the same probablility to be chosen, so the probability of each card is the total probability, which by definition is always 1, divided by the number of cards which is 52.  
+When we pick a card from a set of playing cards, there's a probability of 1/52 to choose a specific card, as there are 52 cards in the playing set. All the cards have the same probability to be chosen, so the probability of each card is the total probability, which by definition is always 1, divided by the number of cards which is 52.  
 
 *[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
 ## Probability distribution
 
-The probailities of the different outcomes of a random event, will always add to 1 (or 100%), which means that always one of the possible outcomes will take place. For example, depending on the season and the current weather conditions, tommorow, for example, there will be a probability of 0.7 (70%) to rain and a probability of 0.3 (30%) not to rain, but either way, only one of those outcomes will be true.
+The probabilities of the different outcomes of a random event, will always add to 1 (or 100%), which means that always one of the possible outcomes will take place. For example, depending on the season and the current weather conditions, tomorrow, for example, there will be a probability of 0.7 (70%) to rain and a probability of 0.3 (30%) not to rain, but either way, only one of those outcomes will be true.
 
-There also some functions that are used in the probability theory, which help us to predict the outcome of various random events, and those functions are called "probablility distributions". The most common one is the Normal Distribution, which is a bell shaped didtribution used extensively in probablility and statistics.
+There also some functions that are used in the probability theory, which help us to predict the outcome of various random events, and those functions are called "probability distribution". The most common one is the Normal Distribution, which is a bell shaped didtribution used extensively in probability and statistics.
 
 The common thing in those probability distributions is in their graphs. The area in those graphs always equals 1, which reflects the fact that the outcomes of a random event will always add to 1.  
 
 *[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
-## Permutations--
+## Permutations
 When the order does matter
 	* Permutations with repetition
 	* Permutations without repetition
