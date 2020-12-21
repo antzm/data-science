@@ -60,7 +60,7 @@ When the order does matter
 
 Example 1:  
 3 friends (A, B, C) go to a cinema and they sit next to each other.
-Their seat arrangment could be either ABC, ACB, BAC, BCA, CAB or CBA.
+Their seat arrangement could be either ABC, ACB, BAC, BCA, CAB or CBA.
 *Permutations without repetition*
 
 Example 2:
@@ -68,11 +68,11 @@ In football predictions, we mark each match as either 1, 2 or X. If there are e.
 *Permutations with repetition*
 
 Example 3a:
-How many 5 letter words can we create, regardles if they have a meaning?
+How many 5 letter words can we create, regardless if they have a meaning?
 *Permutations with repetition*
 
 Example 3b:
-How many 5 letter words can we create, without using a letter twice, regardles if they have a meaning?
+How many 5 letter words can we create, without using a letter twice, regardless if they have a meaning?
 *Permutations without repetition*
 
 Example 4a:
@@ -93,7 +93,7 @@ When the order doesn’t matter
 
 Example:  
 From 5 students (A, B, C, D, E) we would like to select a team of 2 students to take part in a contest.
-The diiferent teams could be either AB, AC, AD, AE, BC, BD, BE, CD, CE, DE. 
+The different teams could be either AB, AC, AD, AE, BC, BD, BE, CD, CE, DE. 
 *Combinations without repetition*  
 
 *[Index](#Probability-and-Statistics---Main-Concepts)*  
@@ -107,7 +107,7 @@ The Normal distribution is the most widely used probability distribution, as it 
 
 * The height of the trees in a forest is around a certain height, while very few trees are extremely tall or extremely short.
 
-* The temperatures in a city are around a certain value, for every season, and only during fews days the temperatures are extrmemly height or extremely low, compared to their usual value.
+* The temperatures in a city are around a certain value, for every season, and only during few days the temperatures are extremely height or extremely low, compared to their usual value.
 
 The Normal distribution therefore can be used in many cases and its main characteristic is that it resembles a bell shaped distribution.  
 
@@ -116,15 +116,15 @@ The Normal distribution therefore can be used in many cases and its main charact
 
 ## Other probability distributions
 
-Besides the Normal Distribution, there are noumerous other probablity distributions and one difficulty in statistics lies in choosing the appropriate probablity distribution for each case.
+Besides the Normal Distribution, there are numerous other probability distributions and one difficulty in statistics lies in choosing the appropriate probability distribution for each case.
 
-The most comonly used probablity distributions are:
+The most commonly used probability distributions are:
 
 * Binomial distribution
 * Poisson distribution
 * Normal distribution
 * Student's t distribution
-* Chi square sistribution
+* Chi square distribution
 * F distribution  
 
 *[Index](#Probability-and-Statistics---Main-Concepts)*  
@@ -134,20 +134,20 @@ The most comonly used probablity distributions are:
 
 In statistical terminology, a population is anything that we would like to study and thus, it can refer to people, animals, plants but also in any item we could think of.
 
-If we would like to study the people living in a big city, the population we are interested in, is the population of that city. But if we would like to study the grades of the highschool students in that city, then the population we are interested in, is the population of the highschool students.
+If we would like to study the people living in a big city, the population we are interested in, is the population of that city. But if we would like to study the grades of the high school students in that city, then the population we are interested in, is the population of the high school students.
 
 In a similar way, if we want to study the trees in a forest, then the population we are interested in, is the total number of threes in that forest. But if we would like to study only the fir trees in that forest, then we will define our population as the total number of fir trees in that forest. In case though we are interested only in the fir trees above 2 meters high, then we will define our population as the total number of fir trees in that forest that are above 2 meters height.
 
-In most cases though, the population we are interested to study is so large that it's not possible to study each individual member, as this is something impractical and expensive. For that reason we select just a sample from the population we are interested to study and based on that sample, we draw our coclusions for the entire population.
+In most cases though, the population we are interested to study is so large that it's not possible to study each individual member, as this is something impractical and expensive. For that reason we select just a sample from the population we are interested to study and based on that sample, we draw our conclusions for the entire population.
 
 In that way, we can study just a sample of a few hundred people and draw conclusions for a population of a few million people. The quality though of our research, depends on the good selection of the sample and the usage of the proper statistical methods, in order to draw conclusions that are representative of the entire population.
 
-In practise though, we can never be 100% sure if our conclusions for the entire population are correct, as we never have the chance to study the whole population. If a similar research though, from another researcher at a later time, will draw similar conclusions for that population, then this is good indication that our research was on the right track.
+In practice though, we can never be 100% sure if our conclusions for the entire population are correct, as we never have the chance to study the whole population. If a similar research though, from another researcher at a later time, will draw similar conclusions for that population, then this is good indication that our research was on the right track.
 
-Usually, the only time that we can actually see how good the predictions from the sample were, is when we have access to the complete population, and this is something that happens during elections. In this case, the exit polls represent the sample, while the election results represent the complete population. Obviously, the population conists of the voters who actually vote and the sample is the exit poll that took place on the same day as the election. Thus, depending on how good the exit  polls predicted the actual result, we understand how good the sampling process was, and how good was the use of the statistical methods that were applied.  
-The gullops that take place before the elections, are not so representative compared to the exit polls, because some voters may change their vote untill the election day.
+Usually, the only time that we can actually see how good the predictions from the sample were, is when we have access to the complete population, and this is something that happens during elections. In this case, the exit polls represent the sample, while the election results represent the complete population. Obviously, the population consists of the voters who actually vote and the sample is the exit poll that took place on the same day as the election. Thus, depending on how good the exit  polls predicted the actual result, we understand how good the sampling process was, and how good was the use of the statistical methods that were applied.  
+The gallops that take place before the elections, are not so representative compared to the exit polls, because some voters may change their vote until the election day.
 
-There are also cases where although it's possible to have access to the complete population, we are not interested to study the complete population. One example is the number of smart phones that a factory produces. We need to use a sample of those phones for quality tests, but not all the phones that the factory produces. The quality tests may destroy the devices that are tested, so it wouldn't make sense to run a quality test for every phone that the factory produces. Instead, based on the quality tests that take place on a sample of the total phones produced, it helps to understand the quality of the phones produced by that factory, and to improve the manufacturing quality whenever is neccesary.  
+There are also cases where although it's possible to have access to the complete population, we are not interested to study the complete population. One example is the number of smart phones that a factory produces. We need to use a sample of those phones for quality tests, but not all the phones that the factory produces. The quality tests may destroy the devices that are tested, so it wouldn't make sense to run a quality test for every phone that the factory produces. Instead, based on the quality tests that take place on a sample of the total phones produced, it helps to understand the quality of the phones produced by that factory, and to improve the manufacturing quality whenever is necessary.  
 
 *[Index](#Probability-and-Statistics---Main-Concepts)*  
 
