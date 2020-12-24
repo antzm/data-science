@@ -136,9 +136,9 @@ In statistical terminology, a population is anything that we would like to study
 
 If we would like to study the people living in a big city, the population we are interested in, is the population of that city. But if we would like to study the grades of the high school students in that city, then the population we are interested in, is the population of the high school students.
 
-In a similar way, if we want to study the trees in a forest, then the population we are interested in, is the total number of threes in that forest. But if we would like to study only the fir trees in that forest, then we will define our population as the total number of fir trees in that forest. In case though we are interested only in the fir trees above 2 meters high, then we will define our population as the total number of fir trees in that forest that are above 2 meters height.
+In a similar way, if we want to study the trees in a forest, then the population we are interested in, is the total number of threes in that forest. But if we would like to study only the fir trees in that forest, then we will define our population as the total number of fir trees in that forest. In case though we are interested only in the fir trees above 2 meters high, then we will define our population as the total number of fir trees, in that forest, that are above 2 meters height.
 
-In most cases though, the population we are interested to study is so large that it's not possible to study each individual member, as this is something impractical and expensive. For that reason we select just a sample from the population we are interested to study and based on that sample, we draw our conclusions for the entire population.
+In most cases though, the population we are interested to study is so large that it's not possible to study each individual member, as this is something impractical and expensive. For that reason, we select just a sample from the population we are interested to study and based on that sample, we draw our conclusions for the entire population.
 
 In that way, we can study just a sample of a few hundred people and draw conclusions for a population of a few million people. The quality though of our research, depends on the good selection of the sample and the usage of the proper statistical methods, in order to draw conclusions that are representative of the entire population.
 
@@ -281,15 +281,15 @@ And here we come to the big question in statistics. How can we decide if two pop
 
 ## Hypothesis testing - statistical tests
 
-Almost everything we do in statistics, involves various hypotheses testings. So, first step is to create a Null Hypothesis and an Alternative Hypothesis and then, choose the proper statisctical test in order to check which one of the two hypotheses we should accept and which one we should reject.
+Almost everything we do in statistics, involves various hypotheses tests. So, first step is to create a Null Hypothesis and an Alternative Hypothesis and then, choose the proper statistical test in order to check which one of the two hypotheses we should accept and which one we should reject.
 
 In a football game, we choose an experienced referee, in order to objectively judge if the rules are followed. For the same reason, we choose an experienced referee for a basketball game. But it wouldn't make much sense to choose a football referee in a basketball game, and vice versa.
 
-The same principle applies to statistics. There are various statistical tests availabe, like z-test, t-test, F-test, x square test etc. and the difficulty in statistics lies in choosing the correct statistical test for each situation. Otherwise, if we choose the wrong statistical test it would be like using a basketball referee in a football game.
+The same principle applies to statistics. There are various statistical tests available, like z-test, t-test, F-test, x square test etc. and the difficulty in statistics lies in choosing the correct statistical test for each situation. Otherwise, if we choose the wrong statistical test it would be like using a basketball referee in a football game.
 
 Then, depending on the results of the statistical test, we would either choose the Null Hypothesis or the Alternative Hypothesis.
 
-So, every decision in statistics involves a Hypothesis Testing and depending on the situation, we choose the proper statisitcal test which will tell us, in an objective way, if we should accept the Null or the Alternative Hypothesis.
+So, every decision in statistics involves a Hypothesis Testing and depending on the situation, we choose the proper statistical test which will tell us, in an objective way, if we should accept the Null or the Alternative Hypothesis.
 
 *[Index](#Probability-and-Statistics---Main-Concepts)*  
 
