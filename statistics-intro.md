@@ -533,3 +533,12 @@ ANOVA gives us only information if there is at least one population that is diff
 For this reason, when the results of the ANOVA analysis shows that there is at least one population that is different, then we need to proceed further with more specialized stastical tests in order to find the populations that differe from all the others.
 
 *[Index](#Probability-and-Statistics---Main-Concepts)*  
+
+
+## Linear regession
+
+Whenever we have two variables, X and Y, where X affects the Y, then we call the X as independent variable and the Y as dependent variable.
+
+When we draw a scatter plot of those two variables, and have a look at the points in the graph, we can understand what kind of relationship exists between those two variables.
+
+If the points in the graphs can be approximated with a straight line, then we can use linear regression to predict the value of Y based on the value of X.
