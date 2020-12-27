@@ -542,3 +542,9 @@ Whenever we have two variables, X and Y, where X affects the Y, then we call the
 When we draw a scatter plot of those two variables, and have a look at the points in the graph, we can understand what kind of relationship exists between those two variables.
 
 If the points in the graphs can be approximated with a straight line, then we can use linear regression to predict the value of Y based on the value of X.
+
+## Correlation
+
+Correlation shows us, in a scale from -1 to 1, how good our data is represented by a line. If the correlation is negative, then this means that as our independent variable is increasing, our dependent variable is decreasing, while positive correlation means that as our independent variable is increasing, our dependent variable is also increasing, while correlation close to zero means that changes in the independent variable does not affect the dependent variable.
+
+The correlation is measured using r while the r squared, taking values from 0 to 1, shows how well our indpendent variable explains our dependent variable.
