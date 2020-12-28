@@ -543,8 +543,23 @@ When we draw a scatter plot of those two variables, and have a look at the point
 
 If the points in the graphs can be approximated with a straight line, then we can use linear regression to predict the value of Y based on the value of X.
 
+The equation of a linear regression model has the form 'y=ax+b' and given the x we can predict the value of y.
+
+In this equation, a is the slope of the line and b is the y intercept.
+
+
 ## Correlation
 
 Correlation shows us, in a scale from -1 to 1, how good our data is represented by a line. If the correlation is negative, then this means that as our independent variable is increasing, our dependent variable is decreasing, while positive correlation means that as our independent variable is increasing, our dependent variable is also increasing, while correlation close to zero means that changes in the independent variable does not affect the dependent variable.
 
 The correlation is measured using r while the r squared, taking values from 0 to 1, shows how well our indpendent variable explains our dependent variable.
+
+The closer to 1 our r-squared, the better our linear regression model will be. A good model is considered the one who has an r-squared above 0.7 but it actually something subjective.
+
+To decide in an objective way if our r-squared is good or not, we should use a hypothesis testing where we will test the following null and alterneative hypothesis:
+
+H0: r-squared = 0
+
+H1: r-squared <> 0
+
+Meaning that the null hypothesis will test if the r-squared is statistically not significant and the alternative hypothesis will test that the r-squared is statistically significant.
