@@ -548,7 +548,7 @@ The equation of a linear regression model has the form 'y=ax+b' and given the x 
 In this equation, a is the slope of the line and b is the y intercept.
 
 
-## Correlation
+## Correlation r and r-squared
 
 Correlation shows us, in a scale from -1 to 1, how good our data is represented by a line. If the correlation is negative, then this means that as our independent variable is increasing, our dependent variable is decreasing, while positive correlation means that as our independent variable is increasing, our dependent variable is also increasing, while correlation close to zero means that changes in the independent variable does not affect the dependent variable.
 
@@ -562,4 +562,14 @@ H0: r-squared = 0
 
 H1: r-squared <> 0
 
-Meaning that the null hypothesis will test if the r-squared is statistically not significant and the alternative hypothesis will test that the r-squared is statistically significant.
+Meaning that the null hypothesis will test if the r-squared is statistically not significant (statistically, equal to 0) and the alternative hypothesis will test that the r-squared is statistically significant (statistically, different from 0).
+
+Referring to what was mentioned earlier, the r and r-squared always refer to a sample. Whenever though we refer to a population, we use the Greek letters ρ and ρ-square.
+
+This is because in statistics, we use English letters for the samples and Greek letters for the populations.
+
+Thus, to test if there's statistically significant correlation in a population, we will use the following hypothesis testing:
+
+H0: ρ = 0
+
+H1: ρ <> 0
