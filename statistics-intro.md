@@ -548,6 +548,15 @@ The equation of a linear regression model has the form 'y=ax+b' and given the x 
 In this equation, a is the slope of the line and b is the y intercept.
 
 
+## Multiple linear regression
+
+Most of the times, there are more than one independent variables that affect our dependent variable. In those cases, we can use the multiple linear regression to be able to create a more accurate model.
+
+Assuming we have three independent variables (x1, x2, x3), the equation of our model would be:
+
+y = ax1 + bx2 + cx3 + d
+
+
 ## Correlation r and r-squared
 
 Correlation shows us, in a scale from -1 to 1, how good our data is represented by a line. If the correlation is negative, then this means that as our independent variable is increasing, our dependent variable is decreasing, while positive correlation means that as our independent variable is increasing, our dependent variable is also increasing, while correlation close to zero means that changes in the independent variable does not affect the dependent variable.
