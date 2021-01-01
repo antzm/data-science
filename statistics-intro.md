@@ -26,6 +26,9 @@
 * [Hypothesis Testing - Results interpretation](#Hypothesis-Testing---Results-interpretation)
 * [Hypothesis testing with more than two populations](#Hypothesis-testing-with-more-than-two-populations)
 * [Importance of the ANOVA method](#Importance-of-the-ANOVA-method)
+* [Correlation r and r-squared](#Correlation-r-and-r-squared)
+* [Linear regession](#Linear-regession)
+* [Multiple linear regression](#Multiple-linear-regression)
 
 
 ## Probabilities
@@ -535,28 +538,6 @@ For this reason, when the results of the ANOVA analysis shows that there is at l
 *[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
-## Linear regession
-
-Whenever we have two variables, X and Y, where X affects the Y, then we call the X as independent variable and the Y as dependent variable.
-
-When we draw a scatter plot of those two variables, and have a look at the points in the graph, we can understand what kind of relationship exists between those two variables.
-
-If the points in the graphs can be approximated with a straight line, then we can use linear regression to predict the value of Y based on the value of X.
-
-The equation of a linear regression model has the form 'y=ax+b' and given the x we can predict the value of y.
-
-In this equation, a is the slope of the line and b is the y intercept.
-
-
-## Multiple linear regression
-
-Most of the times, there are more than one independent variables that affect our dependent variable. In those cases, we can use the multiple linear regression to be able to create a more accurate model.
-
-Assuming we have three independent variables (x1, x2, x3), the equation of our model would be:
-
-y = ax1 + bx2 + cx3 + d
-
-
 ## Correlation r and r-squared
 
 Correlation shows us, in a scale from -1 to 1, how good our data is represented by a line. If the correlation is negative, then this means that as our independent variable is increasing, our dependent variable is decreasing, while positive correlation means that as our independent variable is increasing, our dependent variable is also increasing, while correlation close to zero means that changes in the independent variable does not affect the dependent variable.
@@ -582,3 +563,32 @@ Thus, to test if there's statistically significant correlation in a population, 
 H0: ρ = 0
 
 H1: ρ <> 0
+
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
+
+
+## Linear regession
+
+Whenever we have two variables, X and Y, where X affects the Y, then we call the X as independent variable and the Y as dependent variable.
+
+When we draw a scatter plot of those two variables, and have a look at the points in the graph, we can understand what kind of relationship exists between those two variables.
+
+If the points in the graphs can be approximated with a straight line, then we can use linear regression to predict the value of Y based on the value of X.
+
+The equation of a linear regression model has the form 'y=ax+b' and given the x we can predict the value of y.
+
+In this equation, a is the slope of the line and b is the y intercept.
+
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
+
+
+## Multiple linear regression
+
+Most of the times, there are more than one independent variables that affect our dependent variable. In those cases, we can use the multiple linear regression to be able to create a more accurate model.
+
+Assuming we have three independent variables (x1, x2, x3), the equation of our model would be:
+
+y = ax1 + bx2 + cx3 + d
+
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
+
