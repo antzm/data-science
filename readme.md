@@ -31,6 +31,8 @@ Another useful knowledge in Data Science, is a basic understanding of linear alg
 
 Python is the most widely used programming language in data science. Although other languages could also be used, Python has some great advantages compared to other languages, and this is mainly due the great libraries that are available for working with data.
 
+For this reason, a short introduction to Python is included in this repository.
+
 
 ## Python libraries
 
@@ -41,6 +43,8 @@ Some of the moste important Pyton libraries in data science are:
 * seaborn
 * sklearn
 
+Some basic information on a few Python libraries is included in this repository.
+
 
 ## Machine learning algorithms
 
@@ -50,6 +54,9 @@ In data science, we use existing data to scientifically predict future trends. T
 ## Cloud computing
 
 It's almost impossible to use an average modern computer for very demanding computations. For this reason, everyone in fhe field of data science must have a very good knowledge of at least one cloud computing platform, which will provide the means for analysing demanding data sets and creating machine learning models.
+
+For this reason, a bried introduction to AWS SageMaker is included, as a starting point for analyzing data on the AWS cloud.
+
 
 ## Contents
 
