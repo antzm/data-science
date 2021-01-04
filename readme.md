@@ -5,7 +5,11 @@
 
 This is a repository with various information on Data Science. The purpose is to share some interesting, and hopefully useful information, about Data Science.
 
+All the information included, has been 
+
 Firstly, it contains basic information on statistics and then, provides basic information about some of the tools that are used in data science. There several tools that can be used in data scinece and thus, this repo includes just a few of those tools.
+
+There are various programs that can be used for Data Analysis and Data Science but this repo will focus mostly on the open ware solutions that are available to data analysta and data scientists.
 
 
 ## Data analysis vs data science
@@ -20,6 +24,8 @@ Many people think that the terms Data Analysis and Data Science are the same thi
 ## Probablility and Statistics
 
 To become a good Data Scientist, someone should first understand the important statistical concepts that are used in Data Science. In fact, the better someone can understand the true meaning of the various statisitical concepts, the better data scientist will be. 
+
+As susch, a detailed introduction to some basic concepts of statistics has been prepared.
 
 
 ## Linear Algebra
@@ -55,7 +61,7 @@ In data science, we use existing data to scientifically predict future trends. T
 
 It's almost impossible to use an average modern computer for very demanding computations. For this reason, everyone in fhe field of data science must have a very good knowledge of at least one cloud computing platform, which will provide the means for analysing demanding data sets and creating machine learning models.
 
-For this reason, a bried introduction to AWS SageMaker is included, as a starting point for analyzing data on the AWS cloud.
+For this reason, a brief introduction to AWS SageMaker is included, as a starting point for analyzing data on the AWS cloud.
 
 
 ## Contents
