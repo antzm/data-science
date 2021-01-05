@@ -21,6 +21,15 @@ Many people think that the terms Data Analysis and Data Science are the same thi
 * Data Science though, is using existing data not only to describe what happened in the past, but also, it uses those data in a scientfic way that allows to estimate the future tendencies.
 
 
+## Data sources
+
+The data we need to analyze, may come from different sources. They could be existing data, or we may need to create our own "experiment" in order to collect the data we need. This "experiment" could ne an actual scientific experiment or even a questionaire, that has to be filled in order to select the neccesary data.
+
+The data we will be using for our analysis, would be either structured data, which are well organized data in the form of tables, or unstructured data that have to go through a lot of processing in order to be tranformed into structured data. Examples of structured data are the SQL databases, while unstructured data are the various post on the social media.
+
+Between those two types, there are also the semi-structured data that need some kind of processing to become structured data. This could include, for example, log files, JSON files and HTML files.
+
+
 ## Probablility and Statistics
 
 To become a good Data Scientist, someone should first understand the important statistical concepts that are used in Data Science. In fact, the better someone can understand the true meaning of the various statisitical concepts, the better data scientist will be. 
