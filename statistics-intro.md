@@ -590,5 +590,8 @@ Assuming we have three independent variables (x1, x2, x3), the equation of our m
 
 y = ax1 + bx2 + cx3 + d
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+After creating our multiple linear regression equation, we can use the proper statistical tests to see whether the coeffients a, b, c and the constant d are statistically significant or not.
 
+If some of the coefficients are not statistically significant, then we should consider changes to our models as this means that the independent variables we had chosen, are not contributing in a statistical signifance way to our model, and thus, they actually fail to explain our model.
+
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
