@@ -66,6 +66,13 @@ Some basic information on a few Python libraries is included in this repository.
 In data science, we use existing data to scientifically predict future trends. The most modern way to accomplish this, is by using various machine learning algorithms and methods. Thus, a thorough understanding of machine learning is essential in data science.
 
 
+## Deep Learing
+
+Deep Learning is the creation of a multi layer neural network that can be used for image recognition, natural language processing, plagiarism detector, sentiment analysis etc.
+
+Deep learing is part of machine learning but we could say that is something more demanding and specialized.
+
+
 ## Cloud computing
 
 It's almost impossible to use an average modern computer for very demanding computations. For this reason, everyone in fhe field of data science must have a very good knowledge of at least one cloud computing platform, which will provide the means for analysing demanding data sets and creating machine learning models.
