@@ -80,6 +80,17 @@ It's almost impossible to use an average modern computer for very demanding comp
 For this reason, a brief introduction to AWS SageMaker is included, as a starting point for analyzing data on the AWS cloud.
 
 
+## Writing skills
+
+As a data scientist, someone has to write a lot of reports to explain the results that she or has find. This means that a data scientist has to be really good in expressing in a concise and effective way the various results.
+
+It's absolutely meaningless if an excellent data scientist discovers extraordinary things while working with data and not to be able to coomunicate his or her findings.
+
+Our writing skills imporove not only as we write more but most importantly, when we read more. Thus, a data scientist should always take a chance to read more literature and not only data science books.
+
+Also, for many data scientists, English is not their first language but they may need to present reports in English and for this reason, they should also practise by reading English books and writing texts whenever possible.
+
+
 ## Contents
 
 * [Introduction to statistics](statistics-intro.md)
