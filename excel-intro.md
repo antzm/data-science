@@ -42,6 +42,23 @@ So, whenever we import data to Excel, from a CSV or a TXT file, the decimal numb
 
 Obviously, it would be preferable to import data from a CSV or TXT file in the same decimal format, as the one that we use in our computer. Whenever though this is not possible, we can use the function `SUBSTITUTE()` in order to replace the dot or the comma in the decimal numbers, and then the function `VALUE()` to transform those strings to numbers.
 
+Assuming we are using a European version of Excel and we have the string 1.23 in cell A1 which we would like to convert to a number. We will use the following aproach:
+
+=SUBSTITUTE(A1; "."; ",")
+
+Which will substitute the . with , and so the string 1.23 will be convertef to 1,23 but it will still be a string.
+
+Now, to convert the sting 1,23 to a number, we will use the function VALUE:
+
+Assuming tha the string 1,23 is in cell B1, we will use the following formula:
+
+=VALUE(B1)
+
+And after that, the string 1.23 will have been converted to the number 1,23.
+
+Keep in mind though that the formula VALUE can only be used on a string that looks like a number. i.e. it can be used on the string 1,23 but it cannot be used in the string 1.23 because the European version of Excel does not recognize 1.23 as a number.
+
+
 ## Sharing data
 
 From the above we conclude that the safest and easiest way to share data between countries that use different representations for the decimal numbers, is by using an Excel file that has been saved as .xls or .xlsx because it will always represent the decimal numbers correctly.

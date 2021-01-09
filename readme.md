@@ -66,7 +66,7 @@ Some basic information on a few Python libraries is included in this repository.
 In data science, we use existing data to scientifically predict future trends. The most modern way to accomplish this, is by using various machine learning algorithms and methods. Thus, a thorough understanding of machine learning is essential in data science.
 
 
-## Deep Learing
+## Deep Learning
 
 Deep Learning is the creation of a multi layer neural network that can be used for image recognition, natural language processing, plagiarism detector, sentiment analysis etc.
 
