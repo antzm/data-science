@@ -152,6 +152,32 @@ The gallops that take place before the elections, are not so representative comp
 
 There are also cases where although it's possible to have access to the complete population, we are not interested to study the complete population. One example is the number of smart phones that a factory produces. We need to use a sample of those phones for quality tests, but not all the phones that the factory produces. The quality tests may destroy the devices that are tested, so it wouldn't make sense to run a quality test for every phone that the factory produces. Instead, based on the quality tests that take place on a sample of the total phones produced, it helps to understand the quality of the phones produced by that factory, and to improve the manufacturing quality whenever is necessary.  
 
+As a recap, it's important to remeber that a population in statistics is anything we are interested to study, and we are the ones who define the population. 
+
+Below, are a few randomly chosen examples of populations:
+
+ -The voters in a country. 
+ -The voters in a specific region of a country.
+ -The high school students in Europe. 
+ -The data analysts in America 
+ -The companies in Asia that have 100 employees and above. 
+ -The people in Africa that live in cities of 1 million and above 
+ -The people in Australia that live in rural areas 
+ -The islands of the world that are smaller than 1000 square meters 
+ -The dolphins in the Atlantic Ocean 
+ -The whales in the Pacific Ocean 
+ -The eucalyptus trees in Australia 
+ -The trees of the Amazon forest that are above 5 meters tall 
+ -The smartphones that a factory produces during a month 
+ -The people who don’t have pets 
+ -The people who have both a dog and a cat 
+ -The people who walk or run at least 5 kilometers every week 
+ -The people who… 
+ -The animals who… 
+ -The plants that… 
+ -The items that… 
+ -and so on…
+
 *[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
