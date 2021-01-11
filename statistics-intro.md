@@ -133,6 +133,11 @@ The most commonly used probability distributions are:
 *[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
+## Degrees of freedom
+
+The degrees of freedom is a concept which, at first, is a little difficult to be unstersttod completely. When we have a sample with a size of 100, then we have 100 degrees of freedom. Bu as soon as we calculate the mean of that sample, we loose 1 degree of freedom. This is because, our data initially could vary in any possible way but as soon as we calculate the mean value is like we impose a constraint to our data that a rule must be followed from now on. The data could still vary but with less degress of freedom so that the mean value will remain unchanged.
+
+
 ## Population vs Sample
 
 In statistical terminology, a population is anything that we would like to study and thus, it can refer to people, animals, plants but also in any item we could think of.
