@@ -61,6 +61,16 @@ Some of the moste important Pyton libraries in data science are:
 Some basic information on a few Python libraries is included in this repository.
 
 
+## SQL
+
+The Stuctured Query Language (SQL) is used to extract information from data that are stored in relational databases, like the mySQL and PostgreSQL data bases. It's an important skill that the data scientists should have in order to be able to extract the data they want from a data base and then analyze those data.
+
+
+## Git Bash
+
+Git bash provides a command line interface to data scientist which allows to collaborate with other data scientists and, between other things, to also upload ans share their work on GitHUb.
+
+
 ## Machine learning algorithms
 
 In data science, we use existing data to scientifically predict future trends. The most modern way to accomplish this, is by using various machine learning algorithms and methods. Thus, a thorough understanding of machine learning is essential in data science.
