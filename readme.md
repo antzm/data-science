@@ -41,6 +41,8 @@ As susch, a detailed introduction to some basic concepts of statistics has been 
 
 Another useful knowledge in Data Science, is a basic understanding of linear algebra. This includes matrices and understanding the calculations with matrices.
 
+Matrices calculations is an iportant part of data science, especially in the fields of machine learning and deep learning. For this reason, an essential understanding of those topics very udseful, 
+
 
 ## Python
 
@@ -59,6 +61,11 @@ Some of the moste important Pyton libraries in data science are:
 * sklearn
 
 Some basic information on a few Python libraries is included in this repository.
+
+
+## R
+
+The statistical language R, was once considered a neccesary knowldedge for data scientists but nowadays, Python provides more flexibility through numerous libraries and packages that cover almost every data scientist need.
 
 
 ## SQL
