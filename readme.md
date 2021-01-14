@@ -3,13 +3,13 @@
 
 ## Introduction
 
-This is a repository with various information on Data Science. The purpose is to share some interesting, and hopefully useful information, about Data Science.
+This is a repository with various information on Data Science. The purpose is to share some interesting, and hopefully useful information, about Data Science and to provide some basic form of guidance to everyone whi starts hiw or her own journey in the data field.
 
-All the information included, has been 
+All the information included, has been created specifically for this repository and has been written litle by litle for a priod of several days.
 
 Firstly, it contains basic information on statistics and then, provides basic information about some of the tools that are used in data science. There several tools that can be used in data scinece and thus, this repo includes just a few of those tools.
 
-There are various programs that can be used for Data Analysis and Data Science but this repo will focus mostly on the open ware solutions that are available to data analysta and data scientists.
+There are various software programs that can be used for Data Analysis and Data Science but this repo will focus mostly on the open source solutions that are available to data analysts and data scientists.
 
 
 ## Data analysis vs data science
@@ -28,6 +28,11 @@ The data we need to analyze, may come from different sources. They could be exis
 The data we will be using for our analysis, would be either structured data, which are well organized data in the form of tables, or unstructured data that have to go through a lot of processing in order to be tranformed into structured data. Examples of structured data are the SQL databases, while unstructured data are the various post on the social media.
 
 Between those two types, there are also the semi-structured data that need some kind of processing to become structured data. This could include, for example, log files, JSON files and HTML files.
+
+
+## Cleaning the Data
+
+Usually, the data we are going to use for our data analysis, firstly, they need to be cleaned thus, making sure that our data have the proper format and that our variable types are consistent throughout our our dataset.
 
 
 ## Probablility and Statistics
