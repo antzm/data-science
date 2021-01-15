@@ -121,4 +121,24 @@ While for OR we should use this format:
 
 It's much simpler to perform the neccesary logical operators first, and then to use the if function on the logical results. Obviously we could use the if function directly, but when using many logical operators its format looks rather complicated and it's easier to make a mistake.
 
+For example, let's assume that we have an Excel sheet that contains invoice dates and payment dates, and we would like to verify that every cell contains a date and that there no dates that look wrong.
 
+Assuming that all dates must start after January 1st, 2019, then we could use this logical operator to check if this holds true.
+
+=A1>43465
+
+The date December 31st, 2018, is stored in Excel as the number 43465
+
+To verify this, we type the date in the cell A1 and then we use this formula:
+
+=value(A1)
+
+Which will return the number 43465
+
+So, having dates in column A and typing
+
+=A1>43465
+
+will return TRUE if the dates are above 43465, i.e. January 31st 2019 and after. Otherwise the formula will return FALSE, and so we can easily spot a date that is not correct.
+
+Using conditional formating, helps also to locate easily the cells that carry unusual values in order to correct them .
