@@ -3,13 +3,13 @@
 
 ## Introduction
 
-This is a repository with various information on Data Science. The purpose is to share some interesting, and hopefully useful information, about Data Science and to provide some basic form of guidance to everyone whi starts hiw or her own journey in the data field.
+This is a repository with various information on Data Science. The purpose is to share some interesting, and hopefully useful information, about Data Science and to provide some basic form of guidance to everyone who starts his or her own journey in the data field.
 
-All the information included, has been created specifically for this repository and has been written litle by litle for a priod of several days.
+All the information included, has been created specifically for this repository and has been written litle by litle for a period of several weeks.
 
-Firstly, it contains basic information on statistics and then, provides basic information about some of the tools that are used in data science. There several tools that can be used in data scinece and thus, this repo includes just a few of those tools.
+Firstly, it contains basic information on statistics and then, provides basic information about some of the tools that are used in data science. There are several tools that can be used in data scinece and thus, this repo includes just a few of those tools.
 
-There are various software programs that can be used for Data Analysis and Data Science but this repo will focus mostly on the open source solutions that are available to data analysts and data scientists.
+There are various software programs that can be used for Data Analysis and Data Science, but this repo focuses mostly on the open source solutions that are available to data analysts and data scientists.
 
 
 ## Data analysis vs data science
@@ -35,6 +35,14 @@ Between those two types, there are also the semi-structured data that need some 
 Usually, the data we are going to use for our data analysis, firstly, they need to be cleaned thus, making sure that our data have the proper format and that our variable types are consistent throughout our our dataset.
 
 
+## Missing data
+
+This a great field for controversy as there are several opinions on how to handle the missing data in our dataset.  
+The most important thing though, is to make our own decision and at the same time being able to explain the exact reasons that lead us to that particular decision.
+
+As we examine and analyze a dataset, we are getting a better understaning of our data and this can lead us to better decisions on how to handle the missing data. Otherwise, just selecting an option that we read somewhere, will not be the best option.
+
+
 ## Probablility and Statistics
 
 To become a good Data Scientist, someone should first understand the important statistical concepts that are used in Data Science. In fact, the better someone can understand the true meaning of the various statisitical concepts, the better data scientist will be. 
@@ -46,7 +54,7 @@ As susch, a detailed introduction to some basic concepts of statistics has been 
 
 Another useful knowledge in Data Science, is a basic understanding of linear algebra. This includes matrices and understanding the calculations with matrices.
 
-Matrices calculations is an iportant part of data science, especially in the fields of machine learning and deep learning. For this reason, an essential understanding of those topics very udseful, 
+Matrices calculations is an iportant part of data science, especially in the fields of machine learning and deep learning. For this reason, an essential understanding of those topics would very udseful. 
 
 
 ## Python
