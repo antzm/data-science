@@ -137,6 +137,14 @@ The most commonly used probability distributions are:
 
 The degrees of freedom is a concept which, at first, is a little difficult to be unstersttod completely. When we have a sample with a size of 100, then we have 100 degrees of freedom. Bu as soon as we calculate the mean of that sample, we loose 1 degree of freedom. This is because, our data initially could vary in any possible way but as soon as we calculate the mean value is like we impose a constraint to our data that a rule must be followed from now on. The data could still vary but with less degress of freedom so that the mean value will remain unchanged.
 
+From another perspective, initially we have 100 observations from our population. At any time, some of those observations could be replaced with the same number of observatios from our population. Thus, initially our data have 100 degrees of freedom as they can vary freely.
+
+When we calculate the mean though, then some of the data could still be replaced with the same number of data from our population BUT our new data should be such that the mean of our sample will remain exactly the same.
+
+So, the replacement of our data from that point onwards, should follow a certain rule, a certain constraint, otherwise the data cannot be replaced with other data from our population.
+
+For this reason, our data cannot vary anymore with 100 degrees of freedom and for this reason we loose 1 degree of freedom when we calculate the mean. 
+
 
 ## Population vs Sample
 
