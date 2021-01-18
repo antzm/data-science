@@ -194,6 +194,21 @@ Below, are a few randomly chosen examples of populations:
 *[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
+## Outliers
+
+Many times, while analyzing our data, we may find that there are some extreme values in our data. There various reasons why this may be happening but first of all we should examine if these observations are actual observations or if the been entered to our dataset by some means of mistake.
+
+If there's a mistake, then will either consider those observations as missing data and either remove them or replace them, depending on what will be more appropriate in our case.
+
+If on the other hand, we realize that those observations are actual data, then we should try and undertand the reason why those observations are so extreme as to constitute outliers.
+
+Depending on the situation we are delaing with, we may either keep those outliers or remove them.
+
+One approach, would also be to perform our data analysis including those outliers and then to perform another analysis without those outliers.
+
+This way, we could compare thiose results and then decide which one would be the best approach to follow in this certain case, as there are no generalized rules that apply for every dataset and for every situation.
+ 
+
 ## Descriptive statistics
 
 Descriptive statistics uses the available data to draw conclusions about what happened in the past. It analyzes the available data and presents the results in a concise way that can be easily understood and interpreted. These results though, refer exclusively to the data that was analyzed, while the conclusions from that data, have no broader or more generalized application.
