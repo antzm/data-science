@@ -194,6 +194,21 @@ Below, are a few randomly chosen examples of populations:
 *[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
+## Median and Quartiles
+
+When we calculate the mean value of our dataset, we use the data in any order we wish, as this does not affect the result.
+
+It is very important though to realize that when we calculate the Median value of a dataset, we need to always arrange the values from the smaller to the larger, otherwise our calcculations will be wrong.
+
+When we arrange our dataset in this order, the Median value is the number that is exctly in the middle. i.e., if we have 15 values, the Median would be the value that, after our data have been ordered, is in the position 8 as in this case, it would be exactly in the middle, with 7 values on the left and 7 values on the right.
+
+Then, we use the data on the left of our Median and in a similar manner we calculate the 1st quartile.
+
+After that, we use the data on the right side of our sample and calcualte, in a similar manner, the erd quartile.
+
+The distance between the 1st and the 3rd quartiles is called the interquartile range.
+
+
 ## Outliers
 
 Many times, while analyzing our data, we may find that there are some extreme values in our data. There various reasons why this may be happening but first of all we should examine if these observations are actual observations or if the been entered to our dataset by some means of mistake.
