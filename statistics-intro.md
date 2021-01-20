@@ -206,7 +206,9 @@ Then, we use the data on the left of our Median and in a similar manner we calcu
 
 After that, we use the data on the right side of our sample and calcualte, in a similar manner, the erd quartile.
 
-The distance between the 1st and the 3rd quartiles is called the interquartile range.
+The distance between the 1st and the 3rd quartiles is called the interquartile range (IQR).
+
+Another thing we also calculate is the 1.5 x IQR which gives an an indication about the extreme values that we have in our dataset. The values that are below the 1st quartiles or above the 3rd quartile by 1.5 X IQR are considered as outliers and we should examine further the origin of those values.
 
 
 ## Outliers
@@ -222,6 +224,8 @@ Depending on the situation we are delaing with, we may either keep those outlier
 One approach, would also be to perform our data analysis including those outliers and then to perform another analysis without those outliers.
 
 This way, we could compare thiose results and then decide which one would be the best approach to follow in this certain case, as there are no generalized rules that apply for every dataset and for every situation.
+
+As mentioned earlier the 1.5 x IQR can be used to identify the outliers as the dataset values that are below the 1sr qurtile and above the 3rd quartile by 1.5 x IQR are considered to be outliers.
  
 
 ## Descriptive statistics
