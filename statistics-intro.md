@@ -211,6 +211,15 @@ The distance between the 1st and the 3rd quartiles is called the interquartile r
 Another thing we also calculate is the 1.5 x IQR which gives an an indication about the extreme values that we have in our dataset. The values that are below the 1st quartiles or above the 3rd quartile by 1.5 X IQR are considered as outliers and we should examine further the origin of those values.
 
 
+## Box plots
+
+Box plots or, box and whiskers graphs, help us to visualize the median and the quartiles in order to have a quick view on the way that our data are distributed.
+
+In a box plot, the main box represents the main 50% of our observations and inside the box we can see a line that represents the median. The outer parts of this box represent the first and the third quartile,
+
+As for the whiskers lenght, these extend up to the point where the smallest and the biggest value of our sample are. The maximum length of each whisker though, can be up to 1.5 times the lenght of the box. After that point, any more observations are represented by small cirecle that are considered to be outliers.
+
+
 ## Outliers
 
 Many times, while analyzing our data, we may find that there are some extreme values in our data. There various reasons why this may be happening but first of all we should examine if these observations are actual observations or if the been entered to our dataset by some means of mistake.
