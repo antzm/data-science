@@ -217,7 +217,7 @@ Box plots or, box and whiskers graphs, help us to visualize the median and the q
 
 In a box plot, the main box represents the main 50% of our observations and inside the box we can see a line that represents the median. The outer parts of this box represent the first and the third quartile,
 
-As for the whiskers lenght, these extend up to the point where the smallest and the biggest value of our sample are. The maximum length of each whisker though, can be up to 1.5 times the lenght of the box. After that point, any more observations are represented by small cirecle that are considered to be outliers.
+As for the whiskers lenght, these extend up to the point where we have the smallest and the biggest value of our sample. The maximum length of each whisker though, can be up to 1.5 times the lenght of the box. After that point, any more observations are represented by small circles that are considered to be outliers.
 
 
 ## Outliers
@@ -234,7 +234,14 @@ One approach, would also be to perform our data analysis including those outlier
 
 This way, we could compare thiose results and then decide which one would be the best approach to follow in this certain case, as there are no generalized rules that apply for every dataset and for every situation.
 
-As mentioned earlier the 1.5 x IQR can be used to identify the outliers as the dataset values that are below the 1sr qurtile and above the 3rd quartile by 1.5 x IQR are considered to be outliers.
+As mentioned earlier the 1.5 x IQR can be used to identify the outliers as the dataset values that are below the 1st qurartile and above the 3rd quartile by 1.5 x IQR are considered to be outliers.
+
+As a simpler aproach, we could draw the box plot graphs for every variable of our dataset and then locate the values that extend beyond the whiskers of the box plots.
+
+Those values are considered to ba outliers but we should fist have a look at those data to verify that these values were not entered by mistake.
+
+Then, if we verify that those values are actually correct, we will decide on how to handle them based on the analysis we plan to perform on our data.
+
  
 
 ## Descriptive statistics
