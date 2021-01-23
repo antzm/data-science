@@ -627,6 +627,13 @@ For this reason, when the results of the ANOVA analysis shows that there is at l
 *[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
+## Scatter plots
+
+Scatter plots are used to see if there is some kind of relathonship between the variables in our dataset. This a mandatory step every time we analyse data. Otherwise, we may only use formulas and come to a conclusion that there are no relationships between our variables. Using scatter plots though, we may find that there are actually many relationshps but they are not linear relationships. 
+
+This is why we should always analyse visually our data in order to get a better understanding which cannont be revelaed by just using formulata to analyse our data.
+
+
 ## Correlation r and r-squared
 
 Correlation shows us, in a scale from -1 to 1, how good our data is represented by a line. If the correlation is negative, then this means that as our independent variable is increasing, our dependent variable is decreasing, while positive correlation means that as our independent variable is increasing, our dependent variable is also increasing, while correlation close to zero means that changes in the independent variable does not affect the dependent variable.
