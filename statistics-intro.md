@@ -8,6 +8,10 @@
 * [Normal distribution](#Normal-distribution)
 * [Other probability distributions](#Other-probability-distributions)
 * [Population vs Sample](#Population-vs-Sample)
+* [Degrees of freedom](Degrees-of-freedom)
+* [Median and Quartiles](Median-and-Quartiles)
+* [Box plots](Box-plots)
+* [Outliers](Outliers)
 * [Descriptive statistics](#Descriptive-statistics)
 * [Inferential statistics](#Inferential-statistics)
 * [Statistical notation](#Statistical-notation)
@@ -26,6 +30,7 @@
 * [Hypothesis Testing - Results interpretation](#Hypothesis-Testing---Results-interpretation)
 * [Hypothesis testing with more than two populations](#Hypothesis-testing-with-more-than-two-populations)
 * [Importance of the ANOVA method](#Importance-of-the-ANOVA-method)
+* [Scatter plots](Scatter-plots)
 * [Correlation r and r-squared](#Correlation-r-and-r-squared)
 * [Linear regession](#Linear-regession)
 * [Multiple linear regression](#Multiple-linear-regression)
@@ -133,19 +138,6 @@ The most commonly used probability distributions are:
 *[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
-## Degrees of freedom
-
-The degrees of freedom is a concept which, at first, is a little difficult to be unstersttod completely. When we have a sample with a size of 100, then we have 100 degrees of freedom. Bu as soon as we calculate the mean of that sample, we loose 1 degree of freedom. This is because, our data initially could vary in any possible way but as soon as we calculate the mean value is like we impose a constraint to our data that a rule must be followed from now on. The data could still vary but with less degress of freedom so that the mean value will remain unchanged.
-
-From another perspective, initially we have 100 observations from our population. At any time, some of those observations could be replaced with the same number of observatios from our population. Thus, initially our data have 100 degrees of freedom as they can vary freely.
-
-When we calculate the mean though, then some of the data could still be replaced with the same number of data from our population BUT our new data should be such that the mean of our sample will remain exactly the same.
-
-So, the replacement of our data from that point onwards, should follow a certain rule, a certain constraint, otherwise the data cannot be replaced with other data from our population.
-
-For this reason, our data cannot vary anymore with 100 degrees of freedom and for this reason we loose 1 degree of freedom when we calculate the mean. 
-
-
 ## Population vs Sample
 
 In statistical terminology, a population is anything that we would like to study and thus, it can refer to people, animals, plants but also in any item we could think of.
@@ -194,6 +186,21 @@ Below, are a few randomly chosen examples of populations:
 *[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
+## Degrees of freedom
+
+The degrees of freedom is a concept which, at first, is a little difficult to be unstersttod completely. When we have a sample with a size of 100, then we have 100 degrees of freedom. Bu as soon as we calculate the mean of that sample, we loose 1 degree of freedom. This is because, our data initially could vary in any possible way but as soon as we calculate the mean value is like we impose a constraint to our data that a rule must be followed from now on. The data could still vary but with less degress of freedom so that the mean value will remain unchanged.
+
+From another perspective, initially we have 100 observations from our population. At any time, some of those observations could be replaced with the same number of observatios from our population. Thus, initially our data have 100 degrees of freedom as they can vary freely.
+
+When we calculate the mean though, then some of the data could still be replaced with the same number of data from our population BUT our new data should be such that the mean of our sample will remain exactly the same.
+
+So, the replacement of our data from that point onwards, should follow a certain rule, a certain constraint, otherwise the data cannot be replaced with other data from our population.
+
+For this reason, our data cannot vary anymore with 100 degrees of freedom and for this reason we loose 1 degree of freedom when we calculate the mean.
+
+*[Index](#Probability-and-Statistics---Main-Concepts)*  
+
+
 ## Median and Quartiles
 
 When we calculate the mean value of our dataset, we use the data in any order we wish, as this does not affect the result.
@@ -210,6 +217,8 @@ The distance between the 1st and the 3rd quartiles is called the interquartile r
 
 Another thing we also calculate is the 1.5 x IQR which gives an an indication about the extreme values that we have in our dataset. The values that are below the 1st quartiles or above the 3rd quartile by 1.5 X IQR are considered as outliers and we should examine further the origin of those values.
 
+*[Index](#Probability-and-Statistics---Main-Concepts)* 
+
 
 ## Box plots
 
@@ -218,6 +227,8 @@ Box plots or, box and whiskers graphs, help us to visualize the median and the q
 In a box plot, the main box represents the main 50% of our observations and inside the box we can see a line that represents the median. The outer parts of this box represent the first and the third quartile,
 
 As for the whiskers lenght, these extend up to the point where we have the smallest and the biggest value of our sample. The maximum length of each whisker though, can be up to 1.5 times the lenght of the box. After that point, any more observations are represented by small circles that are considered to be outliers.
+
+*[Index](#Probability-and-Statistics---Main-Concepts)* 
 
 
 ## Outliers
@@ -242,7 +253,8 @@ Those values are considered to ba outliers but we should fist have a look at tho
 
 Then, if we verify that those values are actually correct, we will decide on how to handle them based on the analysis we plan to perform on our data.
 
- 
+*[Index](#Probability-and-Statistics---Main-Concepts)* 
+
 
 ## Descriptive statistics
 
@@ -632,6 +644,8 @@ For this reason, when the results of the ANOVA analysis shows that there is at l
 Scatter plots are used to see if there is some kind of relathonship between the variables in our dataset. This a mandatory step every time we analyse data. Otherwise, we may only use formulas and come to a conclusion that there are no relationships between our variables. Using scatter plots though, we may find that there are actually many relationshps but they are not linear relationships. 
 
 This is why we should always analyse visually our data in order to get a better understanding which cannont be revelaed by just using formulata to analyse our data.
+
+*[Index](#Probability-and-Statistics---Main-Concepts)* 
 
 
 ## Correlation r and r-squared
