@@ -705,3 +705,15 @@ After creating our multiple linear regression equation, we can use the proper st
 If some of the coefficients are not statistically significant, then we should consider changes to our models as this means that the independent variables we had chosen, are not contributing in a statistical signifance way to our model, and thus, they actually fail to explain our model.
 
 *[Index](#Probability-and-Statistics---Main-Concepts)*  
+
+## Non linear regression
+
+Whenever we would like to find if it exists a linear relathionship between our independent and dependent variable, we need to create a scatter plot.
+
+The scatter plot will not only show us if there's a linear relationship, but it will give us also important information if the relationship between our variables is not linear.
+
+For example, if we just calculate the correlation and we find it's close to zero, then we will assume that there is no correlation between our variables and thus, we cannot use linear regression in this case.
+
+There is chanche though, that although there is no linear relation between our variables, there might be non linear relationship between our variables.
+
+In such a case, we will try to use non linear regression and see if the results of our model will be satisfactory.
