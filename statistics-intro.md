@@ -645,6 +645,14 @@ Scatter plots are used to see if there is some kind of relathonship between the 
 
 This is why we should always analyse visually our data in order to get a better understanding which cannont be revelaed by just using formulata to analyse our data.
 
+Whenever we notice some kind of relatioship between two variables, then this means that there exists a correlation between those two variables and we should examine further this correlation to see if it statistically significant or not.
+
+In statistics, we cannot simply use a graph and come to a conclusios whether a relatonship between two variables exists or not. The only way to come to a safe conclusion, is by using hypothesis testing and the proper statistical test.
+
+Thus, the scatter plots will be used as a starting point in order to invsestigate further the interesting correlations that we may have notices in the scatter plots.
+
+There are also cases when we may notice a good correlation between two variables but we are not interested to investigate it any further because we consider that this particular correlation cannot be explained in a logical way and we would prefer to avoid analyzing it any further.
+
 *[Index](#Probability-and-Statistics---Main-Concepts)* 
 
 
