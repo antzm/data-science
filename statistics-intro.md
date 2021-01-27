@@ -601,6 +601,23 @@ The sets of data that we are comparing, are actually two samples from two popula
 *[Index](#Probability-and-Statistics---Main-Concepts)*  
 
 
+## Hypothesis Testing - Terminology
+
+So, we've just completed our statistical test and we are now able to choose between the null or the alternative hypothesis. Let's see how we will express these results.
+
+If the probability is 0.05 or less, then we reject the null hypothesis and we accept the alternative hypothesis. This terminology looks simple and logical.
+
+But what about if the probablility is greater than 0.05? In that case we would say that we fail to reject the null hypothesis and accept the alternative.
+
+Or, there is not enough evidence to reject the null hypothesis and accept the alternative hypothesis.
+
+But why are we using such a strange terminology istead of simply saying that we accept the null hypothesis?
+
+Because this would be wrong as we never accept the null hypothesis. We can only reject the null hypothesis or we can fail to reject it but we never accept the null hypothesis.
+
+Why? The reason we use this particular terminology is because we have contacted an experiment to observe if there are any difference between two populations but if we don't find any difference this doesn't mean necessarily that there are no differences in reality.
+
+
 ## Hypothesis testing with more than two populations
 
 In the beggining of the 20th century, the world population was rising, the urbanaziation was increasing and the demand for food was increasing at a greater rate compared to what the farmers would be able to supply. The only solution was to introduce new varities with grater yield. Unfortunately though, a new wheat variety needed several years to be introduced and one reason for this, was the lack of the proper statistical tests that would easily distinguish the most promising varieties out of a very large number of new varities.
