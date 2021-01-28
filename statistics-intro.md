@@ -617,6 +617,16 @@ Because this would be wrong as we never accept the null hypothesis. We can only 
 
 Why? The reason we use this particular terminology is because we have contacted an experiment to observe if there are any difference between two populations but if we don't find any difference this doesn't mean necessarily that there are no differences in reality.
 
+This concept is a little peculiar and it even goes beyond the field of statisctis. Thus, it would be best to present a few examples because actually is very important to realize the true reason why we can never accept a null hypothesis.
+
+Every time we construct a hypothesis testing, in any scientific field, our purpose is to spot any interesting differences. We belive that there must be some differences in what we are studying and we try find if this is true. 
+
+Now, if we actually manage to find those differences, we have discovered something that which though that it could be true.
+
+But, if we don't manage to discover any differences, then we cannont be certain that actually there are no differences. There might be differences which our study was unable to reveal. But another study in the future, could spot these differences.
+
+For this reason, we cannot accept the null hypothesis because it's like a declaration that there are no differences when noone could ever be certain that actually there are no differences.
+
 
 ## Hypothesis testing with more than two populations
 
