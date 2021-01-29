@@ -45,9 +45,9 @@ Every time we flip a coin, there's a 50% probability that head will appear, and 
 When we throw a dice, there are 6 different outcomes and each one has a probability of 1/6 to appear. On the other hand, if we throw simultaneously 2 dices, there are 6\*6=36 different outcomes, and so each outcome will have a probability of 1/36 to appear.
 
 * Picking a card:
-When we pick a card from a set of playing cards, there's a probability of 1/52 to choose a specific card, as there are 52 cards in the playing set. All the cards have the same probability to be chosen, so the probability of each card is the total probability, which by definition is always 1, divided by the number of cards which is 52.  
+When we pick a card from a set of playing cards, there's a probability of 1/52 to choose a specific card, as there are 52 cards in the playing set. All the cards have the same probability to be chosen, so the probability of each card is the total probability, which by definition is always 1, divided by the number of cards which is 52.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Probability distribution
@@ -56,9 +56,9 @@ The probabilities of the different outcomes of a random event, will always add t
 
 There also some functions that are used in the probability theory, which help us to predict the outcome of various random events, and those functions are called "probability distribution". The most common one is the Normal Distribution, which is a bell shaped didtribution used extensively in probability and statistics.
 
-The common thing in those probability distributions is in their graphs. The area in those graphs always equals 1, which reflects the fact that the outcomes of a random event will always add to 1.  
+The common thing in those probability distributions is in their graphs. The area in those graphs always equals 1, which reflects the fact that the outcomes of a random event will always add to 1.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Permutations
@@ -66,7 +66,7 @@ When the order does matter
 	* Permutations with repetition
 	* Permutations without repetition
 
-Example 1:  
+Example 1:
 3 friends (A, B, C) go to a cinema and they sit next to each other.
 Their seat arrangement could be either ABC, ACB, BAC, BCA, CAB or CBA.
 *Permutations without repetition*
@@ -89,9 +89,9 @@ How many 5-digit numbers can we create, without using the zero?
 
 Example 4b:
 How many 5-digit numbers can we create, without using a number twice and without using the zero?
-*Permutations without repetition*  
+*Permutations without repetition*
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Combinations
@@ -99,12 +99,12 @@ When the order doesn’t matter
 	* Combinations with repetition
 	* Combinations without repetition
 
-Example:  
+Example:
 From 5 students (A, B, C, D, E) we would like to select a team of 2 students to take part in a contest.
-The different teams could be either AB, AC, AD, AE, BC, BD, BE, CD, CE, DE. 
-*Combinations without repetition*  
+The different teams could be either AB, AC, AD, AE, BC, BD, BE, CD, CE, DE.
+*Combinations without repetition*
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Normal distribution
@@ -117,9 +117,9 @@ The Normal distribution is the most widely used probability distribution, as it 
 
 * The temperatures in a city are around a certain value, for every season, and only during few days the temperatures are extremely height or extremely low, compared to their usual value.
 
-The Normal distribution therefore can be used in many cases and its main characteristic is that it resembles a bell shaped distribution.  
+The Normal distribution therefore can be used in many cases and its main characteristic is that it resembles a bell shaped distribution.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Other probability distributions
@@ -133,9 +133,9 @@ The most commonly used probability distributions are:
 * Normal distribution
 * Student's t distribution
 * Chi square distribution
-* F distribution  
+* F distribution
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Population vs Sample
@@ -152,38 +152,38 @@ In that way, we can study just a sample of a few hundred people and draw conclus
 
 In practice though, we can never be 100% sure if our conclusions for the entire population are correct, as we never have the chance to study the whole population. If a similar research though, from another researcher at a later time, will draw similar conclusions for that population, then this is good indication that our research was on the right track.
 
-Usually, the only time that we can actually see how good the predictions from the sample were, is when we have access to the complete population, and this is something that happens during elections. In this case, the exit polls represent the sample, while the election results represent the complete population. Obviously, the population consists of the voters who actually vote and the sample is the exit poll that took place on the same day as the election. Thus, depending on how good the exit  polls predicted the actual result, we understand how good the sampling process was, and how good was the use of the statistical methods that were applied.  
+Usually, the only time that we can actually see how good the predictions from the sample were, is when we have access to the complete population, and this is something that happens during elections. In this case, the exit polls represent the sample, while the election results represent the complete population. Obviously, the population consists of the voters who actually vote and the sample is the exit poll that took place on the same day as the election. Thus, depending on how good the exit  polls predicted the actual result, we understand how good the sampling process was, and how good was the use of the statistical methods that were applied.
 The gallops that take place before the elections, are not so representative compared to the exit polls, because some voters may change their vote until the election day.
 
-There are also cases where although it's possible to have access to the complete population, we are not interested to study the complete population. One example is the number of smart phones that a factory produces. We need to use a sample of those phones for quality tests, but not all the phones that the factory produces. The quality tests may destroy the devices that are tested, so it wouldn't make sense to run a quality test for every phone that the factory produces. Instead, based on the quality tests that take place on a sample of the total phones produced, it helps to understand the quality of the phones produced by that factory, and to improve the manufacturing quality whenever is necessary.  
+There are also cases where although it's possible to have access to the complete population, we are not interested to study the complete population. One example is the number of smart phones that a factory produces. We need to use a sample of those phones for quality tests, but not all the phones that the factory produces. The quality tests may destroy the devices that are tested, so it wouldn't make sense to run a quality test for every phone that the factory produces. Instead, based on the quality tests that take place on a sample of the total phones produced, it helps to understand the quality of the phones produced by that factory, and to improve the manufacturing quality whenever is necessary.
 
-As a recap, it's important to remeber that a population in statistics is anything we are interested to study, and we are the ones who define the population. 
+As a recap, it's important to remeber that a population in statistics is anything we are interested to study, and we are the ones who define the population.
 
 Below, are a few randomly chosen examples of populations:
 
- -The voters in a country. 
+ -The voters in a country.
  -The voters in a specific region of a country.
- -The high school students in Europe. 
- -The data analysts in America 
- -The companies in Asia that have 100 employees and above. 
- -The people in Africa that live in cities of 1 million and above 
- -The people in Australia that live in rural areas 
- -The islands of the world that are smaller than 1000 square meters 
- -The dolphins in the Atlantic Ocean 
- -The whales in the Pacific Ocean 
- -The eucalyptus trees in Australia 
- -The trees of the Amazon forest that are above 5 meters tall 
- -The smartphones that a factory produces during a month 
- -The people who don’t have pets 
- -The people who have both a dog and a cat 
- -The people who walk or run at least 5 kilometers every week 
- -The people who… 
- -The animals who… 
- -The plants that… 
- -The items that… 
+ -The high school students in Europe.
+ -The data analysts in America
+ -The companies in Asia that have 100 employees and above.
+ -The people in Africa that live in cities of 1 million and above
+ -The people in Australia that live in rural areas
+ -The islands of the world that are smaller than 1000 square meters
+ -The dolphins in the Atlantic Ocean
+ -The whales in the Pacific Ocean
+ -The eucalyptus trees in Australia
+ -The trees of the Amazon forest that are above 5 meters tall
+ -The smartphones that a factory produces during a month
+ -The people who don’t have pets
+ -The people who have both a dog and a cat
+ -The people who walk or run at least 5 kilometers every week
+ -The people who…
+ -The animals who…
+ -The plants that…
+ -The items that…
  -and so on…
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Degrees of freedom
@@ -198,7 +198,7 @@ So, the replacement of our data from that point onwards, should follow a certain
 
 For this reason, our data cannot vary anymore with 100 degrees of freedom and for this reason we loose 1 degree of freedom when we calculate the mean.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Median and Quartiles
@@ -217,7 +217,7 @@ The distance between the 1st and the 3rd quartiles is called the interquartile r
 
 Another thing we also calculate is the 1.5 x IQR which gives an an indication about the extreme values that we have in our dataset. The values that are below the 1st quartiles or above the 3rd quartile by 1.5 X IQR are considered as outliers and we should examine further the origin of those values.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)* 
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Box plots
@@ -228,7 +228,7 @@ In a box plot, the main box represents the main 50% of our observations and insi
 
 As for the whiskers lenght, these extend up to the point where we have the smallest and the biggest value of our sample. The maximum length of each whisker though, can be up to 1.5 times the lenght of the box. After that point, any more observations are represented by small circles that are considered to be outliers.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)* 
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Outliers
@@ -253,25 +253,25 @@ Those values are considered to ba outliers but we should fist have a look at tho
 
 Then, if we verify that those values are actually correct, we will decide on how to handle them based on the analysis we plan to perform on our data.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)* 
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Descriptive statistics
 
 Descriptive statistics uses the available data to draw conclusions about what happened in the past. It analyzes the available data and presents the results in a concise way that can be easily understood and interpreted. These results though, refer exclusively to the data that was analyzed, while the conclusions from that data, have no broader or more generalized application.
 
-> Descriptive statistics is used by the Data Analysts.  
+> Descriptive statistics is used by the Data Analysts.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Inferential statistics
 
 Inferential statistics on the other hand, not only uses the tools available to the descriptive statistics, but it goes further as it uses the available data from a sample, in order to make inferences for a population, and also to predict future tendencies based on the available data.
 
-> Inferential statistics is used by the Data Scientists.  
+> Inferential statistics is used by the Data Scientists.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Statistical notation
@@ -290,9 +290,9 @@ In statistical notation, both English and Greek letters are used. It's very impo
 
 In inferential statistics, we use a sample in order to draw conclusions about a population. Thus, we use sample parameters, denoted with English letters, in order to estimate the unknown population parameters, denoted with Greek letters.
 
-The better the quality of the sample, the better will be the estimation of the population parameters.  
+The better the quality of the sample, the better will be the estimation of the population parameters.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Hypothesis testing
@@ -317,9 +317,9 @@ The first one is called the null hypothesis, and it always corresponds to A bein
 
 While the second one is called the alternative hypothesis, ant it always corresponds to A being different than B.
 
-The important thing to remember is that the null hypothesis corresponds always to being equal, while the alternative hypothesis always corresponds to being different.  
+The important thing to remember is that the null hypothesis corresponds always to being equal, while the alternative hypothesis always corresponds to being different.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Hypothesis testing - Example 1
@@ -334,10 +334,10 @@ But in statistics, we are not interested for the sample itself but rather for th
 
 In this case, our approach is to statistically test if those two samples belong to the same population (with an average of 1000) or if they belong to two different populations (with averages of 1000 and 1050 respectively).
 
-Thus, the null hypothesis H0 would be  
+Thus, the null hypothesis H0 would be
 
-H0: μ1=μ2 or  
-H0: μ1-μ2=0  
+H0: μ1=μ2 or
+H0: μ1-μ2=0
 
 (μ1-μ2=0 means that there are no differences in the means, and this is why we call it the null hypothesis)
 
@@ -355,7 +355,7 @@ But usually, the most common case is to test for inequality in the alternative h
 
 > The important thing to remember is that the null hypothesis H0 always tests for equality while the alternative hypothesis H1 always tests for inequality (either not equal, or greater, or smaller)
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Hypothesis testing - Example 2
@@ -380,7 +380,7 @@ On the other hand, if they overlap by a small percentage, then we consider those
 
 And here we come to the big question in statistics. How can we decide if two populations are actually identical, or if they are actually two different populations?
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Hypothesis testing - statistical tests
@@ -395,7 +395,7 @@ Then, depending on the results of the statistical test, we would either choose t
 
 So, every decision in statistics involves a Hypothesis Testing and depending on the situation, we choose the proper statistical test which will tell us, in an objective way, if we should accept the Null or the Alternative Hypothesis.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Hypothesis testing - level of significance
@@ -412,7 +412,7 @@ It all depends on the overlapping of the two population distributions. Usually, 
 
 This threshold of 5%, which determines our decisions, is called the level of significance and it's symbol is the Greek letter α, and usually we use α=0.05 or α=5% (rarely though, we also use α=1% or α=0.01).
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Hypothesis testing - Choosing between H0 and H1
@@ -437,7 +437,7 @@ Thus, when the probablity result is 0.01 and greater, then we accept the H0, as 
 
 On the other hand, if the probability result is 0.01 and smaller, then we accept the H1, as we consider that the two distributions are actually two different distributions.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Hypothesis Testing - Clarification Example 1
@@ -456,17 +456,17 @@ But the forest is just one, and it has only one population distribution which is
 
 If we perform a Hypothesis Test in this case, between the results of the two researchers, we will have:
 
-H0: μ1 = μ2  
+H0: μ1 = μ2
 Null Hypothesis: The estimate for the μ1 is equal with the estimate of the μ2, or, the two populations we are comparing, are actually one. In other words, both samples were actually collected from the exact same population. As for the terminology, the population mean which is based on the first sample is μ1, while the population mean which is based on the second sample is μ2. The sample means are x1 bar and x2 bar respectively, and based on those means we estimate the population means μ1 and μ2. The x1 bar and x2 bar are calulated with accuracy, as we use the sample data to calculate them. The μ1 though and the μ2 are unknown and we use the x1 bar and the x2 bar to estimate them. As mentioned before, English letters refer always to the samples and can be accurately calculated, while Greek letters refer always to the populations and can only be estimated.
 
-H1: μ1 <> μ2  
+H1: μ1 <> μ2
 Alternative Hypothesis: The estimate for the μ1 is not equal with the estimate of the μ2, or, the two populations are different and the samples came from two different populations.
 
 In this case, the expected result would be to accept the Null Hypothesis as both samples represent the same population, but if the sampling process was not representative of the population, there is a chance to accept the Alternative Hypothesis. In the first case, we get correcet results, but in the second case we get wrong results.
 
 Obvisously, here we know beforehand that we have just one population, but in real situations we never know such information and we always try to find out if two populations are actually the same or not.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Hypothesis Testing - Clarification Example 2
@@ -487,14 +487,14 @@ The alternative hypothesis though, doesn't state that there is difference betwee
 
 The reason is that we are not interested for a new variety that has just a different mean yield from the existing variety, but instead we are only interestd for a variety that has a higher mean yield. Otherwise it wouldn't make any sense for the farmers to cultivate the new wheat variety.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## One Way vs Two Way Statistical Tests
 
 As it has been mentioned earlier, the null hypothesis has always the equal sign in its comparison i.e. H0: μ1=μ2 and is called null because it could also be written as H0: μ1-μ2=0 which states that there are no differences between the two population means.
 
-Although it was also mentioned, we should always remember that hypothesis testing is always about populations and we never use hypothesis testing for samples. This is the reason why in hypothesis testing we use Greek letters like μ1 and μ2 for the population means. 
+Although it was also mentioned, we should always remember that hypothesis testing is always about populations and we never use hypothesis testing for samples. This is the reason why in hypothesis testing we use Greek letters like μ1 and μ2 for the population means.
 
 Now, the alternative hypothesis examines the unequal i.e. Η0: μ1 <> μ2 and this is a two way statistical test. But there are also times where we are not interested if the populations are different but we want to know more specifically if the first population mean is greater or smaller compared to the second population mean.
 
@@ -510,7 +510,7 @@ So, in this case we are interested only in one of the sides of the population di
 
 This is why we call these statistical tests as one-way tests.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Hypothesis testing - A metaphor
@@ -535,7 +535,7 @@ Every football game gets really excited when a team scores a goal, otherwise the
 
 Well, the exact same logic applies also to the normal distribution. Things are a little boring in the main green part of the distribution, while they get really intereing in the red part of the distribution, or in other words in the 2.5% of both tails of the distribution.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Hypothesis Testing - Out of the ordinary
@@ -564,7 +564,7 @@ The null hypothesis is that there are no differneces in the mean EQ values betwe
 
 On the other hand, if the researcher will find out that the null hypothesis should not be accepted, then he or she has obviously discovered something new which is completely different from what the previous researchers had discovered.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Hypothesis Testing - Overview
@@ -585,12 +585,12 @@ Although there is a great number of statistical tests, in the vast majority of c
 
 Only by having a deep understanding of the main statistical tests, and their corresponding probability distributions, a data scientist can choose the proper test for each case. Otherwise, choosing a wrong statistical test would probably create some meaningless results that will have no connection to the real situation.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Hypothesis Testing - Results interpretation
 
-When we are using a statistical program to compare two sets of data, we will get as a result a number representing the probability that those two sets are statistically the same, or they are statistically different. 
+When we are using a statistical program to compare two sets of data, we will get as a result a number representing the probability that those two sets are statistically the same, or they are statistically different.
 
 If the result is greater than 0.05 then it means that the probalility that those two sets are actually the same is higher than 5% and thus is considered that those two sets actully are the same as they belong to the same population.
 
@@ -598,7 +598,7 @@ If though the result is 0.05 or less, then this means that the probability of th
 
 The sets of data that we are comparing, are actually two samples from two populations, and what we are actually trying to understand is, whether those two samples belong to the same or in different populations.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Hypothesis Testing - Terminology
@@ -619,13 +619,28 @@ Why? The reason we use this particular terminology is because we have contacted 
 
 This concept is a little peculiar and it even goes beyond the field of statisctis. Thus, it would be best to present a few examples because actually is very important to realize the true reason why we can never accept a null hypothesis.
 
-Every time we construct a hypothesis testing, in any scientific field, our purpose is to spot any interesting differences. We belive that there must be some differences in what we are studying and we try find if this is true. 
+Every time we construct a hypothesis testing, in any scientific field, our purpose is to spot any interesting differences. We belive that there must be some differences in what we are studying and we try find if this is true.
 
 Now, if we actually manage to find those differences, we have discovered something that which though that it could be true.
 
 But, if we don't manage to discover any differences, then we cannont be certain that actually there are no differences. There might be differences which our study was unable to reveal. But another study in the future, could spot these differences.
 
-For this reason, we cannot accept the null hypothesis because it's like a declaration that there are no differences when noone could ever be certain that actually there are no differences.
+For this reason, we cannot accept the null hypothesis because it's like a declaration that there are no differences when no one could ever be certain that actually there are no differences.
+
+**A planet like Earth**
+
+Let's examine this Hypothesis:
+
+H0: There is no planet in the Universe similar to Earth
+H1: There is at least one planet in the Universe similar to Earth
+
+A scientist, using existing data combined with his own findings, comes to the conclusion that we don't have enough evidence to accept the alternative hypothesis. This phrase is very clear.
+
+But what phrase should we use about the null hypothesis?
+
+Imagine if the scientist would have said that we dodn't have enough evidence to support the alternative hypothesis and thus we accept the null hypothesis!!! Just be aware!!! This is not real a scientist!!!
+
+Why? Because this scientist says that: as I wasn't able to find a planet similar to Earth, I conclude that there is no planet similar to Earth in the Universe!!!
 
 
 ## Hypothesis testing with more than two populations
@@ -648,7 +663,7 @@ In the case of wheat varieties, Fisher was able with just one statistical test, 
 
 Only when the alternative hypothesis was accepted, then that particular group of varieries was tested again in order to find which one was the best variety of all the ones that were tested.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Importance of the ANOVA method
@@ -663,12 +678,12 @@ ANOVA gives us only information if there is at least one population that is diff
 
 For this reason, when the results of the ANOVA analysis shows that there is at least one population that is different, then we need to proceed further with more specialized stastical tests in order to find the populations that differe from all the others.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Scatter plots
 
-Scatter plots are used to see if there is some kind of relathonship between the variables in our dataset. This a mandatory step every time we analyse data. Otherwise, we may only use formulas and come to a conclusion that there are no relationships between our variables. Using scatter plots though, we may find that there are actually many relationshps but they are not linear relationships. 
+Scatter plots are used to see if there is some kind of relathonship between the variables in our dataset. This a mandatory step every time we analyse data. Otherwise, we may only use formulas and come to a conclusion that there are no relationships between our variables. Using scatter plots though, we may find that there are actually many relationshps but they are not linear relationships.
 
 This is why we should always analyse visually our data in order to get a better understanding which cannont be revelaed by just using formulata to analyse our data.
 
@@ -680,7 +695,7 @@ Thus, the scatter plots will be used as a starting point in order to invsestigat
 
 There are also cases when we may notice a good correlation between two variables but we are not interested to investigate it any further because we consider that this particular correlation cannot be explained in a logical way and we would prefer to avoid analyzing it any further.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)* 
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Correlation r and r-squared
@@ -709,7 +724,7 @@ H0: ρ = 0
 
 H1: ρ <> 0
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Linear regession
@@ -724,7 +739,7 @@ The equation of a linear regression model has the form 'y=ax+b' and given the x 
 
 In this equation, a is the slope of the line and b is the y intercept.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Multiple linear regression
@@ -739,7 +754,7 @@ After creating our multiple linear regression equation, we can use the proper st
 
 If some of the coefficients are not statistically significant, then we should consider changes to our models as this means that the independent variables we had chosen, are not contributing in a statistical signifance way to our model, and thus, they actually fail to explain our model.
 
-*[Index](#Probability-and-Statistics---Main-Concepts)*  
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 ## Non linear regression
 
