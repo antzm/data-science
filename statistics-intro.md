@@ -642,6 +642,11 @@ Imagine if the scientist would have said that we dodn't have enough evidence to 
 
 Why? Because this scientist says that: as I wasn't able to find a planet similar to Earth, I conclude that there is no planet similar to Earth in the Universe!!!
 
+What has acrually happened though, is that based on the evidence that the scientist had, it was not possible to accept the alternatove hypothesis.
+
+For this reason, we use the phrase that we are fail to reject the null hypothesis, implying that with the current evidence we were not able to reject the null hypothesis and accept the alternative but some other scientist, someday, with more evidence avaiable could come to the point to reject the null hypothesis and accept the alternative.
+
+In other words, hypothesis testing is looking at available data to spot if there are any differences. If though we don't find any differences, this may simply mean that we were unable to perform the proper experiment to spot the differences and it does not neccesarilly mean that there are no differences in raality.
 
 ## Hypothesis testing with more than two populations
 
