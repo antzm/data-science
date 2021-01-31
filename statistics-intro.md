@@ -28,6 +28,7 @@
 * [Hypothesis Testing - Out of the ordinary](#Hypothesis-Testing---Out-of-the-ordinary)
 * [Hypothesis Testing - Overview](#Hypothesis-Testing---Overview)
 * [Hypothesis Testing - Results interpretation](#Hypothesis-Testing---Results-interpretation)
+* [Hypothesis Testing - Terminology](Hypothesis-Testing---Terminology)
 * [Hypothesis testing with more than two populations](#Hypothesis-testing-with-more-than-two-populations)
 * [Importance of the ANOVA method](#Importance-of-the-ANOVA-method)
 * [Scatter plots](Scatter-plots)
@@ -647,6 +648,24 @@ What has acrually happened though, is that based on the evidence that the scient
 For this reason, we use the phrase that we are fail to reject the null hypothesis, implying that with the current evidence we were not able to reject the null hypothesis and accept the alternative but some other scientist, someday, with more evidence avaiable could come to the point to reject the null hypothesis and accept the alternative.
 
 In other words, hypothesis testing is looking at available data to spot if there are any differences. If though we don't find any differences, this may simply mean that we were unable to perform the proper experiment to spot the differences and it does not neccesarilly mean that there are no differences in raality.
+
+**Worldwide Unicorn Population**
+
+Let's consider now this hypothesis:
+
+H0: The worldwide unicorn population is zero
+H1: The wordlwide unicorn population is different than zero
+
+This hypothesis testing seems funny but nevertheless it should be also examinded in the context of science. A true scientist should first examine any availabe data and then come to any scientific conlusions.
+
+Unfortunately though, most scientstics will simply say that unicorns do not exist, which in fact is something completely unscientific because what they are actually doing is accepting the null hypothesis.
+
+A true scientist would only say that there is not enough evidence to support that unicorns exist. After that, let the kids decide if unicorns exists or not.
+
+The true sceintist would only come to concusions based on the availabe data, the available evicence. If we don't have data, if we don't have evidence, this means that we cannot accept the alternative hypothesis. Only this. We fail to reject the null hypothesis as there is not enough evidence to accept the alternative hypothesis.
+
+*[Index](#Probability-and-Statistics---Main-Concepts)*
+
 
 ## Hypothesis testing with more than two populations
 
