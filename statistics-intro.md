@@ -658,11 +658,17 @@ H1: The wordlwide unicorn population is different than zero
 
 This hypothesis testing seems funny but nevertheless it should be also examinded in the context of science. A true scientist should first examine any availabe data and then come to any scientific conlusions.
 
-Unfortunately though, most scientstics will simply say that unicorns do not exist, which in fact is something completely unscientific because what they are actually doing is accepting the null hypothesis.
+Unfortunately though, many scientstics will simply say that unicorns do not exist, which in fact is something completely unscientific because what they are actually doing is accepting the null hypothesis.
 
 A true scientist would only say that there is not enough evidence to support that unicorns exist. After that, let the kids decide if unicorns exists or not.
 
-The true sceintist would only come to concusions based on the availabe data, the available evicence. If we don't have data, if we don't have evidence, this means that we cannot accept the alternative hypothesis. Only this. We fail to reject the null hypothesis as there is not enough evidence to accept the alternative hypothesis.
+The true scientist would only come to concusions based on the availabe data, the available evicence. If we don't have data, if we don't have evidence, this means that we cannot accept the alternative hypothesis. This is our scientific conclusion. We fail to reject the null hypothesis as there is not enough evidence to accept the alternative hypothesis.
+
+In other words, whenever we don't have enough data on something, we are unable to come to any scientific conclusions and a true scientist should distinguish, in such cases, whether he or she speaks as a scientist or if simply expresses personal opinions not based on scientific methodology.
+
+**The absence of evidence is not evidence of absence**
+
+This phrase culminates, in the best way, why we should not come to conclusions whenever there is a lack of evidence on something we are studying.
 
 *[Index](#Probability-and-Statistics---Main-Concepts)*
 
