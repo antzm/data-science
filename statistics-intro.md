@@ -693,6 +693,14 @@ In the case of wheat varieties, Fisher was able with just one statistical test, 
 
 Only when the alternative hypothesis was accepted, then that particular group of varieries was tested again in order to find which one was the best variety of all the ones that were tested.
 
+ANOVA is a method that allows us to test many things simultaaneously but it would only provide results if all the things we are testing are statistically similar or different.
+
+It does not provide any information about which one of the items we are testing is different or how many items are different.
+
+Thus, aftere using the ANOVA method, we should proceed further with other statistical tests in order to find the exact items that differ.
+
+But the important thing is that if the ANOVA method indicates that there are no statistical siginificance differences in our results, then there's no need to proceed with other statistical.
+
 *[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
