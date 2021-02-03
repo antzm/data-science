@@ -35,6 +35,7 @@
 * [Correlation r and r-squared](#Correlation-r-and-r-squared)
 * [Linear regession](#Linear-regession)
 * [Multiple linear regression](#Multiple-linear-regression)
+* [Non linear regression](Non-linear-regression)
 
 
 ## Probabilities
@@ -794,6 +795,7 @@ If some of the coefficients are not statistically significant, then we should co
 
 *[Index](#Probability-and-Statistics---Main-Concepts)*
 
+
 ## Non linear regression
 
 Whenever we would like to find if it exists a linear relathionship between our independent and dependent variable, we need to create a scatter plot.
@@ -802,6 +804,12 @@ The scatter plot will not only show us if there's a linear relationship, but it 
 
 For example, if we just calculate the correlation and we find it's close to zero, then we will assume that there is no correlation between our variables and thus, we cannot use linear regression in this case.
 
-There is chanche though, that although there is no linear relation between our variables, there might be non linear relationship between our variables.
+There is chansee though, that although there is no linear relation between our variables, there might exist a non linear relationship between our variables.
 
 In such a case, we will try to use non linear regression and see if the results of our model will be satisfactory.
+
+Non linear regressions are, for example, the logarithmic regression, the quadratic regression and the the natural logarithic regression. We may not be able to distinguish from the scatter plot the non-linear regression that will best fit our data so in such a case, we would run all these non-linear regressions and we will select the model that best describes our data.
+
+If though it's evident from the scatter plots that there is no kind of relationship between our variables, then it wouldn't make sense to run each possible non-linear regression to test if it fits our data.
+
+*[Index](#Probability-and-Statistics---Main-Concepts)*
