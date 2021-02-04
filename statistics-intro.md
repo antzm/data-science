@@ -200,6 +200,10 @@ So, the replacement of our data from that point onwards, should follow a certain
 
 For this reason, our data cannot vary anymore with 100 degrees of freedom and for this reason we loose 1 degree of freedom when we calculate the mean.
 
+Continuing with our analysis, the more estimators we calculate, the more contraints we impose to our data and for this reason we lose more degrees of freedom.
+
+Thus, the more degrees of freedom we have in our analysis, the better, because this means that our sample is a better representation of the population.
+
 *[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
@@ -777,6 +781,14 @@ If the points in the graphs can be approximated with a straight line, then we ca
 The equation of a linear regression model has the form 'y=ax+b' and given the x we can predict the value of y.
 
 In this equation, a is the slope of the line and b is the y intercept.
+
+Another way to represent a straight line, instead of using the 'y=ax+b' equation, is to use this notation:
+
+a1x1 + a2x2 + b = 0
+
+Mathematically, we have moved all the terms of the equation to the left side and also, we have replaced x and y with x1 and x2.
+
+This approach is also used when building machine learning models, as the coeffiecnts can be easiy represented with a matrix.
 
 *[Index](#Probability-and-Statistics---Main-Concepts)*
 
