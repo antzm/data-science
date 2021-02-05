@@ -767,6 +767,8 @@ H0: ρ = 0
 
 H1: ρ <> 0
 
+So, even if in the sample we are studying we see a correlation, we are not able to generalize this correlation to the population unless if we perform first a hypothesis testing, in order to decide in an objective way whether it exists or not.
+
 *[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
@@ -804,6 +806,12 @@ y = ax1 + bx2 + cx3 + d
 After creating our multiple linear regression equation, we can use the proper statistical tests to see whether the coeffients a, b, c and the constant d are statistically significant or not.
 
 If some of the coefficients are not statistically significant, then we should consider changes to our models as this means that the independent variables we had chosen, are not contributing in a statistical signifance way to our model, and thus, they actually fail to explain our model.
+
+It should be mentioned also that in the context of Machine Learning, the multiple lineat regression equation is written in the following form:
+
+a1x1 + a2x2 + a3x3 + b = 0
+
+It's simply another form of the same equation, as it mentioned in the previous paragraph.
 
 *[Index](#Probability-and-Statistics---Main-Concepts)*
 
