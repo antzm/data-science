@@ -37,7 +37,7 @@ Usually, the data we are going to use for our data analysis, firstly, they need 
 
 ## Missing data
 
-This a great field for controversy as there are several opinions on how to handle the missing data in our dataset.  
+This a great field for controversy as there are several opinions on how to handle the missing data in our dataset.
 The most important thing though, is to make our own decision and at the same time being able to explain the exact reasons that lead us to that particular decision.
 
 As we examine and analyze a dataset, we are getting a better understaning of our data and this can lead us to better decisions on how to handle the missing data. Otherwise, just selecting an option that we read somewhere, will not be the best option.
@@ -45,7 +45,7 @@ As we examine and analyze a dataset, we are getting a better understaning of our
 
 ## Probablility and Statistics
 
-To become a good Data Scientist, someone should first understand the important statistical concepts that are used in Data Science. In fact, the better someone can understand the true meaning of the various statisitical concepts, the better data scientist will be. 
+To become a good Data Scientist, someone should first understand the important statistical concepts that are used in Data Science. In fact, the better someone can understand the true meaning of the various statisitical concepts, the better data scientist will be.
 
 As susch, a detailed introduction to some basic concepts of statistics has been prepared.
 
@@ -54,7 +54,14 @@ As susch, a detailed introduction to some basic concepts of statistics has been 
 
 Another useful knowledge in Data Science, is a basic understanding of linear algebra. This includes matrices and understanding the calculations with matrices.
 
-Matrices calculations is an iportant part of data science, especially in the fields of machine learning and deep learning. For this reason, an essential understanding of those topics would very udseful. 
+Matrices calculations is an iportant part of data science, especially in the fields of machine learning and deep learning. For this reason, an essential understanding of those topics would very udseful.
+
+Also, understanding vector and vector spaces is something which helps the understaning of many machine learning and deep learning algorithms.
+
+
+## Calculus
+
+A basic knowledge of calculus is helpful as it makes it easier to understand the various probability distributions.
 
 
 ## Python
@@ -79,6 +86,8 @@ Some basic information on a few Python libraries is included in this repository.
 ## R
 
 The statistical language R, was once considered a neccesary knowldedge for data scientists but nowadays, Python provides more flexibility through numerous libraries and packages that cover almost every data scientist need.
+
+If though someone is only interested mostly in statistics, it could be easier to learn the programming language R which is great as it was created by statisticians but lack the flexibility of a real programming language like Python.
 
 
 ## SQL
