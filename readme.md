@@ -130,6 +130,13 @@ Our writing skills imporove not only as we write more but most importantly, when
 Also, for many data scientists, English is not their first language but they may need to present reports in English and for this reason, they should also practise by reading English books and writing texts whenever possible.
 
 
+## Presentaiton skills
+
+A Data Scientist does not only analyzes the data and presents his or her results in writing, but should also be able to presnent in an effective way his or her findings.
+
+The main difficulty though lies in the fact, that, most of the thimes, the audience would not have any data scientist background. For this exact reason, the data scientist should be able to effectively communicate the findings to different audiences and adapt respectively the style of the presentation so that anyone would be able to understand and get the most out of the findings.
+
+
 ## Contents
 
 * [Introduction to statistics](statistics-intro.md)
