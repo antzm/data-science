@@ -769,6 +769,10 @@ H1: ρ <> 0
 
 So, even if in the sample we are studying we see a correlation, we are not able to generalize this correlation to the population unless if we perform first a hypothesis testing, in order to decide in an objective way whether it exists or not.
 
+It should be note though, that both the r and the r-squared mesaure only the existence of a linear correlation between the cariables ant thus, if there is a non linear correlation between our variables, it will be shown using this approach as bothe the r and the r-swuared will be close to zero.
+
+For this reason, we should always explore graphically our data in order to find if there are non lineat correlations between our variables.
+
 *[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
@@ -822,9 +826,9 @@ Whenever we would like to find if it exists a linear relathionship between our i
 
 The scatter plot will not only show us if there's a linear relationship, but it will give us also important information if the relationship between our variables is not linear.
 
-For example, if we just calculate the correlation and we find it's close to zero, then we will assume that there is no correlation between our variables and thus, we cannot use linear regression in this case.
+For example, if we just calculate the correlation coefficeint and we find it's close to zero, then we will assume that there is no correlation between our variables and thus, we cannot use linear regression in this case.
 
-There is chansee though, that although there is no linear relation between our variables, there might exist a non linear relationship between our variables.
+There is chance though, that although there is no linear relation between our variables, there might exist a non linear relationship between them.
 
 In such a case, we will try to use non linear regression and see if the results of our model will be satisfactory.
 
