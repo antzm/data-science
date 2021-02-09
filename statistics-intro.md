@@ -280,6 +280,13 @@ Inferential statistics on the other hand, not only uses the tools available to t
 *[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
+## Calculating the probability in a normal distribution
+
+When our data follows a normal distribution and we want to calculate a probablility that x is greater than or smaller than a certain value, then we will use the Z-score by subtracting the population mean (μ) from x and then dividing with the population standard deviation (σ).
+
+Thus, as we are calculating the Z value we are subtracting the mean (μ) which in reality means that we are shifting our normal distribution towards the standard normal distribution, in order to compare them. Then, we are dividing with the standard deviation (σ) and what we are doing is that we make our normal distribution "thinner" so that it will fit exactly on top of the standard normal distribution. Only then we can extract information about our normal distribution because detailed information about the probabilities is only available for the standard normal distribution.
+
+
 ## Statistical notation
 
 In statistical notation, both English and Greek letters are used. It's very important though, to understand when the English letters are used, and when the Greek letters are used.
