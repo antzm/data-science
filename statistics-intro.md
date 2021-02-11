@@ -286,6 +286,10 @@ When our data follows a normal distribution and we want to calculate a probablil
 
 Thus, as we are calculating the Z value we are subtracting the mean (μ) which in reality means that we are shifting our normal distribution towards the standard normal distribution, in order to compare them. Then, we are dividing with the standard deviation (σ) and what we are doing is that we make our normal distribution "thinner" so that it will fit exactly on top of the standard normal distribution. Only then we can extract information about our normal distribution because detailed information about the probabilities is only available for the standard normal distribution.
 
+When we have a population that follows the normal distribution with μ and σ, then we can find easily the probalility that a value is larger or smaller than x. This is just the area under the normal distribution, either to the left or to the right of the x. Unfortunately thoug, the calcualtion of that area is extremely difficult as for every normal distribution, we would to integrate the formula and then calculate the area. This is because every normal distribution has a differen function.
+
+For this reason, statisticians have already calcualted the area under each part of the standard normal distribution and thus, by standardizing our normal distribution we can find the area we want by refering to the standard normal distribution.
+
 
 ## Statistical notation
 
