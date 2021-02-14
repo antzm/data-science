@@ -14,8 +14,6 @@
 
 [nbviewer, A simple way to share Jupyter Notebooks](https://nbviewer.jupyter.org)
 
-[Python Machine Learning (3rd Ed.) Code Repository by Sebastian Raschka and Vahid Mirjalili](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
-
 [Deep Learning Models by Sebastian Raschka](https://github.com/rasbt/deeplearning-models)
 
 [Introduction to Probablility by Charles M. Grinstead and J. Laurie Snell](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/pdf.html)
@@ -27,3 +25,30 @@
 [Introduction to Statistical Thought by Michael Lavine](https://people.math.umass.edu/~lavine/Book/book.pdf)
 
 [Statistics by Wikibooks.org](https://upload.wikimedia.org/wikipedia/commons/8/82/Statistics.pdf)
+
+
+## GitHub repositories
+
+[Python Games by Al Sweigart](https://github.com/asweigart/PythonStdioGames)
+
+
+## Code repositories for books
+
+[Python For Kids by Jason R. Briggs](https://github.com/pingskills/python-for-kids)
+
+[Python Playground by Mahesh Venkitachalam](https://github.com/electronut/pp)
+
+[Python Machine Learning (3rd Ed.) by Sebastian Raschka and Vahid Mirjalili](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
+
+
+## Tutorials
+
+[Introduction to Python by Eric Matthes](http://introtopython.org)
+
+[Python Crash Course for Non-Python Programmers by freecodecamp](https://www.freecodecamp.org/news/python-crash-course/)
+
+
+## Cheat Sheets
+
+[Python Crash Course, 2nd Edition by Eric Matthes, Cheat Sheets](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/)
+
