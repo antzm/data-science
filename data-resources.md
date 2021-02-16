@@ -62,3 +62,13 @@
 
 [nbviewer, A simple way to share Jupyter Notebooks](https://nbviewer.jupyter.org)
 
+
+## Effective writing and presentation skills
+
+[Effective Writing by Nature Education](https://www.nature.com/scitable/topicpage/effective-writing-13815989/)
+
+[Effective Communication](https://www.nature.com/scitable/topicpage/effective-communication-13950970/)
+
+[Presentation Slides by Nature Education](https://www.nature.com/scitable/topicpage/presentation-slides-13905480/)
+
+[Oral Presentation Structure by Nature Education](https://www.nature.com/scitable/topicpage/oral-presentation-structure-13900387/)
