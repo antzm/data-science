@@ -1,9 +1,6 @@
 # Data Science Resources
 
-
-[Data Science blog by Tomi Mester](https://data36.com)
-
-[Data Science articles by FreeCodeCamp](https://www.freecodecamp.org/news/tag/data-science/)
+Resources, organized on categories, which are relevant to Data Science
 
 
 ## Probability and Satistics
@@ -38,6 +35,13 @@
 [Python Data Science Handbook by Jake Vander Plas](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 [A Whirlwind Tour of Python by Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython)
+
+
+## Data Science Blogs
+
+[Data Science blog by Tomi Mester](https://data36.com)
+
+[Data Science articles by FreeCodeCamp](https://www.freecodecamp.org/news/tag/data-science/)
 
 
 ## Machine Learning
