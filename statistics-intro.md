@@ -848,3 +848,12 @@ Non linear regressions are, for example, the logarithmic regression, the quadrat
 If though it's evident from the scatter plots that there is no kind of relationship between our variables, then it wouldn't make sense to run each possible non-linear regression to test if it fits our data.
 
 *[Index](#Probability-and-Statistics---Main-Concepts)*
+
+
+## Differences between Data Analysts and Data Scientists
+
+If someone analyzes data, this is data analysis, and the data analyst can draw any kind of conclusions that considers as interesting. i.e., the conclusions about the data, are always subjective.
+
+But if you apply scientific methods in data analysis, then you are not making subjective conclusions, but rather you present objective results according to the scientific methods used throughout all the science fields. i.e., whenever scientists want to test a new theory, they need to construct a Hypothesis and then to test this hypothesis. Just like in football (or in any other sport game), where if you would like to compare two teams, you need to arrange a football match. And next, to get objective results, you need a referee to make the final decision about the winner. The same applies to hypothesis testing, where we construct a hypothesis to be tested, just like we construct a sport game and then, we are using a statistical test, as the referee, to decide in an objective way if we will accept the alternative hypothesis or not.
+
+So, if someone analyzes data based on scientific methods, this is actually Data Science. For example, a data analyst will say that “as we can see from this graph, we have a high correlation between the two variables” which is subjective, but a data scientist will say that “as we can see, the correlation coefficient is statistically significant and thus, we can conclude that there is a statistically significant correlation between the two variables” which is an objective observation because a hypothesis testing was used and our conclusion is based on the results of a statistical test.
