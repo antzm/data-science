@@ -15,6 +15,7 @@
 * [Descriptive statistics](#Descriptive-statistics)
 * [Inferential statistics](#Inferential-statistics)
 * [Statistical notation](#Statistical-notation)
+* [Calculating the probability in a normal distribution](Calculating-the-probability-in-a-normal-distribution)
 * [Hypothesis testing](#Hypothesis-testing)
 * [Hypothesis testing - Example 1](#Hypothesis-testing---Example-1)
 * [Hypothesis testing - Example 2](#Hypothesis-testing---Example-2)
@@ -36,7 +37,7 @@
 * [Linear regession](#Linear-regession)
 * [Multiple linear regression](#Multiple-linear-regression)
 * [Non linear regression](Non-linear-regression)
-
+* [Differences between Data Analysts and Data Scientists](Differences-between-Data-Analysts-and-Data-Scientists)
 
 ## Probabilities
 
@@ -289,6 +290,8 @@ Thus, as we are calculating the Z value we are subtracting the mean (μ) which i
 When we have a population that follows the normal distribution with μ and σ, then we can find easily the probalility that a value is larger or smaller than x. This is just the area under the normal distribution, either to the left or to the right of the x. Unfortunately thoug, the calcualtion of that area is extremely difficult as for every normal distribution, we would to integrate the formula and then calculate the area. This is because every normal distribution has a differen function.
 
 For this reason, statisticians have already calcualted the area under each part of the standard normal distribution and thus, by standardizing our normal distribution we can find the area we want by refering to the standard normal distribution.
+
+*[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
 ## Statistical notation
@@ -857,3 +860,5 @@ If someone analyzes data, this is data analysis, and the data analyst can draw a
 But if you apply scientific methods in data analysis, then you are not making subjective conclusions, but rather you present objective results according to the scientific methods used throughout all the science fields. i.e., whenever scientists want to test a new theory, they need to construct a Hypothesis and then to test this hypothesis. Just like in football (or in any other sport game), where if you would like to compare two teams, you need to arrange a football match. And next, to get objective results, you need a referee to make the final decision about the winner. The same applies to hypothesis testing, where we construct a hypothesis to be tested, just like we construct a sport game and then, we are using a statistical test, as the referee, to decide in an objective way if we will accept the alternative hypothesis or not.
 
 So, if someone analyzes data based on scientific methods, this is actually Data Science. For example, a data analyst will say that “as we can see from this graph, we have a high correlation between the two variables” which is subjective, but a data scientist will say that “as we can see, the correlation coefficient is statistically significant and thus, we can conclude that there is a statistically significant correlation between the two variables” which is an objective observation because a hypothesis testing was used and our conclusion is based on the results of a statistical test.
+
+*[Index](#Probability-and-Statistics---Main-Concepts)*
