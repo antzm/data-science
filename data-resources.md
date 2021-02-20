@@ -36,6 +36,12 @@ Resources, organized on categories, which are relevant to Data Science
 
 [A Whirlwind Tour of Python by Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython)
 
+[Python Tutorial by W3 Schools](https://www.w3schools.com/python/)
+
+[Pandas Tutorial by W3 Schools](https://www.w3schools.com/python/pandas/default.asp)
+
+[SQL Tutorial by W3 Schools](https://www.w3schools.com/sql/default.asp)
+
 
 ## Data Science Blogs
 
@@ -71,7 +77,7 @@ Resources, organized on categories, which are relevant to Data Science
 
 [Effective Writing by Nature Education](https://www.nature.com/scitable/topicpage/effective-writing-13815989/)
 
-[Effective Communication](https://www.nature.com/scitable/topicpage/effective-communication-13950970/)
+[Effective Communication by Nature Education](https://www.nature.com/scitable/topicpage/effective-communication-13950970/)
 
 [Presentation Slides by Nature Education](https://www.nature.com/scitable/topicpage/presentation-slides-13905480/)
 
