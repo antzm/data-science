@@ -861,4 +861,8 @@ But if you apply scientific methods in data analysis, then you are not making su
 
 So, if someone analyzes data based on scientific methods, this is actually Data Science. For example, a data analyst will say that “as we can see from this graph, we have a high correlation between the two variables” which is subjective, but a data scientist will say that “as we can see, the correlation coefficient is statistically significant and thus, we can conclude that there is a statistically significant correlation between the two variables” which is an objective observation because a hypothesis testing was used and our conclusion is based on the results of a statistical test.
 
+We could also differentiate between a data analyst and a data scientist by mentioning that a data analyst is focusing on analyzing existing data and presenting the resulats of what has happened in the past.
+
+On the other hand, a data scientist not only use the existing data to present what happened in the past, but it also uses scientific approaches to predict future tendencies based on those data.
+
 *[Index](#Probability-and-Statistics---Main-Concepts)*
