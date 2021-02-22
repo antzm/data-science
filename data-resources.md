@@ -12,6 +12,11 @@ Resources, organized on categories, which are relevant to Data Science
 [Statistics by Wikibooks.org](https://upload.wikimedia.org/wikipedia/commons/8/82/Statistics.pdf)
 
 
+## Data Science Books
+
+[Statistical Thinking for the 21st Century by Russell A. Poldrack](http://web.stanford.edu/group/poldracklab/statsthinking21/index.html)
+
+
 ## GitHub repositories
 
 [Python Games by Al Sweigart](https://github.com/asweigart/PythonStdioGames)
