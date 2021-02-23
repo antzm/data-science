@@ -30,6 +30,10 @@ Resources, organized on categories, which are relevant to Data Science
 
 [Python Machine Learning (3rd Ed.) by Sebastian Raschka and Vahid Mirjalili](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
 
+[Python for Data Analysis, 2nd Edition by Wes McKinney](https://github.com/wesm/pydata-book)
+
+[Python for Data Analysis, 1st Edition by Wes McKinney](https://github.com/wesm/pydata-book/tree/1st-edition)
+
 
 ## Tutorials
 
