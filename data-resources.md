@@ -3,7 +3,7 @@
 Resources, organized on categories, which are relevant to Data Science
 
 
-## Probability and Satistics
+## Probability and Satistics Books
 
 [Introduction to Probablility by Charles M. Grinstead and J. Laurie Snell](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/pdf.html)
 
@@ -11,15 +11,25 @@ Resources, organized on categories, which are relevant to Data Science
 
 [Statistics by Wikibooks.org](https://upload.wikimedia.org/wikipedia/commons/8/82/Statistics.pdf)
 
-
-## Data Science Books
-
 [Statistical Thinking for the 21st Century by Russell A. Poldrack](http://web.stanford.edu/group/poldracklab/statsthinking21/index.html)
 
 
-## GitHub repositories
+## Python Books
 
-[Python Games by Al Sweigart](https://github.com/asweigart/PythonStdioGames)
+[Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com)
+
+[Beyond the Basic Stuff with Python by Al Sweigart](https://inventwithpython.com/beyond/)
+
+[Cracking Codes with Python by Al Sweigart](https://inventwithpython.com/cracking/)
+
+[Invent Your Own Computer Games with Python by Al Sweigart](http://inventwithpython.com/invent4thed/)
+
+[Making Games with Python & Pygame by Al Sweigart](https://inventwithpython.com/pygame/)
+
+
+## Data Science Books
+
+[Python Data Science Handbook by Jake Vander Plas](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 
 ## Code repositories for books
@@ -35,13 +45,16 @@ Resources, organized on categories, which are relevant to Data Science
 [Python for Data Analysis, 1st Edition by Wes McKinney](https://github.com/wesm/pydata-book/tree/1st-edition)
 
 
+## GitHub repositories
+
+[Python Games by Al Sweigart](https://github.com/asweigart/PythonStdioGames)
+
+
 ## Tutorials
 
 [Introduction to Python by Eric Matthes](http://introtopython.org)
 
 [Python Crash Course for Non-Python Programmers by freecodecamp](https://www.freecodecamp.org/news/python-crash-course/)
-
-[Python Data Science Handbook by Jake Vander Plas](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 [A Whirlwind Tour of Python by Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython)
 
