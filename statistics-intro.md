@@ -866,3 +866,24 @@ We could also differentiate between a data analyst and a data scientist by menti
 On the other hand, a data scientist not only use the existing data to present what happened in the past, but it also uses scientific approaches to predict future tendencies based on those data.
 
 *[Index](#Probability-and-Statistics---Main-Concepts)*
+
+
+## Real cases examples - plants
+
+Below is a simplified process that is used in plants in order to select e.g., the best plant varieties, the most effective fertilization method, the proper treatment for a problem etc.
+
+Let’s say we have a wheat variety that is currently cultivated in a region and we would like to test if three new varieties are more productive or not. Assuming the existing variety is A, we could name the other three as B, C and D.
+
+Then, we choose the field where we will plant the seeds of the varieties. We cannot split a field in four because a part of the field could have more nutrients than another part and we would not be able to understand if the difference in productivity is due to the plants or to the soil which has better quality at that part.
+
+Instead, we split the field in sixteen smaller squares, and then we randomly cultivate the varieties in those squares.
+Something like this:
+
+B	D	A	C
+C	A	B	D
+A	B	D	B
+D	C	A	C
+
+This way, we remove the variability of the soil and we are actually testing how productive each variety is. And even more, we are performing our test, not one but four times. This is because, each variety is planted 4 times and the results of each small square, will be measured separately. i.e., We will not sum up the production of all the plants in the squares B but rather, we will have individual data for B1, B2, B3 and B4. This way, we are actually repeating our test 4 times, which gives more robust results.
+
+Just imagine that we cannot go to a certain region and suggest to the farmers to cultivate a new variety if we are not sure that it will provide them with better yield. Otherwise, we will be reducing the quantity of the food produced and the income of the farmers.
