@@ -38,6 +38,7 @@
 * [Multiple linear regression](#Multiple-linear-regression)
 * [Non linear regression](Non-linear-regression)
 * [Differences between Data Analysts and Data Scientists](Differences-between-Data-Analysts-and-Data-Scientists)
+* [Real case examples - plants](Real-case-examples---plants)
 
 ## Probabilities
 
@@ -868,7 +869,7 @@ On the other hand, a data scientist not only use the existing data to present wh
 *[Index](#Probability-and-Statistics---Main-Concepts)*
 
 
-## Real cases examples - plants
+## Real case examples - plants
 
 Below is a simplified process that is used in plants in order to select e.g., the best plant varieties, the most effective fertilization method, the proper treatment for a problem etc.
 
@@ -887,3 +888,7 @@ D	C	A	C
 This way, we remove the variability of the soil and we are actually testing how productive each variety is. And even more, we are performing our test, not one but four times. This is because, each variety is planted 4 times and the results of each small square, will be measured separately. i.e., We will not sum up the production of all the plants in the squares B but rather, we will have individual data for B1, B2, B3 and B4. This way, we are actually repeating our test 4 times, which gives more robust results.
 
 Just imagine that we cannot go to a certain region and suggest to the farmers to cultivate a new variety if we are not sure that it will provide them with better yield. Otherwise, we will be reducing the quantity of the food produced and the income of the farmers.
+
+In reality though, there are noumerous new varieties that are tested simultaneously, and the approach used it to perfom an ANOVA test to see if there are any varieties that are different from the existing variety. Only then, we proceed further, with more statistical tests, to find the best variety.
+
+*[Index](#Probability-and-Statistics---Main-Concepts)*
