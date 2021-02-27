@@ -2,6 +2,21 @@
 
 Resources, organized on categories, which are relevant to Data Science
 
+Index:
+Probability and Satistics Books
+Python Books
+Data Science Books
+Code repositories for books
+GitHub repositories
+Python Tutorials
+Pandas Tutorials
+SQL Tutorials
+Data Science Blogs
+Machine Learning
+Cheat Sheets
+Data Science Tools
+Effective writing and presentation skills
+
 
 ## Probability and Satistics Books
 
@@ -50,7 +65,7 @@ Resources, organized on categories, which are relevant to Data Science
 [Python Games by Al Sweigart](https://github.com/asweigart/PythonStdioGames)
 
 
-## Tutorials
+## Python Tutorials
 
 [Introduction to Python by Eric Matthes](http://introtopython.org)
 
@@ -60,7 +75,13 @@ Resources, organized on categories, which are relevant to Data Science
 
 [Python Tutorial by W3 Schools](https://www.w3schools.com/python/)
 
+
+## Pandas Tutorials
+
 [Pandas Tutorial by W3 Schools](https://www.w3schools.com/python/pandas/default.asp)
+
+
+## SQL Tutorials
 
 [SQL Tutorial by W3 Schools](https://www.w3schools.com/sql/default.asp)
 
