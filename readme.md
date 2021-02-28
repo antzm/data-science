@@ -137,6 +137,19 @@ A Data Scientist does not only analyzes the data and presents his or her results
 The main difficulty though lies in the fact, that, most of the thimes, the audience would not have any data scientist background. For this exact reason, the data scientist should be able to effectively communicate the findings to different audiences and adapt respectively the style of the presentation so that anyone would be able to understand and get the most out of the findings.
 
 
+## Learning Techniques
+
+While learning new things on Data Science, it would be useful to apply some well proven and effective methods to better assimilate and understand the new material. Thus, to be able to effectively practice and apply, step by step, this new knowledge.
+
+There is a tremendous amount of available material on any aspect of Data Science that someone would like to study and in any depth they prefer to study.
+
+For that reason, it is easy to get lost in the way by focusing on things which are less important or less relevant.
+
+To avoid such situations, someone need to decide in advance what are the most important topics that would like to study and then to procedd by studying only those topics. At a later time, when those topics have been approached and understood, it's time to proceed with some ne topics.
+
+But approaching too many topics simultaneously, it would be something overwhelming and not so useful for the overall understanding of Data Science.
+
+
 ## Contents
 
 * [Introduction to statistics](statistics-intro.md)
