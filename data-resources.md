@@ -3,19 +3,20 @@
 Resources, organized on categories, which are relevant to Data Science
 
 Index:
-Probability and Satistics Books
-Python Books
-Data Science Books
-Code repositories for books
-GitHub repositories
-Python Tutorials
-Pandas Tutorials
-SQL Tutorials
-Data Science Blogs
-Machine Learning
-Cheat Sheets
-Data Science Tools
-Effective writing and presentation skills
+
+* [Probability and Satistics Books](Probability-and-Satistics-Books)
+* [Python Books](Python-Books)
+* [Data Science Books](Data-Science-Books)
+* [Code repositories for books](Code-repositories-for-books)
+* [GitHub repositories](GitHub-repositories)
+* [Python Tutorials](Python-Tutorials)
+* [Pandas Tutorials](Pandas-Tutorials)
+* [SQL Tutorials](SQL-Tutorials)
+* [Data Science Blogs](Data-Science-Blogs)
+* [Machine Learning](Machine-Learning)
+* [Cheat Sheets](Cheat-Sheets)
+* [Data Science Tools](Data-Science-Tools)
+* [Effective writing and presentation skills](Effective-writing-and-presentation-skills)
 
 
 ## Probability and Satistics Books
