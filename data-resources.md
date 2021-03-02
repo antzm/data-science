@@ -29,6 +29,8 @@ Index:
 
 [Statistical Thinking for the 21st Century by Russell A. Poldrack](http://web.stanford.edu/group/poldracklab/statsthinking21/index.html)
 
+*[Index](Data-Science-Resources)*
+
 
 ## Python Books
 
@@ -42,10 +44,14 @@ Index:
 
 [Making Games with Python & Pygame by Al Sweigart](https://inventwithpython.com/pygame/)
 
+*[Index](Data-Science-Resources)*
+
 
 ## Data Science Books
 
 [Python Data Science Handbook by Jake Vander Plas](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+*[Index](Data-Science-Resources)*
 
 
 ## Code repositories for books
@@ -60,10 +66,14 @@ Index:
 
 [Python for Data Analysis, 1st Edition by Wes McKinney](https://github.com/wesm/pydata-book/tree/1st-edition)
 
+*[Index](Data-Science-Resources)*
+
 
 ## GitHub repositories
 
 [Python Games by Al Sweigart](https://github.com/asweigart/PythonStdioGames)
+
+*[Index](Data-Science-Resources)*
 
 
 ## Python Tutorials
@@ -76,15 +86,21 @@ Index:
 
 [Python Tutorial by W3 Schools](https://www.w3schools.com/python/)
 
+*[Index](Data-Science-Resources)*
+
 
 ## Pandas Tutorials
 
 [Pandas Tutorial by W3 Schools](https://www.w3schools.com/python/pandas/default.asp)
 
+*[Index](Data-Science-Resources)*
+
 
 ## SQL Tutorials
 
 [SQL Tutorial by W3 Schools](https://www.w3schools.com/sql/default.asp)
+
+*[Index](Data-Science-Resources)*
 
 
 ## Data Science Blogs
@@ -92,6 +108,8 @@ Index:
 [Data Science blog by Tomi Mester](https://data36.com)
 
 [Data Science articles by FreeCodeCamp](https://www.freecodecamp.org/news/tag/data-science/)
+
+*[Index](Data-Science-Resources)*
 
 
 ## Machine Learning
@@ -104,10 +122,14 @@ Index:
 
 [Introduction to Artificial Neural Networks and Deep Learning by Sebastian Raschka](https://github.com/rasbt/deep-learning-book)
 
+*[Index](Data-Science-Resources)*
+
 
 ## Cheat Sheets
 
 [Python Crash Course, 2nd Edition by Eric Matthes, Cheat Sheets](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/)
+
+*[Index](Data-Science-Resources)*
 
 
 ## Data Science Tools
@@ -116,6 +138,8 @@ Index:
 
 [nbviewer, A simple way to share Jupyter Notebooks](https://nbviewer.jupyter.org)
 
+
+*[Index](Data-Science-Resources)*
 
 ## Effective writing and presentation skills
 
@@ -126,3 +150,5 @@ Index:
 [Presentation Slides by Nature Education](https://www.nature.com/scitable/topicpage/presentation-slides-13905480/)
 
 [Oral Presentation Structure by Nature Education](https://www.nature.com/scitable/topicpage/oral-presentation-structure-13900387/)
+
+*[Index](Data-Science-Resources)*
