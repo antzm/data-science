@@ -109,6 +109,14 @@ Index:
 
 [Data Science articles by FreeCodeCamp](https://www.freecodecamp.org/news/tag/data-science/)
 
+[Statistics By Jim Frost](https://statisticsbyjim.com)
+
+[Data Science Central](https://www.datasciencecentral.com)
+
+[Simply Statistics](https://simplystatistics.org)
+
+[Data Science Report](http://starbridgepartners.com/data-science-report/)
+
 *[Index](Data-Science-Resources)*
 
 
@@ -152,3 +160,7 @@ Index:
 [Oral Presentation Structure by Nature Education](https://www.nature.com/scitable/topicpage/oral-presentation-structure-13900387/)
 
 *[Index](Data-Science-Resources)*
+
+
+## Articles on Data Science
+
