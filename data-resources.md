@@ -164,3 +164,15 @@ Index:
 
 ## Articles on Data Science
 
+
+## Data Science Datasets
+
+[Wikipedia Database Download](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
+
+[Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/)
+
+[The World Bank DataBank](https://databank.worldbank.org/home.aspx)
+
+[Open Data on AWS](https://registry.opendata.aws)
+
+[Food and agriculture data by FAO](http://www.fao.org/faostat/en/#home)
