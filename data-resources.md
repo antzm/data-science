@@ -176,3 +176,7 @@ Index:
 [Open Data on AWS](https://registry.opendata.aws)
 
 [Food and agriculture data by FAO](http://www.fao.org/faostat/en/#home)
+
+[Kaggle Datasets](https://www.kaggle.com/datasets)
+
+[Free Open Data Community by data.world](https://data.world/community/open-community/)
