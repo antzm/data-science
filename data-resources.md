@@ -17,6 +17,7 @@ Index:
 * [Cheat Sheets](Cheat-Sheets)
 * [Data Science Tools](Data-Science-Tools)
 * [Effective writing and presentation skills](Effective-writing-and-presentation-skills)
+* [Data Science Datasets](Data-Science-Datasets)
 
 
 ## Probability and Satistics Books
@@ -164,6 +165,8 @@ Index:
 
 ## Articles on Data Science
 
+*[Index](Data-Science-Resources)*
+
 
 ## Data Science Datasets
 
@@ -180,3 +183,5 @@ Index:
 [Kaggle Datasets](https://www.kaggle.com/datasets)
 
 [Free Open Data Community by data.world](https://data.world/community/open-community/)
+
+*[Index](Data-Science-Resources)*
