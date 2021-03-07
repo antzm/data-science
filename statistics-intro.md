@@ -204,6 +204,8 @@ For this reason, our data cannot vary anymore with 100 degrees of freedom and fo
 
 Continuing with our analysis, the more estimators we calculate, the more contraints we impose to our data and for this reason we lose more degrees of freedom.
 
+For example, when we calculate the variance we divide not with the number of observations, which is n, but with n-1 as we already lost 1 degree of freedom while calculating the mean.
+
 Thus, the more degrees of freedom we have in our analysis, the better, because this means that our sample is a better representation of the population.
 
 *[Index](#Probability-and-Statistics---Main-Concepts)*
@@ -260,6 +262,8 @@ As a simpler aproach, we could draw the box plot graphs for every variable of ou
 Those values are considered to ba outliers but we should fist have a look at those data to verify that these values were not entered by mistake.
 
 Then, if we verify that those values are actually correct, we will decide on how to handle them based on the analysis we plan to perform on our data.
+
+Another way to approach the concept of outliers, is to calculate the variance and the standard deviation and then to see how far away from the mean are the extreme values of our sample. Then, we will need to see how many standard deviations away from the mean are those values which we consider as possible outliers.
 
 *[Index](#Probability-and-Statistics---Main-Concepts)*
 
