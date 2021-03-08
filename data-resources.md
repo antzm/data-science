@@ -55,6 +55,11 @@ Index:
 *[Index](Data-Science-Resources)*
 
 
+## Machine Learning Books
+
+[Approaching almost any Machine Learning problem by Abhishek Thakur](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf)
+
+
 ## Code repositories for books
 
 [Python For Kids by Jason R. Briggs](https://github.com/pingskills/python-for-kids)
@@ -66,6 +71,8 @@ Index:
 [Python for Data Analysis, 2nd Edition by Wes McKinney](https://github.com/wesm/pydata-book)
 
 [Python for Data Analysis, 1st Edition by Wes McKinney](https://github.com/wesm/pydata-book/tree/1st-edition)
+
+[Approaching almost any Machine Learning problem by Abhishek Thakur](https://github.com/abhishekkrthakur/approachingalmost)
 
 *[Index](Data-Science-Resources)*
 
