@@ -1,5 +1,20 @@
 # Data Science
 
+## Repository Contents
+
+* [Introduction to statistics](statistics-intro.md)
+* [Introduction to to Excel](excel-intro.md)
+* [Introduction to Python](python-intro.md)
+* [Introduction to numpy](numpy-intro.md)
+* [Introduction to pandas](pandas-intro.md)
+* [Introduction to matplotlib](matplotlib-intro.md)
+* [Introduction to SageMaker](sagemaker-intro.md)
+* [Data Resources](data-resources.md)
+
+**More details on Statistcs**
+
+* [Degreess of Freedom](df-info.md)
+
 
 ## Introduction
 
@@ -148,14 +163,3 @@ For that reason, it is easy to get lost in the way by focusing on things which a
 To avoid such situations, someone need to decide in advance what are the most important topics that would like to study and then to procedd by studying only those topics. At a later time, when those topics have been approached and understood, it's time to proceed with some ne topics.
 
 But approaching too many topics simultaneously, it would be something overwhelming and not so useful for the overall understanding of Data Science.
-
-
-## Contents
-
-* [Introduction to statistics](statistics-intro.md)
-* [Introduction to to Excel](excel-intro.md)
-* [Introduction to Python](python-intro.md)
-* [Introduction to numpy](numpy-intro.md)
-* [Introduction to pandas](pandas-intro.md)
-* [Introduction to matplotlib](matplotlib-intro.md)
-* [Introduction to SageMaker](sagemaker-intro.md)
