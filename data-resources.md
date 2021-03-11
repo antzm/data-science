@@ -1,6 +1,6 @@
 # Data Science Resources
 
-Resources, organized on categories, which are relevant to Data Science
+**Resources, organized by category, which are relevant to Data Science**
 
 Index:
 
@@ -58,6 +58,8 @@ Index:
 ## Machine Learning Books
 
 [Approaching almost any Machine Learning problem by Abhishek Thakur](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf)
+
+*[Index](Data-Science-Resources)*
 
 
 ## Code repositories for books
@@ -145,6 +147,8 @@ Index:
 
 [Linear and Logistic Regression course by AWS](https://www.aws.training/Details/eLearning?id=26599)
 
+*[Index](Data-Science-Resources)*
+
 
 ## Cheat Sheets
 
@@ -158,6 +162,8 @@ Index:
 [Binder, open those notebooks in an executable environment](https://mybinder.org)
 
 [nbviewer, A simple way to share Jupyter Notebooks](https://nbviewer.jupyter.org)
+
+*[Index](Data-Science-Resources)*
 
 
 *[Index](Data-Science-Resources)*
