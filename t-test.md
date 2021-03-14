@@ -16,3 +16,9 @@ We construct the following hypothesis testing:
 H0: μ1 = μ2
 Η1: μ1 <> μ2
 In this case, we are using a two-sample t-test to draw our conclusions.
+
+Example 3: We ask 20 students about their grades, in the previous mathematics test they had. Then, we create a study group and a mathematician is helping those students for a week. After that, they take another mathematics test and we ask them about their grades.
+We are interest to draw conclusions if the study group had an effect on the students’ grades or not. So, we don’t care what was the grade before and after the study group but only if there was a difference in the grade. For this reason, for every student, we calculate the difference between the first and the second grade, and we would like to test if that difference was 0 or not. (Obviously, we are not interested to focus if the difference was 0 or not in the sample, but rather, if we are able to include all the students of the city in our testing, would there be any difference or not?) Thus, we use the following hypothesis testing:
+H0: μ1 = 0 (no differences in the grades of the first and second test)
+H1: μ1<>0 (there are differences in the grades of the first and the second test)
+In this case, we are using a paired-sample t-test to draw our conclusions.
