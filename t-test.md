@@ -22,3 +22,9 @@ We are interest to draw conclusions if the study group had an effect on the stud
 H0: μ1 = 0 (no differences in the grades of the first and second test)
 H1: μ1<>0 (there are differences in the grades of the first and the second test)
 In this case, we are using a paired-sample t-test to draw our conclusions.
+
+Note: In exercises, we often see that a z-test is used to draw conclusions. This implies that we have enough information about our population from previous research. In reality though, in most cases we don’t have enough information about our population, and this is why we use a t-test.
+
+For large samples though, both the z-test and the t-test will give us the same results as the t-distribution tends to become similar to a normal distribution, as it can be seen in this graph (red=normal distribution, blue=t distribution):
+
+[t-distributuion approaching normal distribution graph](https://www.desmos.com/calculator/xm56tvvalh)
