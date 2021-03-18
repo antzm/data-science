@@ -1,18 +1,5 @@
 # Data Science
 
-## Repository Contents
-
-* [Introduction to statistics](statistics-intro.md)
-	* [Degreess of Freedom](df-info.md)
-* [Introduction to to Excel](excel-intro.md)
-* [Introduction to Python](python-intro.md)
-* [Introduction to numpy](numpy-intro.md)
-* [Introduction to pandas](pandas-intro.md)
-* [Introduction to matplotlib](matplotlib-intro.md)
-* [Introduction to SageMaker](sagemaker-intro.md)
-* [Data Science Resources](data-resources.md)
-
-
 ## Introduction
 
 This is a repository with various information on Data Science. The purpose is to share some interesting, and hopefully useful information, about Data Science and to provide some basic form of guidance to everyone who starts his or her own journey in the data field.
@@ -22,6 +9,23 @@ All the information included, has been created specifically for this repository 
 Firstly, it contains basic information on statistics and then, provides basic information about some of the tools that are used in data science. There are several tools that can be used in data scinece and thus, this repo includes just a few of those tools.
 
 There are various software programs that can be used for Data Analysis and Data Science, but this repo focuses mostly on the open source solutions that are available to data analysts and data scientists.
+
+
+## Repository Contents
+
+* [Introduction to statistics](statistics-intro.md)
+	* [Degreess of Freedom](df-info.md)
+	* [z-test]()
+	* [t-test](t-test.md)
+	* [X2-test]()
+	* [F-test]()
+* [Introduction to to Excel](excel-intro.md)
+* [Introduction to Python](python-intro.md)
+* [Introduction to numpy](numpy-intro.md)
+* [Introduction to pandas](pandas-intro.md)
+* [Introduction to matplotlib](matplotlib-intro.md)
+* [Introduction to SageMaker](sagemaker-intro.md)
+* [Data Science Resources](data-resources.md)
 
 
 ## Data analysis vs data science
