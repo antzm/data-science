@@ -48,6 +48,19 @@ Index:
 *[Index](Data-Science-Resources)*
 
 
+## R Books
+
+[R for Data Science](https://r4ds.had.co.nz)
+
+[Statistics Handbook](https://bookdown.org/mpfoley1973/statistics/)
+
+[Text Mining with R](https://www.tidytextmining.com)
+
+[Statistical Inference via Data Science](https://moderndive.com)
+
+[Data Analytics Coding Fundamentals](https://bookdown.org/martin_monkman/DataAnalyticsCodingFundamentals/)
+
+
 ## Data Science Books
 
 [Python Data Science Handbook by Jake Vander Plas](https://github.com/jakevdp/PythonDataScienceHandbook)
