@@ -4,20 +4,21 @@
 
 Index:
 
-* [Probability and Satistics Books](Probability-and-Satistics-Books)
-* [Python Books](Python-Books)
-* [Data Science Books](Data-Science-Books)
-* [Code repositories for books](Code-repositories-for-books)
-* [GitHub repositories](GitHub-repositories)
-* [Python Tutorials](Python-Tutorials)
-* [Pandas Tutorials](Pandas-Tutorials)
-* [SQL Tutorials](SQL-Tutorials)
-* [Data Science Blogs](Data-Science-Blogs)
-* [Machine Learning](Machine-Learning)
-* [Cheat Sheets](Cheat-Sheets)
-* [Data Science Tools](Data-Science-Tools)
-* [Effective writing and presentation skills](Effective-writing-and-presentation-skills)
-* [Data Science Datasets](Data-Science-Datasets)
+* [Probability and Satistics Books](#Probability-and-Satistics-Books)
+* [Python Books](#Python-Books)
+* [R Books](#R-Books)
+* [Data Science Books](#Data-Science-Books)
+* [Code repositories for books](#Code-repositories-for-books)
+* [GitHub repositories](#GitHub-repositories)
+* [Python Tutorials](#Python-Tutorials)
+* [Pandas Tutorials](#Pandas-Tutorials)
+* [SQL Tutorials](#SQL-Tutorials)
+* [Data Science Blogs](#Data-Science-Blogs)
+* [Machine Learning](#Machine-Learning)
+* [Cheat Sheets](#Cheat-Sheets)
+* [Data Science Tools](#Data-Science-Tools)
+* [Effective writing and presentation skills](#Effective-writing-and-presentation-skills)
+* [Data Science Datasets](#Data-Science-Datasets)
 
 
 ## Probability and Satistics Books
@@ -52,6 +53,8 @@ Index:
 
 [R for Data Science](https://r4ds.had.co.nz)
 
+[R Cookbook, 2nd Edition](https://rc2e.com)
+
 [Statistics Handbook](https://bookdown.org/mpfoley1973/statistics/)
 
 [Text Mining with R](https://www.tidytextmining.com)
@@ -59,6 +62,8 @@ Index:
 [Statistical Inference via Data Science](https://moderndive.com)
 
 [Data Analytics Coding Fundamentals](https://bookdown.org/martin_monkman/DataAnalyticsCodingFundamentals/)
+
+*[Index](Data-Science-Resources)*
 
 
 ## Data Science Books
