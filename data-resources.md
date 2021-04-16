@@ -1,6 +1,6 @@
 # Data Science Resources
 
-**Resources, organized by category, which are relevant to Data Science**
+**Resources, relevant to Data Science, organized by category**
 
 Index:
 
@@ -120,6 +120,19 @@ Index:
 ## Pandas Tutorials
 
 [Pandas Tutorial by W3 Schools](https://www.w3schools.com/python/pandas/default.asp)
+
+### Pandas tutorials by Tomi Mester:
+
+[Pandas Tutorial 1: Pandas Basics](https://data36.com/pandas-tutorial-1-basics-reading-data-files-dataframes-data-selection/)
+
+[Pandas Tutorial 2: Aggregation and Grouping](https://data36.com/pandas-tutorial-2-aggregation-and-grouping/)
+
+[Pandas Tutorial 3: Important Data Formatting Methods](https://data36.com/pandas-tutorial-3-important-data-formatting-methods-merge-sort-reset_index-fillna/)
+
+[Pandas Tutorial 3: How to Plot a Histogram using Pandas)](https://data36.com/plot-histogram-python-pandas/)
+
+[Pandas tutorial 5: Scatter plot with pandas and matplotlib](https://data36.com/scatter-plot-pandas-matplotlib/)
+
 
 *[Index](Data-Science-Resources)*
 
