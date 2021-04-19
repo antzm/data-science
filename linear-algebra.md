@@ -18,6 +18,12 @@ A = [[3,  5, 12],
 
 This matrix, which contains both the coeffients of the unknowns and the constants of the equations, is called "Augmented Matrix"
 
-To investigate if there are solutions for this system, and to find the solutions, we need to simplify this "Augmented Matrix" to a form called "REEF"
+To investigate if there are solutions for this system, and to find the solutions, we need to simplify this "Augmented Matrix" to a form called "RREF" (Reduced Row Echelon Form).
 
 This simplified form, provides all the nessecary information needed to solve the system of linear equations, provided of course that a solution exists.
+
+In terms of coding, the process to transform a matrix to the Reduced Row Echelon Form can be easily accoplished by using the Python library sympy (Symbolic Python).
+
+The following code, shows how to accomplish this using a jupyter Notebook.
+
+![Code Print-Screen for transforming a matrix to RREF](imgs/sympy-rref.PNG)
