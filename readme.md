@@ -13,12 +13,13 @@ There are various software programs that can be used for Data Analysis and Data 
 
 ## Repository Contents
 
-* [Introduction to statistics](statistics-intro.md)
+* [Elements of Statistics](statistics-intro.md)
 	* [Degreess of Freedom](df-info.md)
 	* [z-test]()
 	* [t-test](t-test.md)
 	* [X2-test]()
 	* [F-test]()
+* [Elements of Linear Algebra](linear-algebra.md)
 * [Introduction to to Excel](excel-intro.md)
 * [Introduction to Python](python-intro.md)
 * [Introduction to numpy](numpy-intro.md)
@@ -103,7 +104,9 @@ Some basic information on a few Python libraries is included in this repository.
 
 The statistical language R, was once considered a neccesary knowldedge for data scientists but nowadays, Python provides more flexibility through numerous libraries and packages that cover almost every data scientist need.
 
-If though someone is only interested mostly in statistics, it could be easier to learn the programming language R which is great as it was created by statisticians but lack the flexibility of a real programming language like Python.
+If though someone is mostly interested in statistics, it could be easier to learn the programming language R which is great as it was created by statisticians, but it lacks the flexibility of a real programming language like Python.
+
+A great advantage of R though, is the ability to create professional looking graphics which cannot be accomplished with Python and its libraries. 
 
 
 ## SQL
