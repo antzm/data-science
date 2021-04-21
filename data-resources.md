@@ -5,6 +5,7 @@
 Index:
 
 * [Probability and Satistics Books](#Probability-and-Satistics-Books)
+* [Linear Algebra](Linear-Algebra)
 * [Python Books](#Python-Books)
 * [R Books](#R-Books)
 * [Data Science Books](#Data-Science-Books)
@@ -31,7 +32,14 @@ Index:
 
 [Statistical Thinking for the 21st Century by Russell A. Poldrack](http://web.stanford.edu/group/poldracklab/statsthinking21/index.html)
 
+[Causal Inference: The Mixtape](https://www.scunning.com/mixtape.html)
+
 *[Index](Data-Science-Resources)*
+
+
+## Linear Algebra
+
+[Step by Step Row Reduction (RREF) of Matrices](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi?c=rref)
 
 
 ## Python Books
@@ -234,3 +242,11 @@ Index:
 [Free Open Data Community by data.world](https://data.world/community/open-community/)
 
 *[Index](Data-Science-Resources)*
+
+
+## Data Science in Practise
+
+[Impact Evaluation in Practice, Second Edition by World Bank](https://openknowledge.worldbank.org/handle/10986/25030)
+
+[Europe and Central Asia Economic Update, Spring 2021 : Data, Digitalization, and Governance by World Bank](https://openknowledge.worldbank.org/handle/10986/35273)
+
